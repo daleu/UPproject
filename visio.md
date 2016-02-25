@@ -7,8 +7,7 @@
 ## 1. INTRODUCCIÓ ##
 
 L’aplicació consistirà en una gran bases de dades, on s’emmagatzemarà tota la informació dels petits comerços de Barcelona. Aquests comerços estaran classificats en diferents categories segons els producte que ofereixin.
-Els usuaris de l’aplicació, podran fer servir-la per trobar els petits comerços de proximitat. Aquests, al mateix temps aniran acumulant descomptes ens els comerços adherits a l’aplicació.
-A més, l’usuari podrà interactuar amb les xarxes socials a partir de l’aplicació, per compartir les experiències que ha tingut en els petits comerços.
+Els usuaris de l’aplicació, podran fer servir-la per trobar els petits comerços de proximitat. A més, l’usuari podrà interactuar amb les xarxes socials a partir de l’aplicació, per compartir les experiències que ha tingut en els petits comerços.
 
 ## 2. EL PROBLEMA ##
 
@@ -39,6 +38,8 @@ Afavorir el moviment de capital entre els petits comerços.
 
 
 
+
+
 ## 4. EL PRODUCTE ##
 
 ### 4.1. Perspectiva del producte ###
@@ -48,19 +49,28 @@ Es tracta de un sistema d’informació, que disposa de una BD que conté tota l
  
 > Resumiu la informació en un dibuix que esquematitzi l'arquitectura del sistema:
 
+//FEEEEEEEEEEEEEEEEEEEEEEEEEEEEER!!
+
 ![](http://www.dittoditto.com/img/screenshots/soft-arch.gif)
 
 ### 4.2. Descripció del producte ###
 > Enumereu molt breument les funcionalitats més importants (el detall estarà en altre document, el d'especificació):
 
-1. *Funcionalitat 1*. Breu descripció 
-2. *Funcionalitat 2*. Breu descripció 
-3. ...
- 
+1. Llista de comerços. 
+2. Mapa de comerços.
+3. Interacció xarxes socials.
+4. Perfil del comerç.
+5. Tags estat.
+6. Rutes temàtiques.
+7. Reviews, valoracions i favorits de comerços.
+8. Descomptes exclusius.
+9. Promocions correu.
+
+
 ### 4.3. Supòsits de funcionament ###
 > Enumereu els supòsits per a què el producti satisfaci la seva funcionalitat:
 
-1. *Supòsit 1*. Descripció 
+1. . Descripció 
 2. *Supòsit 2*. Descripció 
 3. ...
  

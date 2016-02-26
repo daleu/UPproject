@@ -59,9 +59,12 @@ Es tracta de un sistema d’informació, que disposa de una BD que conté tota l
 ### 4.3. Supòsits de funcionament ###
 > Enumereu els supòsits per a què el producti satisfaci la seva funcionalitat:
 
-1. . Descripció 
-2. *Supòsit 2*. Descripció 
-3. ...
+1. Equip professional. 
+2. Acord comerciants. 
+3. Tecnologies necessàries.
+4. Publicitat.
+5. Interacció directa usuari.
+6. App estable.
  
 ### 4.4. Dependències sobre altres sistemes ###
 > Enumereu les dependències del producte sobre altres sistemes software existents:

@@ -29,17 +29,6 @@ Afavorir el moviment de capital entre els petits comerços.
 4. Treballadors del sector App. L’aplicació obligaria una gestió i manteniment del App per part del Ajuntament.
 5. Proveïdors. Al augmentar el petit comerç crearia més necessitat per part del comerciant de disposar de més stock.
 
-
-
-
-
-
-
-
-
-
-
-
 ## 4. EL PRODUCTE ##
 
 ### 4.1. Perspectiva del producte ###
@@ -56,15 +45,15 @@ Es tracta de un sistema d’informació, que disposa de una BD que conté tota l
 ### 4.2. Descripció del producte ###
 > Enumereu molt breument les funcionalitats més importants (el detall estarà en altre document, el d'especificació):
 
-1. Llista de comerços. 
-2. Mapa de comerços.
-3. Interacció xarxes socials.
-4. Perfil del comerç.
-5. Tags estat.
-6. Rutes temàtiques.
-7. Reviews, valoracions i favorits de comerços.
-8. Descomptes exclusius.
-9. Promocions correu.
+1. Llista de comerços. Disposar de un llistat de tots els comerços adherits a l'App.
+2. Mapa de comerços. Fer servir la tecnologia GPS i Maps per mostrar els comerços proxims al usuari de l'App.
+3. Interacció xarxes socials. Donar la possibilitat de compartir l'experiència a través de les xarxes socials (Twitter, Facebook...)
+4. Perfil del comerç. Cada comerç  disposara d'un perfil amb informació que veuran els usuaris de l'App.
+5. Tags estat. En el perfil de comerç hi hauran uns tags per definir diversos estats d'aquest comerç. Com podrían ser: Rebaixes, Liquidació, Tancat, Obert...
+6. Rutes temàtiques. El usuari disposara de l'opció de fer rutes temàtiques pels comerços. Aquestes rutes variaren depenen de les estacions, celebracions...
+7. Reviews, valoracions i favorits de comerços. El usuari tindra l'opció de fer valoracions o reviews del comerç i així mateix, poder guardar-lo com a favorit.
+8. Descomptes exclusius. Com a exclusivitat de l'App, el usuari rebrà descomptes exclusius pels comerços adherits.
+9. Newsletter correu. Semanalment s'enviara una newsletter amb inforamació dels comerços (noves apertures, nous comerços adherits, ofertes...).
 
 
 ### 4.3. Supòsits de funcionament ###

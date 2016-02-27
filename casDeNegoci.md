@@ -1,6 +1,6 @@
 > Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# SISTEMA NOM - CAS DE NEGOCI #
+# BotiguesBCN - CAS DE NEGOCI #
 
 > El propòsit del document de cas de negoci és proveir la informació necessària des d'un punt de vista de negoci per decidir si val la pena tirar endavant el projecte
 
@@ -8,6 +8,8 @@
 ## 1. DESCRIPCIÓ DEL PRODUCTE ##
 
 > Breu resum (3-4 línies) de la visió del producte. Cal que sigui concordant amb el contingut del document de visió
+
+BotiguesBCN té al teu abast una APP i web on podreu trobar tota la informació dels petits comerços de la nostre ciutat, descomptes exclusius, interacció amb les xarxers socials i rutes temàtiques exclusives. El nostre producte vol que el usuari es senti atret pel petit comerç, i en consecuència disfruti d'experìències i descomptes exclusius, com per exemple, les nostres rutes temàtiques. Qualsevol persona que disposi de connexió internet podra fer servir BotiguesBCN!
 
 ## 2. CONTEXT DE NEGOCI ##
 

@@ -1,4 +1,4 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
+﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # BotiguesBCN - CAS DE NEGOCI #
 
@@ -9,7 +9,7 @@
 
 > Breu resum (3-4 línies) de la visió del producte. Cal que sigui concordant amb el contingut del document de visió
 
-BotiguesBCN té al teu abast una APP i web on podreu trobar tota la informació dels petits comerços de la nostre ciutat, descomptes exclusius, interacció amb les xarxers socials i rutes temàtiques exclusives. El nostre producte vol que el usuari es senti atret pel petit comerç, i en consecuència disfruti d'experìències i descomptes exclusius, com per exemple, les nostres rutes temàtiques. Qualsevol persona que disposi de connexió internet podra fer servir BotiguesBCN!
+BotiguesBCN té al teu abast una APP i web on podreu trobar tota la informació dels petits comerços de la nostre ciutat, descomptes exclusius, interacció amb les xarxers socials i rutes temàtiques El nostre producte vol que el usuari es senti atret pel petit comerç.
 
 ## 2. CONTEXT DE NEGOCI ##
 

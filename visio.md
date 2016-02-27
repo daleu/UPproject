@@ -69,16 +69,17 @@ Es tracta de un sistema d’informació, que disposa de una BD que conté tota l
 ### 4.4. Dependències sobre altres sistemes ###
 > Enumereu les dependències del producte sobre altres sistemes software existents:
 
-1. *Dependència 1*. Descripció 
-2. *Dependència 2*. Descripció 
-3. ...
+1. Google Maps. API d'una plataforma de localització d'ubicacions i consulta de mapes
+2. Facebook, Twitter, Instagram i més xarxes socials. La nostra app necessitara la utilització
+d'aquestes eines per poder compartir les accions que es duen a terme
+3. Base de dades. El lloc on s'emmagatzemarà tota la informació sobre els diversos comerços i accions dels usuaris
   
 ### 4.5. Altres requisits ###
 > Aquí ens referim només als requisits no funcionals (usabilitat, eficiència, ...). Poseu els més importants amb una molt breu descripció:
 
-1. *Requisit 1*. Descripció 
-2. *Requisit 2*. Descripció 
-3. ...
+1. Usabilitat. És necessari que la app sigui fàcil d'usarla ja que el ventall de tipus de gent a la que estarà 
+destina és molt ampli, i no necessariament serán persones que tinguin molta capacitat de usar les noves tecnologies
+
 
 ## 5. RECURSOS ##
 

@@ -59,12 +59,12 @@ Es tracta de un sistema d’informació, que disposa de una BD que conté tota l
 ### 4.3. Supòsits de funcionament ###
 > Enumereu els supòsits per a què el producti satisfaci la seva funcionalitat:
 
-1. Equip professional. 
-2. Acord comerciants. 
-3. Tecnologies necessàries.
-4. Publicitat.
-5. Interacció directa usuari.
-6. App estable.
+1. Equip professional. Equip compromés a realitzar aquest projecte no només pel progrés d'una ciutat sino com oportunitat de recuperar la importancia el petit comerç
+2. Acord comerciants. Fer arribar la idea a tots els propietaris del petit comerç de que el involucra-se en aquest projecte proporcionarà beneficis i més activitat als barris
+3. Tecnologies necessàries. 
+4. Publicitat. Donar-se a coneixer a totes les persones que siguin o estiguin a Barcelona dels beneficis que comporta comprar al petit comerç i com fer-ho de la millor manera
+5. Interacció directa usuari. Proporcionar mecanismes per a que l'usuari pugui oferir un feedback de millora o simplement compartir la experència cap els altres usuaris
+6. App estable. Es necessita no només una app que funcioni correctament sinò que també tingui una estabilitat en la seva manera de funcionar ja que no està destinat necessariament a gent acostumbrada a la última tecnologia 
  
 ### 4.4. Dependències sobre altres sistemes ###
 > Enumereu les dependències del producte sobre altres sistemes software existents:
@@ -77,10 +77,11 @@ d'aquestes eines per poder compartir les accions que es duen a terme
 ### 4.5. Altres requisits ###
 > Aquí ens referim només als requisits no funcionals (usabilitat, eficiència, ...). Poseu els més importants amb una molt breu descripció:
 
-1. Usabilitat. És necessari que la app sigui fàcil d'usarla ja que el ventall de tipus de gent a la que estarà 
+1. Usable. És necessari que la app sigui fàcil d'usarla ja que el ventall de tipus de gent a la que estarà 
 destina és molt ampli, i no necessariament serán persones que tinguin molta capacitat de usar les noves tecnologies
-
-
+2. Eficient. Haurà de mostrar una resposta ràpida davant la interacció del usuari, per a que estiguin més vivint el que dona la app que no pas buscant la informació.
+3. Eficaç. La aplicació haurà de inculcar correctament als usuaris que la idea de comprar al petit comerç es molt important per a fer una millor ciutat. 
+4. Segur. Les dades que introdueixen els usuaris i els propietaris dels comerços segueixin la informació vigent
 ## 5. RECURSOS ##
 
 > Si heu usat webs, documents, articles, etc., per basar el vostre document, enumereu aquí les referències tal i com es mostra aquí sota. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"

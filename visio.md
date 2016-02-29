@@ -38,9 +38,8 @@ Es tracta de un sistema d’informació, que disposa de una BD que conté tota l
  
 > Resumiu la informació en un dibuix que esquematitzi l'arquitectura del sistema:
 
-//FEEEEEEEEEEEEEEEEEEEEEEEEEEEEER!!
 
-![](http://www.dittoditto.com/img/screenshots/soft-arch.gif)
+
 
 ### 4.2. Descripció del producte ###
 > Enumereu molt breument les funcionalitats més importants (el detall estarà en altre document, el d'especificació):

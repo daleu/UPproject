@@ -38,7 +38,7 @@ Es tracta de un sistema d’informació, que disposa de una BD que conté tota l
  
 > Resumiu la informació en un dibuix que esquematitzi l'arquitectura del sistema:
 
-
+https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe80511/imatges/visio_producte.png?at=master&fileviewer=file-view-default
 
 
 ### 4.2. Descripció del producte ###

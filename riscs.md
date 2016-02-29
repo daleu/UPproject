@@ -42,6 +42,28 @@ Aplicar la seguretat apropiada per a cada tipus de dades.
 
 
 
-## RISC 002. Nom del risc (no més de 4-5 paraules) ##
+## RISC 002. Informació obsoleta o errònia##
 
-etc...
+### Descripció ###
+
+Les dades de l’aplicació han d’estar actualitzades en tot moment, per poder transmetre als usuaris la informació corresponent.
+
+### Probabilitat ###
+
+Probable.
+ 
+### Impacte ###
+
+En cas de que passi, els usuaris de l’aplicació tindran una informació errònia o des actualitzada de la situació dels diferents comerços.
+ 
+### Indicadors ###
+
+Els usuaris, al veure que l’aplicació dona una informació errònia, es poden donar de baixa.
+ 
+### Estratègies de mitigació ###
+
+Hi hauria d’haver gent (empleats, els botiguers, etc.) que mantingués les dades actualitzades en tot moment.
+ 
+### Plans de mitigació ###
+
+En cas de que es produís, s’hauria d’actualitzar la informació el més aviat possible.

@@ -75,7 +75,8 @@ En cas de que es produís, s’hauria d’actualitzar la informació el més avi
 
 ### Descripció ###
 
-
+Un projecte no es pot dur a terme si no te suficient financiació. És per això que és important 
+assegurar les fonts de financiació del projecte.
 
 ### Probabilitat ###
 

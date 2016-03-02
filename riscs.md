@@ -67,3 +67,32 @@ Hi hauria d’haver gent (empleats, els botiguers, etc.) que mantingués les dad
 ### Plans de mitigació ###
 
 En cas de que es produís, s’hauria d’actualitzar la informació el més aviat possible.
+
+
+
+
+## RISC 003. Falta de capital ##
+
+### Descripció ###
+
+
+
+### Probabilitat ###
+
+versemblant.
+
+### Impacte ###
+
+Podria paralitzar el projecte i inclus fer impossible la continuació del projecte.
+ 
+### Indicadors ###
+
+Finalització de contractes de productors. 
+ 
+### Estratègies de mitigació ###
+
+Recerca de nous productors i socis. 
+ 
+### Plans de mitigació ###
+
+Tenir al dia els productors, socis i clients per a mantenir el seu interès. 

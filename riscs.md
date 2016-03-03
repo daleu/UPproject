@@ -97,3 +97,41 @@ Recerca de nous productors i socis.
 ### Plans de mitigació ###
 
 Tenir al dia els productors, socis i clients per a mantenir el seu interès. 
+
+
+
+
+## RISC 004. Dificultat d'obtencio de dades. ##
+
+### Descripció ###
+
+Aquest projecte hauria d'oferir moltes dades de molts comercis diferents. Obtenir aquesta 
+quantitat de dades pot resultar dificil ja que s'ha de involucrar a moltes persones i els seus
+negocis.
+
+### Probabilitat ###
+
+Probable.
+ 
+### Impacte ###
+
+Podria ocasionar retards en les proves pilot i en la sortida del projecte a mercat.
+ 
+### Indicadors ###
+
+ - 
+
+### Estratègies de mitigació ###
+
+Es farà una divulgació pels barris del municipi per a incentivar que els comercis s'involucrin
+amb el projecte.
+Es facilitarà el sistema de transmisió de la informació.
+
+Aplicar la seguretat apropiada per a cada tipus de dades.
+ 
+### Plans de mitigació ###
+
+Accentuar les hores dedicades a la divulgació del projecte entre els comercis i al tractament 
+de les dades.
+
+

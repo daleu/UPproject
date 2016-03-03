@@ -1,4 +1,4 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
+﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # SISTEMA NOM - GLOSSARI #
 
@@ -16,6 +16,6 @@
 
 Per cada terme:
 
-- Terme 1: definició
+- bug: definició
 - Terme 2: definició
 - ...

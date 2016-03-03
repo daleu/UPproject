@@ -1,23 +1,15 @@
-﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
-
-# BotiguesBCN - CAS DE NEGOCI #
-
-> El propòsit del document de cas de negoci és proveir la informació necessària des d'un punt de vista de negoci per decidir si val la pena tirar endavant el projecte
+﻿# BotiguesBCN - CAS DE NEGOCI #
 
 
 ## 1. DESCRIPCIÓ DEL PRODUCTE ##
 
-> Breu resum (3-4 línies) de la visió del producte. Cal que sigui concordant amb el contingut del document de visió
-
-BotiguesBCN té al teu abast una APP i web on podreu trobar tota la informació dels petits comerços de la nostre ciutat, descomptes exclusius, interacció amb les xarxers socials i rutes temàtiques El nostre producte vol que el usuari es senti atret pel petit comerç.
+BotiguesBCN té al teu abast una APP i web on podreu trobar tota la informació dels petits comerços de la nostra ciutat, descomptes exclusius, interacció amb les xarxes socials i rutes temàtiques. El nostre producte vol que l’usuari se senti atret pel petit comerç.
 
 ## 2. CONTEXT DE NEGOCI ##
 
-> Cal descriure: quin és el sector de negoci (telecomunicacions, banc, salut, ...); és un producte de consum intern, és per vendre a un client, és per fer-ne llicències, és per vendre-hi serveis, ...? Quina vida prevista té? etc.
-
-El sector de negoci de BotiguesBCN és el comerç. Esta destinat a a la promoció del petit comerç a la ciutat de Barcelona, per tant, es tracta de un producte per vendre-hi i promocionar serveis (relacionats amb el petit comerç). Els petits comerços de Barcelona promocionaran els seus serveis per establir ventes amb els usuaris de BotiguesBCN.
-Per accedir a aquest servei, els comerciants hauran de comunicar al Ajuntament la seva intenció i amb una petita cuota anual (adherida als impostos municipals), disposaran de botiguesBCN.
-Des del llançament de la APP i web, es preveu una vida útil de 15 anys amb actualitzacions mensuals. Aquestes actualitzacions serviran per introduir nou contingut, canvis d’aspecte i correcions de bugs. La vida útil es un càlcul estimat, degut al rapid avanç de les noves tecnologies i tecnologies móvils.
+El sector de negoci de BotiguesBCN és el comerç. Esta destinada a la promoció del petit comerç a la ciutat de Barcelona, per tant, es tracta d’un producte per vendre-hi i promocionar serveis. Els petits comerços de Barcelona promocionaran els seus serveis per establir vendes amb els usuaris de BotiguesBCN.
+Per accedir a aquest servei, els comerciants hauran de comunicar a Ajuntament la seva intenció i amb una petita quota anual (adherida als impostos municipals), disposaran de botiguesBCN.
+Des del llançament de l’APP i web, es preveu una vida útil de 15 anys amb actualitzacions mensuals. Aquestes actualitzacions serviran per introduir nou contingut, canvis d’aspecte i correccions de bugs. La vida útil és un càlcul estimat, degut al ràpid avanç de les noves tecnologies i tecnologies mòbils.
 
 ## 3. OBJECTIUS DEL PRODUCTE ##
 
@@ -36,16 +28,29 @@ Des del llançament de la APP i web, es preveu una vida útil de 15 anys amb act
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 4. RESTRICCIONS ##
 
-> Enumereu les restriccions sobre les quals es desenvoluparà el producte. Poden ser restriccions de domini (abast), restriccions del projecte mateix (e.g., sobre l'equip de treball), restriccions tecnològiques, estàndards als què cal adherir-se, etc.
-
-1. Restricció de temps. Es tracta de una APP i web senzilles, probablament la tasca més ferragosa seria fer el recull de dades. El sistema hauria d’estar llest per la seguenta campanya de Nadal (2016) per poder fer una prova durant una epòca consumista.
-2. Restricció d’equip. No valdra la pena tenir els equips de desenvolupament, manteniment i direcció en diferentes localitzacions. El que si haurà de ser necessari es un equip de relacions publiques per informar a les botigues d’aquest nou sistema/plataforma.
-3. Restricció de cost. Logicament s’haura de buscar un equilibri cost/qualitat del producte. El pressupost del sistema será de ??? amb un cost variable de ???.
-4. Restricció app/web. Es treballara amb una tecnología molt concreta, per tant, necessitarem d’expertes en aquesta i respecta les seves restriccions i pautes.
-5. Restricció de publicitat. Es bastant obvi que es necessari fer publicitat del nou sistema. Es interessant buscar un bon equip de publicitat i un medi, com per exemple, al televisió.
-6. Restricció de públic. Necessitarem abarcar a un públic de diferents edats, gustos,… per així aconseguir promoure el comerç a nivell màxim. Per tant, necessitarem d’una apllicació fácil d’usar, clara ,senzilla i atractiva. La web haura de seguir els mateixos patrons i pautes.
+1. Restricció de temps. Es tracta d’una APP i web senzilles, probablement la tasca més farragosa seria fer el recull de dades. El sistema hauria d’estar llest per la següent campanya de Nadal (2016) per poder fer una prova durant una època consumista.
+2. Restricció d’equip. No valdrà la pena tenir els equips de desenvolupament, manteniment i direcció en diferents localitzacions. El que si haurà de ser necessari, és un equip de relacions públiques per informar a les botigues d’aquest nou sistema/plataforma.
+3. Restricció de cost. Lògicament s’haurà de buscar un equilibri cost/qualitat del producte. El pressupost del sistema serà de ??? amb un cost variable de ???.
+4. Restricció app/web. Es treballarà amb una tecnologia molt concreta, per tant, necessitarem d’expertes en aquesta i respecta les seves restriccions i pautes.
+5. Restricció de publicitat. És bastant obvi que és necessari fer publicitat del nou sistema. És interessant buscar un bon equip de publicitat i un medi, com per exemple, a la televisió.
+6. Restricció de públic. Necessitarem englobar a un públic de diferents edats, gustos,… per així aconseguir promoure el comerç a escala màxima. Per tant, necessitarem una aplicació fàcil d’usar, clara, senzilla i atractiva. La web haurà de seguir els mateixos patrons i pautes.
 
 ## 5. PREVISIÓ FINANCERA ##
 

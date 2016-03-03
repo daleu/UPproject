@@ -1,44 +1,32 @@
-﻿
-# BotiguesBCN - RISCS #
+﻿# BotiguesBCN - RISCS #
 
 
-> El propòsit del document de riscs és enumerar els riscs més importants, juntament amb les estratègies de mitigació i plans de contingència. Identifiqueu-ne entre 6 i 8
 
-> Els tipus més habituals són: riscs de negoci, riscs de projecte, riscs tecnològics
-
-
-## RISC 001. Atacs per robar informació (no més de 4-5 paraules) ##
+## RISC 001. Atacs per robar informació ##
 
 ### Descripció ###
 
-Les dades privades introduïdes a l'aplicació s'han de guardar amb la seguretat apropiada per a
-no permetre filtracions. 
+Les dades privades introduïdes a l'aplicació s'han de guardar amb la seguretat apropiada per a no permetre filtracions. 
 
 ### Probabilitat ###
-
-> Molt probable - probable - versemblant - poc probable - gens probable (no calen grans explicacions)
 
 Poc probable.
  
 ### Impacte ###
 
-En cas d'ocorre, ens podrien amonestar i es podria causar un gran dany als afectats.
+En cas de produir-se, ens podrien amonestar i es podria causar un gran dany als afectats.
  
 ### Indicadors ###
-
-> Quins indicadors objectius permeten saber que el risc ha ocorregut o està a punt d'ocórrer (secció opcional, de vegades no està clar)
 
 Els afectats poden denunciar la filtració.
  
 ### Estratègies de mitigació ###
 
-> Mesures per reduir la probabilitat d'ocurrència del risc
-
 Aplicar la seguretat apropiada per a cada tipus de dades.
  
 ### Plans de mitigació ###
 
-> Mesures per reduir l'impacte del risc quan es produeix
+Fer reset de les dades d’accés, per evitar usuaris no desitjats.
 
 
 
@@ -54,20 +42,22 @@ Probable.
  
 ### Impacte ###
 
-En cas de que passi, els usuaris de l’aplicació tindran una informació errònia o des actualitzada de la situació dels diferents comerços.
+En cas de produir-se, els usuaris de l’aplicació tindran una informació errònia o desactualitzada de la situació dels diferents comerços.
  
 ### Indicadors ###
 
-Els usuaris, al veure que l’aplicació dona una informació errònia, es poden donar de baixa.
+Els usuaris, en veure que l’aplicació dóna una informació errònia, es poden donar de baixa.
  
+
+
+
 ### Estratègies de mitigació ###
 
 Hi hauria d’haver gent (empleats, els botiguers, etc.) que mantingués les dades actualitzades en tot moment.
  
 ### Plans de mitigació ###
 
-En cas de que es produís, s’hauria d’actualitzar la informació el més aviat possible.
-
+En cas de produir-se, s’hauria d’actualitzar la informació com més aviat possible.
 
 
 
@@ -75,16 +65,15 @@ En cas de que es produís, s’hauria d’actualitzar la informació el més avi
 
 ### Descripció ###
 
-Un projecte no es pot dur a terme si no te suficient financiació. És per això que és important 
-assegurar les fonts de financiació del projecte.
+Un projecte no es pot dur a terme si no té suficient finançament. És per això que és important assegurar les fonts de finançament del projecte.
 
 ### Probabilitat ###
 
-versemblant.
+Versemblant.
 
 ### Impacte ###
 
-Podria paralitzar el projecte i inclus fer impossible la continuació del projecte.
+Podria paralitzar el projecte i inclús fer impossible la continuació del projecte.
  
 ### Indicadors ###
 
@@ -96,21 +85,23 @@ Recerca de nous productors i socis.
  
 ### Plans de mitigació ###
 
-Tenir al dia els productors, socis i clients per a mantenir el seu interès. 
+Tenir al dia els productors, socis i clients per a mantenir el seu interès.
 
 
-## RISC 004. Dificultat d'obtencio de dades. ##
+
+## RISC 004. Dificultat d'obtenció de dades. ##
 
 ### Descripció ###
 
-Aquest projecte hauria d'oferir moltes dades de molts comercis diferents. Obtenir aquesta 
-quantitat de dades pot resultar dificil ja que s'ha de involucrar a moltes persones i els seus
-negocis.
+Aquest projecte hauria d'oferir moltes dades de molts comerços diferents. Obtenir aquesta quantitat de dades pot resultar difícil, ja que s'ha d’involucrar a moltes persones i els seus negocis.
 
 ### Probabilitat ###
 
 Probable.
  
+
+
+
 ### Impacte ###
 
 Podria ocasionar retards en les proves pilot i en la sortida del projecte a mercat.
@@ -121,24 +112,20 @@ Podria ocasionar retards en les proves pilot i en la sortida del projecte a merc
 
 ### Estratègies de mitigació ###
 
-Es farà una divulgació pels barris del municipi per a incentivar que els comercis s'involucrin
-amb el projecte.
-Es facilitarà el sistema de transmisió de la informació.
-
+Es farà una divulgació pels barris del municipi per a incentivar que els comerços s'involucrin amb el projecte. Es facilitarà el sistema de transmissió de la informació.
 Aplicar la seguretat apropiada per a cada tipus de dades.
  
 ### Plans de mitigació ###
 
-Accentuar les hores dedicades a la divulgació del projecte entre els comercis i al tractament 
-de les dades.
+Accentuar les hores dedicades a la divulgació del projecte entre els comerços i al tractament de les dades.
 
 
 
-## RISC 005. Dependencia dels comerços. ##
+## RISC 005. Dependència dels comerços. ##
 
 ### Descripció ###
 
-Els comerços es poden descuidar o anar oblidant del sistema, cosa que farà que no actualitzin la informació.
+Els comerços es poden descuidar o anar desinteressant-se del sistema, cosa que farà que no actualitzin la informació.
 
 ### Probabilitat ###
 
@@ -146,11 +133,11 @@ Probable.
  
 ### Impacte ###
 
-Al no estar la informació actualitzada, els usuaris de l’aplicació, anirien deixant l’aplicació en desús. A més, els comerços que no actualitzin les seves dades tindran menys clients aportats per l’aplicació.
+Com la información no estarà actualitzada, els usuaris de l’aplicació, anirien deixant l’aplicació en desús. A més, els comerços que no actualitzin les seves dades tindran menys clients aportats per l’aplicació.
 
 ### Indicadors ###
 
-Decreixement del nombre d’usuaris.
+Inactivitat del nombre d’usuaris.
 
 ### Estratègies de mitigació ###
 
@@ -158,7 +145,8 @@ S’hauria d’utilitzar algun mètode que per recordar als botiguers que tingue
  
 ### Plans de mitigació ###
 
-En cas de que es produís, la informació s’hauria d’actualitzar el més aviat possible, o eliminar els comerços que no fan un bon ús del sistema.
+En cas de produir-se, la informació s’hauria d’actualitzar al més aviat possible, o eliminar els comerços que no fan un bon ús del sistema.
+
 
 
 
@@ -174,7 +162,7 @@ Probable.
  
 ### Impacte ###
 
-Els usuaris, al veure que el sistema no es seriós, es donarien de baixa, cosa que pot crear un impacte en els comerços que si que estan interessats.
+Els usuaris, en veure que el sistema no és seriós, es donarien de baixa, cosa que pot crear un impacte en els comerços que sí que estan interessats.
 
 ### Indicadors ###
 
@@ -187,4 +175,3 @@ Els comerços que es volen anunciar al sistema haurien d’estar controlats per 
 ### Plans de mitigació ###
 
 S’hauria de prendre mesures de seguretat contra els usuaris que en fessin un mal ús.
-

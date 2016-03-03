@@ -54,13 +54,12 @@ https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe
 
 ### 4.3. Supòsits de funcionament ###
 
-1. Equip professional. Equip compromés a realitzar aquest projecte no només pel progrés d'una ciutat sino com oportunitat de recuperar la importancia el petit comerç
-2. Acord comerciants. Fer arribar la idea a tots els propietaris del petit comerç de que el involucra-se en aquest projecte proporcionarà beneficis i més activitat als barris
-3. Tecnologies necessàries. 
-4. Publicitat. Donar-se a coneixer a totes les persones que siguin o estiguin a Barcelona dels beneficis que comporta comprar al petit comerç i com fer-ho de la millor manera
-5. Interacció directa usuari. Proporcionar mecanismes per a que l'usuari pugui oferir un feedback de millora o simplement compartir la experència cap els altres usuaris
-6. App estable. Es necessita no només una app que funcioni correctament sinò que també tingui una estabilitat en la seva manera de funcionar ja que no està destinat necessariament a gent acostumbrada a la última tecnologia 
- 
+
+1. Accés a Internet. Tant a la pàgina web com a la app. En el cas de la app, es necessita una connexió a internet per guardar a caché la informació que hagi consultat, d'aquesta manera 
+la app no ocupará gran espai al dispositu móvil.
+2. Sistemes Operatius nessaris: Android, iOS i Windows Phone. Són els únics que ens ofereixen una API estable realionat sobretot amb la ubicació i gestió de mapes.
+
+
 ### 4.4. Dependències sobre altres sistemes ###
 
 1. Google Maps. API d'una plataforma de localització d'ubicacions i consulta de mapes

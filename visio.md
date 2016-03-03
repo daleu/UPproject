@@ -51,14 +51,11 @@ https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe
 8. Descomptes exclusius. Com a exclusivitat de l'App, el usuari rebrà descomptes exclusius pels comerços adherits.
 9. Newsletter correu. Semanalment s'enviara una newsletter amb inforamació dels comerços (noves apertures, nous comerços adherits, ofertes...).
 
-
 ### 4.3. Supòsits de funcionament ###
-
 
 1. Accés a Internet. Tant a la pàgina web com a la app. En el cas de la app, es necessita una connexió a internet per guardar a caché la informació que hagi consultat, d'aquesta manera 
 la app no ocupará gran espai al dispositu móvil.
 2. Sistemes Operatius nessaris: Android, iOS i Windows Phone. Són els únics que ens ofereixen una API estable realionat sobretot amb la ubicació i gestió de mapes.
-
 
 ### 4.4. Dependències sobre altres sistemes ###
 
@@ -66,7 +63,6 @@ la app no ocupará gran espai al dispositu móvil.
 2. Facebook, Twitter, Instagram i més xarxes socials. La nostra app necessitara la utilització
 d'aquestes eines per poder compartir les accions que es duen a terme
 3. Base de dades. El lloc on s'emmagatzemarà tota la informació sobre els diversos comerços i accions dels usuaris
-
 
   
 ### 4.5. Altres requisits ###
@@ -79,8 +75,5 @@ destina és molt ampli, i no necessariament serán persones que tinguin molta ca
 
 ## 5. RECURSOS ##
 
-[1] 
-
-[2] recurs 2
-
-[3] ...
+[1] Evolvens Ideas S.L. Mi comercio local [en línea]. Edifici CINC, Barcelona.[Consula: 01/03/2016]. Disponible en: <http://blog.micomerciolocal.com/>
+[2] Associació del Comerç i la Industria (ACI). Associat Santa coloma [en línea]. Santa Coloma de Gramenet. [Consulta: 01/03/2016]. Disponible en: http://www.acisantacoloma.cat/

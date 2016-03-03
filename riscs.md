@@ -99,8 +99,6 @@ Recerca de nous productors i socis.
 Tenir al dia els productors, socis i clients per a mantenir el seu interès. 
 
 
-
-
 ## RISC 004. Dificultat d'obtencio de dades. ##
 
 ### Descripció ###
@@ -134,6 +132,8 @@ Aplicar la seguretat apropiada per a cada tipus de dades.
 Accentuar les hores dedicades a la divulgació del projecte entre els comercis i al tractament 
 de les dades.
 
+
+
 ## RISC 005. Dependencia dels comerços. ##
 
 ### Descripció ###
@@ -159,4 +159,32 @@ S’hauria d’utilitzar algun mètode que per recordar als botiguers que tingue
 ### Plans de mitigació ###
 
 En cas de que es produís, la informació s’hauria d’actualitzar el més aviat possible, o eliminar els comerços que no fan un bon ús del sistema.
+
+
+
+## RISC 006. Mal ús del sistema. ##
+
+### Descripció ###
+
+Es pot arribar a fer un mal ús del sistema, ja que hi poden haver usuaris que anunciïn comerços fantasma, que anunciïn comerços il·legals o que directament estiguin anunciant coses sense sentit.
+
+### Probabilitat ###
+
+Probable.
+ 
+### Impacte ###
+
+Els usuaris, al veure que el sistema no es seriós, es donarien de baixa, cosa que pot crear un impacte en els comerços que si que estan interessats.
+
+### Indicadors ###
+
+Decreixement del nombre d’usuaris.
+
+### Estratègies de mitigació ###
+
+Els comerços que es volen anunciar al sistema haurien d’estar controlats per algun equip, per evitar que es faci un mal ús de l’aplicació.
+
+### Plans de mitigació ###
+
+S’hauria de prendre mesures de seguretat contra els usuaris que en fessin un mal ús.
 

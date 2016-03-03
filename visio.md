@@ -1,17 +1,12 @@
 ﻿# BotiguesBCN - VISIÓ #
 
 
-> El propòsit del document de visió és recollir, analitzar i definir necesitats i capacitats d'alt nivell del sistema objecte del projecte. Escolliu un nom per al sistema.
-
-
 ## 1. INTRODUCCIÓ ##
 
 L’aplicació consistirà en una gran bases de dades, on s’emmagatzemarà tota la informació dels petits comerços de Barcelona. Aquests comerços estaran classificats en diferents categories segons els producte que ofereixin.
 Els usuaris de l’aplicació, podran fer servir-la per trobar els petits comerços de proximitat. A més, l’usuari podrà interactuar amb les xarxes socials a partir de l’aplicació, per compartir les experiències que ha tingut en els petits comerços.
 
 ## 2. EL PROBLEMA ##
-
-> Descrivim el problema que volem resoldre amb èmfasi en el seu impacte (sobre persones, la societat, l'economia, ...)
 
 Es vol promocionar el petit comerç de la ciutat de Barcelona. Afavorir als comerciants la promoció  i venta del seu producte.
 Que el ciutadà pugui conèixer el petit comerç de la seva ciutat, barri o proximitat. 
@@ -20,8 +15,6 @@ Incentivar la compra de proximitat i revifar alguns barris de la ciutat.
 Afavorir el moviment de capital entre els petits comerços. 
 
 ## 3. PARTS INTERESSADES ##
-
-> Descriviu totes les parts interessades en el sistema
 
 1. Comerciants. Permetria una promoció del seu negoci i afavorir a integrar-se a Internet, i també, a les xarxes socials.
 2. Clients. Ajudaria els clients a trobar i conèixer petits comerços de la ciutat i obtenir noves ofertes i descomptes.
@@ -32,17 +25,21 @@ Afavorir el moviment de capital entre els petits comerços.
 ## 4. EL PRODUCTE ##
 
 ### 4.1. Perspectiva del producte ###
-> Descriviu de quin tipus de producte estem parlant: un sistema d'informació, una app per a mòbil, un servei, un subsistema integrat en un sistema més gran, ...
 
 Es tracta de un sistema d’informació, que disposa de una BD que conté tota la informació dels petits comerços. Disposaria de una APP per mòbil i de una web que mostra aquesta informació. 
  
-> Resumiu la informació en un dibuix que esquematitzi l'arquitectura del sistema:
-
 https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe80511/imatges/visio_producte.png?at=master&fileviewer=file-view-default
 
 
+
+
+
+
+
+
+
+
 ### 4.2. Descripció del producte ###
-> Enumereu molt breument les funcionalitats més importants (el detall estarà en altre document, el d'especificació):
 
 1. Llista de comerços. Disposar de un llistat de tots els comerços adherits a l'App.
 2. Mapa de comerços. Fer servir la tecnologia GPS i Maps per mostrar els comerços proxims al usuari de l'App.
@@ -56,7 +53,6 @@ https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe
 
 
 ### 4.3. Supòsits de funcionament ###
-> Enumereu els supòsits per a què el producti satisfaci la seva funcionalitat:
 
 1. Equip professional. Equip compromés a realitzar aquest projecte no només pel progrés d'una ciutat sino com oportunitat de recuperar la importancia el petit comerç
 2. Acord comerciants. Fer arribar la idea a tots els propietaris del petit comerç de que el involucra-se en aquest projecte proporcionarà beneficis i més activitat als barris
@@ -66,26 +62,25 @@ https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe
 6. App estable. Es necessita no només una app que funcioni correctament sinò que també tingui una estabilitat en la seva manera de funcionar ja que no està destinat necessariament a gent acostumbrada a la última tecnologia 
  
 ### 4.4. Dependències sobre altres sistemes ###
-> Enumereu les dependències del producte sobre altres sistemes software existents:
 
 1. Google Maps. API d'una plataforma de localització d'ubicacions i consulta de mapes
 2. Facebook, Twitter, Instagram i més xarxes socials. La nostra app necessitara la utilització
 d'aquestes eines per poder compartir les accions que es duen a terme
 3. Base de dades. El lloc on s'emmagatzemarà tota la informació sobre els diversos comerços i accions dels usuaris
+
+
   
 ### 4.5. Altres requisits ###
-> Aquí ens referim només als requisits no funcionals (usabilitat, eficiència, ...). Poseu els més importants amb una molt breu descripció:
 
 1. Usable. És necessari que la app sigui fàcil d'usarla ja que el ventall de tipus de gent a la que estarà 
 destina és molt ampli, i no necessariament serán persones que tinguin molta capacitat de usar les noves tecnologies
 2. Eficient. Haurà de mostrar una resposta ràpida davant la interacció del usuari, per a que estiguin més vivint el que dona la app que no pas buscant la informació.
 3. Eficaç. La aplicació haurà de inculcar correctament als usuaris que la idea de comprar al petit comerç es molt important per a fer una millor ciutat. 
-4. Segur. Les dades que introdueixen els usuaris i els propietaris dels comerços segueixin la informació vigent
+4. Segur. Les dades que introdueixen els usuaris i els propietaris dels comerços segueixin la legislació vigent.
+
 ## 5. RECURSOS ##
 
-> Si heu usat webs, documents, articles, etc., per basar el vostre document, enumereu aquí les referències tal i com es mostra aquí sota. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
-
-[1] recurs 1
+[1] 
 
 [2] recurs 2
 

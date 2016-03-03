@@ -134,4 +134,29 @@ Aplicar la seguretat apropiada per a cada tipus de dades.
 Accentuar les hores dedicades a la divulgació del projecte entre els comercis i al tractament 
 de les dades.
 
+## RISC 005. Dependencia dels comerços. ##
+
+### Descripció ###
+
+Els comerços es poden descuidar o anar oblidant del sistema, cosa que farà que no actualitzin la informació.
+
+### Probabilitat ###
+
+Probable.
+ 
+### Impacte ###
+
+Al no estar la informació actualitzada, els usuaris de l’aplicació, anirien deixant l’aplicació en desús. A més, els comerços que no actualitzin les seves dades tindran menys clients aportats per l’aplicació.
+
+### Indicadors ###
+
+Decreixement del nombre d’usuaris.
+
+### Estratègies de mitigació ###
+
+S’hauria d’utilitzar algun mètode que per recordar als botiguers que tinguessin la informació actualitzada.
+ 
+### Plans de mitigació ###
+
+En cas de que es produís, la informació s’hauria d’actualitzar el més aviat possible, o eliminar els comerços que no fan un bon ús del sistema.
 

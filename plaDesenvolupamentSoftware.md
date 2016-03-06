@@ -1,4 +1,4 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
+﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # SISTEMA NOM - PLA DE DESENVOLUPAMENT DE SOFTWARE #
 
@@ -8,6 +8,17 @@
 ## 1. ORGANITZACIÓ I EQUIP ##
 
 > Descriure breument l'organització i l'equip de treball (quins rols, quants treballadors de cada rol)
+
+El sistema BotiguesBCN ha de ser senzill, eficaç i agradable d’usar. El nostre equip de treball estara organitzat respecte la seva funció sobre el desenvolupament, manteniment i supervisió del sistema.
+Distingirem entre els seguents rols de treball:
+• Desenvolupador Web.
+• Desenvolupador App.
+• Seguretat.
+• Cap de projecte.
+• Direció.
+• Relacions públices.
+• Testers.
+• Manteniment. 
 
 ## 2. PLA DE PROJECTE ##
 

@@ -28,7 +28,7 @@ Afavorir el moviment de capital entre els petits comerços.
 
 Es tracta de un sistema d’informació, que disposa de una BD que conté tota la informació dels petits comerços. Disposaria de una APP per mòbil i de una web que mostra aquesta informació. 
  
-[]!(https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe80511/imatges/visio_producte.png?at=master&fileviewer=file-view-default)
+![](https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe80511/imatges/visio_producte.png?at=master&fileviewer=file-view-default)
 
 
 

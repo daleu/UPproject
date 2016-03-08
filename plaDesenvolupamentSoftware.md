@@ -11,14 +11,15 @@
 
 El sistema BotiguesBCN ha de ser senzill, eficaç i agradable d’usar. El nostre equip de treball estara organitzat respecte la seva funció sobre el desenvolupament, manteniment i supervisió del sistema.
 Distingirem entre els seguents rols de treball:
-• Desenvolupador Web.
-• Desenvolupador App.
-• Seguretat.
-• Cap de projecte.
-• Direció.
-• Relacions públices.
-• Testers.
-• Manteniment. 
+
+• Desenvolupador Web. Encarregat de desenvolupar la web de BotiguesBCN. Hauria de tractar-se de un equip petit, d’unes 2 o 3 persones. 
+       • Desenvolupador App. Encarregat de desenvolupar la app de 	BotiguesBCN. Hauria de tractar-se de un equip petit, al igual que 	el de web, de 2 o 3 persones.
+       • Seguretat. Experts en auditorias de seguretat. Seran necessaris 	per controlar la seguretat de la web, de la app, i sobretot, de les 	dades dels botiguers i usuaris. Amb un equip de 5 persones ja en 	fariem prou.
+       • Cap de projecte. Encarregat de dirigir el projecte de 	desenvolupament de la App i la Web. Es important que aquest cap 	tingui experiencia en els dos camps i en la gestió de projectes.
+• Direcció. Encarregats de dirigir tot el projecte, tan per la banda económica, de desenvolupació, de publicitat… 
+• Relacions públices. Encarregats de promocionar la app i la web. Només será necessari un equip petit, ja que no seria difícil la realització de la campanya publicitaria.
+       • Testers. Es necessitaria un parell de persones per fer proves a 	la web i la app per trobar possibles bugs abans de llençar-la al 	mercat.
+       • Manteniment. Amb un equip petit d’experts en entorns web i app 	seria factible portar el manteniment del producte.
 
 ## 2. PLA DE PROJECTE ##
 

@@ -58,7 +58,7 @@ Usuari
 10.4 Favorites
 
 Botiguer
-11.Demanar gestions del sistema
+11. Gestions del sistema
 
 Administrador
 12. Administrar botigues
@@ -74,35 +74,35 @@ Administrador
 
 
 	Inception	Elaboration		Construction	Transition
-1.
-2.
-3.
-4.
-5.
-6.
-6.1
-6.2
-7.
-8.
-9.
-9.1
-9.2
-9.3
-10.
-10.1
-10.2
-10.3
-10.4
-11.
-12.
-12.1
-12.2
-12.3
-13.
-14.
-15.
-15.1
-15.2
-15.3
+1.										
+2.											
+3.												
+4.												
+5.												
+6. 										
+6.1										
+6.2										
+7. 										
+8. 										
+9. 										
+9.1										
+9.2										
+9.3										
+10. 										
+10.1										
+10.2										
+10.3										
+10.4										
+11. 										
+12. 										
+12.1										
+12.2										
+12.3										
+13. 										
+14. 										
+15. 										
+15.1										
+15.2										
+15.3										
 
 > - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.

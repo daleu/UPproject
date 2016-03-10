@@ -37,49 +37,56 @@ Distingirem entre els seguents rols de treball:
 a) 
 
 Usuari
-1. Log in
-2. Newsletter
-3. Visualitzar ruta
-4. Consultar temàtiques
-5. Compartir ruta visitada
-6. Visualitzar botiga
-7. Compartir experiències
-8. Compartir botiga
-9. Valorar botigues
-9.1 Donar puntuació
-9.2 Fer comentari
-9.3 Compartir valoració
-10. Llistar botigues
 
-Botiguer
-11. Gestions del sistema
-
-Administrador
-12. Administrar botigues
-13. Veure auditories del sistema
-14. Afegir noticia
-15. Administrar rutes temàtiques
-
-
-	Inception	Elaboration		Construction	Transition
-1.		0%		0%			100%			100%
-2.		0%		0%			75%			100%
-3.		0%		0%			80%			100%	
-4.		0%		0%			100%			100%		
-5.		0%		0%			85%			100%	
-6.		0%		0%			100%			100%
-7. 		0%		0%			90%			100%
-8. 		0%		0%			85%			100%
-9. 		0%		0%			100%			100%
-9.1		0%		0%			100%			100%
-9.2		0%		0%			95%			100%
-9.3		0%		0%			90%			100%
-10. 		0%		15%			95%			100%
-11. 		0%		0%			100%			100%
-12.		0%		0%			100%			100%
-13. 		0%		0%			95%			100%
-14. 		0%		0%			100%			100%
-15. 		0%		0%			100%			100%
-										
+1. Log in                             10.3 Per proximitat
+2. Newsletter                         10.4 Favorites
+3. Visualitzar ruta                  
+4. Consultar temàtiques               Botiguer
+5. Compartir ruta visitada            11. Gestions del sistema
+6. Visualitzar botiga                
+6.1 Consultar ofertes i descomptes    Administrador
+6.2 Guardar botiga com a favorit      12. Administrar botigues
+7. Compartir experiències             12.1 Afegir botigues
+8. Compartir botiga                   12.2 Editar botigues
+9. Valorar botigues                   12.3 Eliminar botigues
+9.1 Donar puntuació                   13. Veure auditories del sistema
+9.2 Fer comentari                     14. Afegir noticia
+9.3 Compartir valoració               15. Administrar rutes temàtiques
+10. Llistar botigues                  15.1 Afegir rutes
+10.1 Per descomptes                   15.2 Editar rutes
+10.2 Per tipus de botiga              15.3 Eliminar rutes
+ 
+     Inception       Elaboration     Construction     Transition
+1.   	Esboçat		Refinat         Complert        Complert
+2.   	Identificat	Esboçat         Complert        Complert  
+3.   	Esboçat		Analitzat       Refinat         Complert       
+4.   	Identificat	Esboçat         Refinat         Complert       
+5.   	Identificat	Esboçat         Refinat         Complert
+6.   	Esboçat		Analitzat       Refinat         Complert
+6.1  	Esboçat		Analitzat       Refinat         Complert
+6.2  	Identificat     Esboçat         Refinat         Complert
+7.   	Identificat     Esboçat         Refinat         Complert  
+8.   	Identificat     Esboçat         Refinat         Complert
+9.   	Identificat     Analitzat       Complert        Complert
+9.1  	Identificat     Esboçat         Refinat         Complert       
+9.2  	Identificat     Esboçat         Refinat         Complert
+9.3  	Identificat	Esboçat         Refinat         Complert
+10. 	Esboçat         Analitzat       Complert        Complert
+10.1 	Esboçat         Analitzat       Complert        Complert
+10.2 	Esboçat         Analitzat       Complert        Complert
+10.3 	Esboçat         Analitzat       Complert        Complert
+10.4 	Esboçat         Analitzat       Complert        Complert
+11. 	Refinat         Complert        Complert        Complert
+12. 	Esboçat         Analitzat       Complert        Complert
+12.1 	Identificat     Esboçat         Complert        Complert
+12.2 	Identificat     Esboçat         Complert        Complert
+12.3 	Identificat     Esboçat         Complert        Complert
+13. 	Identificat     Esboçat         Complert        Complert
+14. 	Identificat     Esboçat         Complert        Complert
+15.	Identificat     Esboçat         Complert        Complert
+15.1 	Identificat     Esboçat         Complert        Complert
+15.2 	Identificat     Esboçat         Complert        Complert
+15.3 	Identificat     Esboçat         Complert        Complert
+									
 
 > - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.

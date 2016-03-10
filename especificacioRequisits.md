@@ -1,4 +1,4 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
+﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # SISTEMA NOM - ESPECIFICACIÓ DE REQUISITS DEL SOFTWARE #
 
@@ -43,3 +43,6 @@
 ## 2. ESPECIFICACIÓ NO FUNCIONAL ##
 
 > Descriure en més detall els requisits no funcionals que han sortit al document de visió, intentant fer-los el més quantificables possible. Basar-se en alguna plantilla d'especificació de requisits
+
+## 2. MockUps##
+

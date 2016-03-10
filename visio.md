@@ -70,8 +70,7 @@ d'aquestes eines per poder compartir les accions que es duen a terme
 1. Usable. És necessari que la app sigui fàcil d'usarla ja que el ventall de tipus de gent a la que estarà 
 destina és molt ampli, i no necessariament serán persones que tinguin molta capacitat de usar les noves tecnologies
 2. Eficient. Haurà de mostrar una resposta ràpida davant la interacció del usuari, per a que estiguin més vivint el que dona la app que no pas buscant la informació.
-3. Eficaç. La aplicació haurà de inculcar correctament als usuaris que la idea de comprar al petit comerç es molt important per a fer una millor ciutat. 
-4. Segur. Les dades que introdueixen els usuaris i els propietaris dels comerços segueixin la legislació vigent.
+3. Segur. Les dades que introdueixen els usuaris i els propietaris dels comerços segueixin la legislació vigent.
 
 ## 5. RECURSOS ##
 

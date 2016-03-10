@@ -43,8 +43,6 @@ Usuari
 4. Consultar temàtiques
 5. Compartir ruta visitada
 6. Visualitzar botiga
-6.1 Consultar ofertes i descomptes
-6.2 Guardar botiga com a favorit
 7. Compartir experiències
 8. Compartir botiga
 9. Valorar botigues
@@ -52,57 +50,36 @@ Usuari
 9.2 Fer comentari
 9.3 Compartir valoració
 10. Llistar botigues
-10.1 Per descomptes
-10.2 Per tipus de botiga
-10.3 Per proximitat
-10.4 Favorites
 
 Botiguer
 11. Gestions del sistema
 
 Administrador
 12. Administrar botigues
-12.1 Afegir botigues
-12.2 Editar botigues
-12.3 Eliminar botigues
 13. Veure auditories del sistema
 14. Afegir noticia
 15. Administrar rutes temàtiques
-15.1 Afegir rutes
-15.2 Editar rutes
-15.3 Eliminar rutes
 
 
 	Inception	Elaboration		Construction	Transition
-1.										
-2.											
-3.												
-4.												
-5.												
-6. 										
-6.1										
-6.2										
-7. 										
-8. 										
-9. 										
-9.1										
-9.2										
-9.3										
-10. 										
-10.1										
-10.2										
-10.3										
-10.4										
-11. 										
-12. 										
-12.1										
-12.2										
-12.3										
-13. 										
-14. 										
-15. 										
-15.1										
-15.2										
-15.3										
+1.		0%		0%			100%			100%
+2.		0%		0%			75%			100%
+3.		0%		0%			80%			100%	
+4.		0%		0%			100%			100%		
+5.		0%		0%			85%			100%	
+6.		0%		0%			100%			100%
+7. 		0%		0%			90%			100%
+8. 		0%		0%			85%			100%
+9. 		0%		0%			100%			100%
+9.1		0%		0%			100%			100%
+9.2		0%		0%			95%			100%
+9.3		0%		0%			90%			100%
+10. 		0%		15%			95%			100%
+11. 		0%		0%			100%			100%
+12.		0%		0%			100%			100%
+13. 		0%		0%			95%			100%
+14. 		0%		0%			100%			100%
+15. 		0%		0%			100%			100%
+										
 
 > - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.

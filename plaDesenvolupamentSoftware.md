@@ -9,17 +9,20 @@
 
 > Descriure breument l'organització i l'equip de treball (quins rols, quants treballadors de cada rol)
 
-El sistema BotiguesBCN ha de ser senzill, eficaç i agradable d’usar. El nostre equip de treball estara organitzat respecte la seva funció sobre el desenvolupament, manteniment i supervisió del sistema.
+El sistema BotiguesBCN ha de ser senzill, eficaç i agradable d’usar. El nostre projecte consisteix en el desenvolupament i manteniment de una aplicació mòvil i web, per tant, el nostre equip haurà de ser especialista en aquest àmbit.
+El nostre equip de treball estara organitzat respecte la seva funció sobre el desenvolupament, manteniment i supervisió del sistema.
 Distingirem entre els seguents rols de treball:
 
-• Desenvolupador Web. Encarregat de desenvolupar la web de BotiguesBCN. Hauria de tractar-se de un equip petit, d’unes 2 o 3 persones. 
-       • Desenvolupador App. Encarregat de desenvolupar la app de 	BotiguesBCN. Hauria de tractar-se de un equip petit, al igual que 	el de web, de 2 o 3 persones.
-       • Seguretat. Experts en auditorias de seguretat. Seran necessaris 	per controlar la seguretat de la web, de la app, i sobretot, de les 	dades dels botiguers i usuaris. Amb un equip de 5 persones ja en 	fariem prou.
-       • Cap de projecte. Encarregat de dirigir el projecte de 	desenvolupament de la App i la Web. Es important que aquest cap 	tingui experiencia en els dos camps i en la gestió de projectes.
-• Direcció. Encarregats de dirigir tot el projecte, tan per la banda económica, de desenvolupació, de publicitat… 
-• Relacions públices. Encarregats de promocionar la app i la web. Només será necessari un equip petit, ja que no seria difícil la realització de la campanya publicitaria.
-       • Testers. Es necessitaria un parell de persones per fer proves a 	la web i la app per trobar possibles bugs abans de llençar-la al 	mercat.
-       • Manteniment. Amb un equip petit d’experts en entorns web i app 	seria factible portar el manteniment del producte.
+Cap del projecte. Es la persona responsable de gestionar el projecte. Es necessita de molta experiència i coneixements en el camp dels projectes.
+Arquitecte (Cap Tècnic). Es la persona responsable de crear un entorn de treball on la gent es trobi a gust i autoritzada per fer qualsevol de les seves tasques o responsabilitats.
+Disenyador. Es la persona encarregada de transformar els requisits del usuari en un disseny arquitectònic que proveira d'especificacions als programadors.
+Programador Semi-Senior. Programador amb experiència i especialista en diversos camps. Té capacitat de treball autonom i qualitat en programar.
+Analista Funcional. Es la persona responsable de supervisar el desenvolupament de la aplicació mòvil i web. Assegurant-se la màxima explotació del entorn i que disposi de un rediment òptim.
+Analista de Xarxes. Es la persona responsable de dissenyar i gestionar la seguretat de la Xarxa que usara l'aplicació.
+Administrador Base de Dades. Es la persona responsable dels aspectes d'entorn de la Base de Dades que utilitzara l'aplicació.
+Tester.
+
+Manteniment. Amb un equip petit d’experts en entorns web i app 	seria factible portar el manteniment del producte.
 
 ## 2. PLA DE PROJECTE ##
 

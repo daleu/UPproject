@@ -44,6 +44,12 @@
 
 > Descriure en més detall els requisits no funcionals que han sortit al document de visió, intentant fer-los el més quantificables possible. Basar-se en alguna plantilla d'especificació de requisits
 
+1. *Usable*. La nostra aplicació haurà de ser usable. Amb la paraula usable, ens referim a que la nostra aplicació haurà d'oferir als usuaris una forma fàcil d'interactuar amb el sistema, ja sigui a partir d'una interficie gràfica on tot es veigui amb claredat, com que els usuaris no els calgui interaccionar gaire amb el sistema per trobar alló que estan buscant. 
+
+2. *Eficient*. Necessitem que els usuaris no deixin d'utilitzar la nostra aplicació. Per aixó, creiem que la nostra aplicació haurà d'assegurar respostes ràpides a les demandes de tots els clients en tot moment.
+
+3. *Segur*. La nostra aplicació haurà d'oferir als usuaris una protecció de totes les dades que introdueixin. No només als ciutadans, sino que la informació de les botigues també haurà d'estar protegida pel nostre sistema.
+
 ## 2. MockUps##
 
 Llista Botigues:

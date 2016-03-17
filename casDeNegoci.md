@@ -54,14 +54,14 @@ Des del llançament de l’APP i web, es preveu una vida útil de 15 anys amb ac
 
 ## 5. PREVISIÓ FINANCERA ##
 
-Donat el fet que partim del suposit que ens contracta o subvenciona l'ajuntament de la ciutat on estem treballant, podem asumir que gran part dels guanys que obtindriem serien de la inversió de l'ajuntament.
+Donat el fet que partim del supòsit que ens contracta o subvenciona l'ajuntament de la ciutat on estem treballant, podem assumir que gran part dels guanys que obtindríem serien de la inversió de l'ajuntament.
 
-Aquest pagament serà previament pactat amb l'ajuntament i succeirà amb concordancia al desenvolupament del projecte. Es així que es rebrà uns pagaments inicials per a començar el projecte i es finalitzarà amb el pagament total del preu acordat al finalitzar el desenvolupament del projecte.
+Aquest pagament serà prèviament pactat amb l'ajuntament i succeirà amb concordança al desenvolupament del projecte. És així que es rebrà uns pagaments inicials per a començar el projecte i es finalitzarà amb el pagament total del preu acordat al finalitzar el desenvolupament del projecte.
 
-Aquest projecte vol dinamitzar una economia que degut a les seves caracteristiques té certes dificultats en el mercat actual. Per això, volem oferir un servei de qualitat que permeti als seus usuaris trobar productes i serveis propers. 
-D'aquesta forma es podria a ajudar a dinamitzar el comerç en alguns barris. Inclus incentivar el sentiment de barri fent les seves botígues locals mes visibles als seus veins. 
+Aquest projecte vol dinamitzar una economia que a causa de les seves característiques té certes dificultats en el mercat actual. Per això, volem oferir un servei de qualitat que permeti als seus usuaris trobar productes i serveis propers. 
+D'aquesta forma es podria a ajudar a dinamitzar el comerç en alguns barris. Inclús incentivar el sentiment de barri fent les seves botigues locals més visibles als seus veïns. 
 
-Es probable, per això, que es busquin altres fonts d'ingressos de entitats o empreses que puguin estar interessades en propiciar el bon desenvolupament del projecte.
+És probable, per això, que es busquin altres fonts d'ingressos d'entitats o empreses que puguin estar interessades a propiciar el bon desenvolupament del projecte.
 
 
 > Si el producte és per comercialitzar, el cas de negoci ha d'incloure un conjunt de supòsits sobre el projecte (p.e., nombre potencial de compradors/clients) i una previsió de guanys (a partir de quin moment començarem a recuperar la inversió, i quin serà el guany anual a partir d'aquell moment). Aquesta previsió necessitarà saber el cost del projecte, per la qual cosa aquest apartat no es pot completar fins tenir aquesta dada. A més, és la típica secció que s'anirà actualitzant contínuament (i.e., després de cada iteració UP)

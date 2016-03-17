@@ -15,9 +15,13 @@ Des del llançament de l’APP i web, es preveu una vida útil de 15 anys amb ac
 
 > Enumereu els objectius que pretèn cobrir el sistema
 
-1. *Objectiu 1*. Descripció 
-2. *Objectiu 2*. Descripció 
-3. ...
+1. *Augmentar el nombre de clients dels petits comerços*. Aquest serà l'objectiu principal de la nostra aplicació. Com ja sabeu, a Barcelona tenim el problema de les grans empreses, que fan un monopoli de clients, deixant així els petits comerços sense clients. El nostre objectiu serà fer una promoció d'aquests, de forma que augmenti la seva clientela.
+
+2. *Donar als ciutadans productes de qualitat*. Els ciutadans, tendeixen a comprar a grans empreses, com per exemple Mercadona, sense saber que al costat de casa poden  trobar productes de qualitat. Els petits comerços, tenen la característica de tenir molts productes artesanals, cosa que els fa e més qualitat.
+
+3. *Oferir descomptes en els petits comerços*. El nostre producte, a part d'oferir una promoció dels petits comerços, també oferirà descomptes als ciutadans, en els comerços que així o vulguin. Aquest objectiu, no només fa que els clients dels comerços aconsegueixin un descompte en les compres, sinó que també aconsegueix més promoció dels comerços.
+
+4. *Donar treball a persones que no en tenen*. Amb el llançament del producte, podriem disminuir minimament la taxa d'atur en que ens trobem ara. En primer lloc, es necessitarà gent que gestioni el sistema. Per altra banda, si els petits comerços augmenten les seves vendes, necessitaran més personal per atendre els clients.
 
 
 
@@ -46,10 +50,15 @@ Des del llançament de l’APP i web, es preveu una vida útil de 15 anys amb ac
 ## 4. RESTRICCIONS ##
 
 1. Restricció de temps. Es tracta d’una APP i web senzilles, probablement la tasca més farragosa seria fer el recull de dades. El sistema hauria d’estar llest per la següent campanya de Nadal (2016) per poder fer una prova durant una època consumista.
+
 2. Restricció d’equip. No valdrà la pena tenir els equips de desenvolupament, manteniment i direcció en diferents localitzacions. El que si haurà de ser necessari, és un equip de relacions públiques per informar a les botigues d’aquest nou sistema/plataforma.
+
 3. Restricció de cost. Lògicament s’haurà de buscar un equilibri cost/qualitat del producte. El pressupost del sistema serà de ??? amb un cost variable de ???.
+
 4. Restricció app/web. Es treballarà amb una tecnologia molt concreta, per tant, necessitarem d’expertes en aquesta i respecta les seves restriccions i pautes.
+
 5. Restricció de publicitat. És bastant obvi que és necessari fer publicitat del nou sistema. És interessant buscar un bon equip de publicitat i un medi, com per exemple, a la televisió.
+
 6. Restricció de públic. Necessitarem englobar a un públic de diferents edats, gustos,… per així aconseguir promoure el comerç a escala màxima. Per tant, necessitarem una aplicació fàcil d’usar, clara, senzilla i atractiva. La web haurà de seguir els mateixos patrons i pautes.
 
 ## 5. PREVISIÓ FINANCERA ##

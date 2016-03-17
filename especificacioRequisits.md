@@ -46,3 +46,18 @@
 
 ## 2. MockUps##
 
+Llista Botigues:
+
+![](./imatges/MockUps/MockUPLlista.png)
+
+Llista Rutes Temàtiques:
+
+![](./imatges/MockUps/MockUPLlistaRutesTematiques.png)
+
+Vista Botiga:
+
+![](./imatges/MockUps/MockUPBotiga.png)
+
+Vista Perfil:
+
+![](./imatges/MockUps/MockUPPerfil.png)

@@ -18,7 +18,7 @@
 
 > Si creieu que us ajuda a la legibilitat, podeu agrupar casos d'ús similars en paquets
 
-![](http://agilemodeling.com/images/style/useCaseOnlineShopping.gif)
+![](./imatges/CasdUs.png)
 
 > A més, per cada cas d'ús, una descripció d'una o dues línies (fins i tot si el nom és prou auto-explicatiu, pot no ser necessari)
 
@@ -48,7 +48,7 @@
 
 Llista Botigues:
 
-![](./imatges/MockUps/MockUPLlista.png)
+![](./imatges/MockUps/MockUPLlistaBotigues.png)
 
 Llista Rutes Temàtiques:
 

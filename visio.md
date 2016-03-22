@@ -62,7 +62,7 @@ la app no ocupará gran espai al dispositu móvil.
 1. Google Maps. API d'una plataforma de localització d'ubicacions i consulta de mapes
 2. Facebook, Twitter, Instagram i més xarxes socials. La nostra app necessitara la utilització
 d'aquestes eines per poder compartir les accions que es duen a terme
-3. Base de dades. El lloc on s'emmagatzemarà tota la informació sobre els diversos comerços i accions dels usuaris
+3. Telerik. Plataforma que ajuda a poder desenvolupar l'app de mòvil en els diferents sistemes operatius que existeixen
 
   
 ### 4.5. Altres requisits ###

@@ -3,6 +3,7 @@
 
 ## 1. DESCRIPCIÓ DEL PRODUCTE ##
 
+Som una empresa contractada per l'Ajuntament de Barcelona per desenvolupar i portar a terme el nou projecte de comerç, BotiguesBCN.
 BotiguesBCN té al teu abast una APP i web on podreu trobar tota la informació dels petits comerços de la nostra ciutat, descomptes exclusius, interacció amb les xarxes socials i rutes temàtiques. El nostre producte vol que l’usuari se senti atret pel petit comerç.
 
 ## 2. CONTEXT DE NEGOCI ##

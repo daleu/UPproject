@@ -11,6 +11,7 @@ BotiguesBCN té al teu abast una APP i web on podreu trobar tota la informació 
 El sector de negoci de BotiguesBCN és el comerç. Esta destinada a la promoció del petit comerç a la ciutat de Barcelona, per tant, es tracta d’un producte per vendre-hi i promocionar serveis. Els petits comerços de Barcelona promocionaran els seus serveis per establir vendes amb els usuaris de BotiguesBCN.
 Per accedir a aquest servei, els comerciants hauran de comunicar a Ajuntament la seva intenció i amb una petita quota anual (adherida als impostos municipals), disposaran de botiguesBCN.
 Des del llançament de l’APP i web, es preveu una vida útil de 15 anys amb actualitzacions mensuals. Aquestes actualitzacions serviran per introduir nou contingut, canvis d’aspecte i correccions de bugs. La vida útil és un càlcul estimat, degut al ràpid avanç de les noves tecnologies i tecnologies mòbils.
+Una part molt important d'aquest projecte es aconsseguir una plena satisfacció del ajuntament. Nosaltres som una empresa contractada, i per tant, necessitem rebre un feeback positiu per part del ajuntament de cara a futurs projectes. Perquè això succeixi em de tenir en compte totes les clausules, condicions i requirements que ens demanim de cara el projecte, i per tant, a la app web i mòvil de BotiguesBCN.
 
 ## 3. OBJECTIUS DEL PRODUCTE ##
 

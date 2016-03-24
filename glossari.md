@@ -16,8 +16,11 @@
 
 Per cada terme:
 
-- bug: definició
+- bug: definició¿?
 - Ruta Temàtica: Ruta que recomana l'aplicació que consisteix en diseñar un camí pels diferents barris de Barcelona on et guia per diferents
 locals i comerços del tipus que el tema de la ruta indica. D'aquesta manera l'usuari pot anar visitant un a un aquells comerços suggerits i
 marcar que esta seguint la ruta fins a poder completarla. Aquestes rutes són de tipus temporals i abastan tot tipus d'àmbits del comerç de Barcelona.
-- ...
+- Oferta:
+- Descompte:
+- Diferencia Oferta/Descompte
+

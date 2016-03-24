@@ -1,6 +1,6 @@
 ﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# SISTEMA NOM - ESPECIFICACIÓ DE REQUISITS DEL SOFTWARE #
+# BotiguesBCN - ESPECIFICACIÓ DE REQUISITS DEL SOFTWARE #
 
 
 > El propòsit del document d'especificació de requisits és presentar el detall dels requisits del sistema. És un document evolutiu, atès que el nombre i detall dels requisits creix a mida que s'avança en el projecte

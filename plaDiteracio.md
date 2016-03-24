@@ -1,6 +1,6 @@
 > Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# SISTEMA NOM - PLA D'ITERACIÓ *la que sigui* #
+# BotiguesBCN - PLA D'ITERACIÓ *la que sigui* #
 
 > El propòsit del document d'iteració és descriure en detall la planificació de la següent iteració. Tindrem, doncs, un document per cada iteració. El document es fa tot just abans d'iniciar la iteració
 

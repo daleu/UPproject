@@ -1,6 +1,4 @@
-﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
-
-# SISTEMA NOM - PLA DE DESENVOLUPAMENT DE SOFTWARE #
+﻿# BotiguesBCN - PLA DE DESENVOLUPAMENT DE SOFTWARE #
 
 > El propòsit del document de pla de desenvolupament de software és determinar l'esforç, cost i calendari a nivell de projecte (distingint només les 4 fases)
 

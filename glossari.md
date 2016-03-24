@@ -1,6 +1,6 @@
 ﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# SISTEMA NOM - GLOSSARI #
+# BotiguesBCN - GLOSSARI #
 
 
 > El glossari llista els termes del domini que són claus en el sistema. 

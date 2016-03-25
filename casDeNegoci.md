@@ -59,9 +59,7 @@ Una part molt important d'aquest projecte es aconsseguir una plena satisfacció 
 
 4. Restricció app/web. Es treballarà amb una tecnologia molt concreta, per tant, necessitarem d’expertes en aquesta i respecta les seves restriccions i pautes.
 
-5. Restricció de publicitat. És bastant obvi que és necessari fer publicitat del nou sistema. És interessant buscar un bon equip de publicitat i un medi, com per exemple, a la televisió.
-
-6. Restricció de públic. Necessitarem englobar a un públic de diferents edats, gustos,… per així aconseguir promoure el comerç a escala màxima. Per tant, necessitarem una aplicació fàcil d’usar, clara, senzilla i atractiva. La web haurà de seguir els mateixos patrons i pautes.
+5. Restricció de públic. Necessitarem englobar a un públic de diferents edats, gustos,… per així aconseguir promoure el comerç a escala màxima. Per tant, necessitarem una aplicació fàcil d’usar, clara, senzilla i atractiva. La web haurà de seguir els mateixos patrons i pautes.
 
 ## 5. PREVISIÓ FINANCERA ##
 

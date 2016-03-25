@@ -27,6 +27,17 @@ Administrador Base de Dades. Es la persona responsable dels aspectes d'entorn de
 
 Tester. Es la persona responsable de realitzar proves a l'aplicació i reporta els seus errors abans de la sortida d'aquesta al públic.
 
+|Rol|Personaes| 
+|---|---|
+|Cap del projecte|1|
+|Arquitecte|1|
+|Dissenyador|1|
+|Programador Semi-Senior|4|
+|Analista Funcional|1|
+|Analista de Xarxes|1|
+|Administrador Base de Dades|1|
+|Tester|10|
+
 ## 2. PLA DE PROJECTE ##
 
 ### 2.1. Estimació d'esforç ###

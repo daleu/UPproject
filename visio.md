@@ -67,10 +67,24 @@ d'aquestes eines per poder compartir les accions que es duen a terme
   
 ### 4.5. Altres requisits ###
 
-1. *Usable*. És necessari que la app sigui fàcil d'usarla ja que el ventall de tipus de gent a la que estarà.
-destina és molt ampli, i no necessariament serán persones que tinguin molta capacitat de usar les noves tecnologies
-2. *Eficient*. Haurà de mostrar una resposta ràpida davant la interacció del usuari, per a que estiguin més vivint el que dona la app que no pas buscant la informació.
-3. *Segur*. Les dades que introdueixen els usuaris i els propietaris dels comerços segueixin la legislació vigent.
+1. *Aparença*. El produte ha de ser atractiu per a tots els seus usuaris.
+2. *Estil*. El producte haurà de mostrar un estil que atregui més usuaris.
+3. *Usable*. El producte ha de ser fàcil d'utilitzar per a tots els sues usuaris.
+4. *Internacional*. El producte permetrà que els seus usuaris puguin triar el llenguatge.
+5. *Comprensible*. El producte utilitzara simbols i paraules comprensibles per tots els seus usuaris.
+6. *Cortesia*. L'usuari no mostrarà als seus usuaris com ha estat implementat.
+7. *Accesibilitat*. El producte serà usable per a persones amb discapacitats, com ara vidents.
+8. *Velocitat*. El producte permetrà a l'usuari fer les consultes/accions en un temps suficientment ràpid.
+9. *Seguretat*. Les dades dels usuaris estràn protegies en tot moment de qualsevol persona que no estigui autoritzada per visualitzarles.
+10. *Disponibilitat*. El producte estarà disponible les 24 hores del dia, tots els dies de l'any, exceptuant els moments que es trovi en manutenció.
+11. *Fortaleza*. El producte continuarà funcionant, quan es perdi la connexió a internet, en mode local.
+12. *Capacitat*. El producte permetrà l'acces simultani de 20000 pesones.
+13. *Interficie*. El producte es podrà comunicar amb sistemes de geolocalització del nostre dispositiu.
+14. *Manteniment*. El producte permetrà que els seus usuaris actualitzin les seves dades i que els botiguers puguin penjar ofertes en tot moment.
+15. *Suport*. El producte ofereirà servei de soport les 24 hores tots els dies de l'any per si els usuaris tenen algun problema.
+16. *Adaptabilitat*. El producte estarà disponible per Windows Phone, IOS, Andrioid i tindrà servei web.
+17. *Integritat* El producte haurà de previndre l'introducció de dades incorrectes.
+18. *Privacitat* Els usuaris s'informaràn de tots els usos que tindràn les seves dades.
 
 ## 5. RECURSOS ##
 

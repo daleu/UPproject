@@ -38,6 +38,7 @@ Distingirem entre els seguents rols de treball:
 > Calcular el nombre d'hores del projecte. Useu un excel o altra eina per calcular UCPs i convertir a hores. Copieu aquí les taules (però entregueu també l'excel!)
 
 ESTIMACIÓ TFC
+
 |Descripció|Pes|Prioritat|
 |---|---|---|
 |Sistema distribuït|1|5|
@@ -52,6 +53,19 @@ ESTIMACIÓ TFC
 |Característiques especials de seguretat|1|5|
 |Accés directe desde tercers|1|5|
 |Es necessiten usuaris experts o entrenats|-1|3|
+
+ESTIMACIÓ EFC	
+
+|Factor d'Entorn|Pes|Avaluació|
+|---|---|---|
+|Capacitat analistica|0.5|3|
+|Dificultat del llenguatge de programació|-1|2|
+|Estabilitat dels requisits|2|3|
+|Experiència en l'aplicació|0.5|3|
+|Experiència en Orientació a Objectes|1|3|
+|Familiarització amb l'UML|1.5|2|
+|Motivació|1|2|
+|Treball a temps parcial|-1|1|
 
 ### 2.2. Estimació de cost ###
 

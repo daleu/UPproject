@@ -54,6 +54,7 @@ ESTIMACIÓ TFC
 |Accés directe desde tercers|1|5|
 |Es necessiten usuaris experts o entrenats|-1|3|
 
+
 ESTIMACIÓ EFC	
 
 |Factor d'Entorn|Pes|Avaluació|
@@ -66,6 +67,37 @@ ESTIMACIÓ EFC
 |Familiarització amb l'UML|1.5|2|
 |Motivació|1|2|
 |Treball a temps parcial|-1|1|
+
+
+ESTIMACIÓ UAW	
+
+|Actor|Pes|
+|---|---|
+|API Google Maps|1|
+|API RRSS|1|
+|Usuari|3|
+|Adminisrador|3|
+|Botiguer|3|
+|Telerik|1|
+
+
+ESTIMACIÓ UUCW		
+
+|Casos d'ús|Complexitat|Pes|
+|---|---|---|
+|Log in|Simple|5|
+|Veure Newsletter|Simple|5|
+|Visualitzar Ruta|Mig|10|
+|Consultar rutes temàtiques|Simple|5|
+|Compartir ruta visitada|Simple|5|
+|Visualitzar Botiga|Mig|10|
+|Valorar Botiga|Simple|5|
+|Demanar gestions del sisyema|Simple|5|
+|Afegir botiga|Simple|5|
+|Editar Botiga|Simple|5|
+|Eliminar Botiga|Simple|5|
+|Gestionar notícies|Simple|5|
+|Gestionar rutes temàtiques|Mig|10|
 
 ### 2.2. Estimació de cost ###
 

@@ -37,6 +37,22 @@ Distingirem entre els seguents rols de treball:
 
 > Calcular el nombre d'hores del projecte. Useu un excel o altra eina per calcular UCPs i convertir a hores. Copieu aquí les taules (però entregueu també l'excel!)
 
+|ESTIMACIÓ TFC|
+|Descripció|Pes|Prioritat|
+|---|---|---|
+|Sistema distribuït|1|5|
+|Rendiment|2|3|
+|Eficiencia del Usuari Final|2|5|
+|Processamet intern complex|0.5|1|
+|Reusabilitat|1|4|
+|Fàcil de instalar|-1|5|
+|Fàcil d'usar|0.5|5|
+|Portabilitat|0.5|4|
+|Fàcil de canviar|2|3|
+|Característiques especials de seguretat|1|5|
+|Accés directe desde tercers|1|5|
+|Es necessiten usuaris experts o entrenats|-1|3|
+
 ### 2.2. Estimació de cost ###
 
 > Calculeu el cost de personal i la resta de coses. Useu un excel o altra eina per fer els càlculs. Copieu aquí les taules (però entregueu també l'excel!). 

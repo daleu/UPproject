@@ -37,7 +37,7 @@ Distingirem entre els seguents rols de treball:
 
 > Calcular el nombre d'hores del projecte. Useu un excel o altra eina per calcular UCPs i convertir a hores. Copieu aquí les taules (però entregueu també l'excel!)
 
-|ESTIMACIÓ TFC|
+ESTIMACIÓ TFC
 |Descripció|Pes|Prioritat|
 |---|---|---|
 |Sistema distribuït|1|5|

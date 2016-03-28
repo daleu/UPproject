@@ -37,6 +37,7 @@ Distingirem entre els seguents rols de treball:
 
 > Calcular el nombre d'hores del projecte. Useu un excel o altra eina per calcular UCPs i convertir a hores. Copieu aquí les taules (però entregueu també l'excel!)
 
+---
 ESTIMACIÓ TCF
 
 |Descripció|Pes|Prioritat|
@@ -54,6 +55,7 @@ ESTIMACIÓ TCF
 |Accés directe desde tercers|1|5|
 |Es necessiten usuaris experts o entrenats|-1|3|
 
+---
 ESTIMACIÓ ECF	
 
 |Factor d'Entorn|Pes|Avaluació|
@@ -67,6 +69,7 @@ ESTIMACIÓ ECF
 |Motivació|1|2|
 |Treball a temps parcial|-1|1|
 
+---
 ESTIMACIÓ UAW	
 
 |Actor|Pes|
@@ -78,6 +81,7 @@ ESTIMACIÓ UAW
 |Botiguer|3|
 |Telerik|1|
 
+---
 ESTIMACIÓ UUCW		
 
 |Casos d'ús|Complexitat|Pes|
@@ -96,6 +100,9 @@ ESTIMACIÓ UUCW
 |Gestionar notícies|Simple|5|
 |Gestionar rutes temàtiques|Mig|10|
 
+---
+
+|---|---|
 |UUCW|35|
 |UAW|12|
 |TCF|0.98|
@@ -104,9 +111,11 @@ ESTIMACIÓ UUCW
 |FP|22.5|
 
 L'UCP ha sigut calculat usan la seguent formula: UCP = (UUCW * UAW) * TCF * ECF
+
 UCP = (35 * 12) * 0.98 * 0.98
 
 Un cop calculat el UCP, usan el factor PF(esforç per punt de cas d'ús) i la següent formula: Estimació temps = UCP * PF
+
 Estimació temps = 45.1388 * 22.5 = 1015.623 hores de treball
 
 ### 2.2. Estimació de cost ###

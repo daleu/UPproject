@@ -96,6 +96,9 @@ Distingirem entre els seguents rols de treball:
 |Gestionar notícies|Simple|5|
 |Gestionar rutes temàtiques|Mig|10|
 
+
+**UCP**
+
 |||
 |---|---|
 |UUCW|35|

@@ -162,7 +162,9 @@ Probable.
  
 ### Impacte ###
 
-Els usuaris, en veure que el sistema no és seriós, es donarien de baixa, cosa que pot crear un impacte en els comerços que sí que estan interessats.
+Els usuaris, al veure que les dades no son correctes o que conté negocis sospitosos, es podria donar de baixa, cosa que pot crear un impacte en els comerços que sí que estan interessats.
+
+També podria incrementar l'access a productes il·legals anomenats sota pseudònims.
 
 ### Indicadors ###
 

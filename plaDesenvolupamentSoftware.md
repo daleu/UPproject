@@ -120,6 +120,37 @@ Estimació temps = 45.1388 * 22.5 = 1015.623 hores de treball
 
 > Calculeu el cost de personal i la resta de coses. Useu un excel o altra eina per fer els càlculs. Copieu aquí les taules (però entregueu també l'excel!). 
 
+|Disciplina|Rol|Dedicació|Rol|Dedicació|Rol|Dedicació|Factor d'importancia|
+|---|---|---|---|---|---|---|---|
+|Model d'empresa|Arquitecte|80%|Cap de Projecte|20%|13|
+|Requeriments|Analista de Xarxes|40%|Cap de Projecte|20%|Analista funcional|40%|18|
+|Anàlisis i disseny|Dissenyador|50%|Analista funcional|30%|Analista de Xarxes|20%|20|
+|Implementació|Analista funcional|25%|Programador Senior|55%|Administrador de BD|20%|18|
+|Test|Tester|80%|Programador|Senior|10%|Administrador de BD|10%|13|
+|Project|Manager|Cap de projecte|100%|18|
+
+|Rol|Salari/hora|Factor de treball|Hores de treball|Preu en net|Preu en brut|
+|---|---|---|---|---|---|
+|Cap de projecte|14€|0.242|245.78246|13,764€|19,269€|
+|Arquitecte|12€|0.104|105.62552|5,070€|7,098€|
+|Analista funcional|12€|0.177|179.76651|8,629€|12,080€|
+|Analista de xarxes|12€|0.112|113.75056|5,460€|7,644€|
+|Dissenyador|10€|0.1|101.563|4,063€|5,688€|
+|Administrador de Base de Dades|10€|0.049|49.76587|1,991€|2,787€|
+|Programador Senior|12€|0.112|113.75056|5,460€|7,644€|
+|Tester|6€|0.104|105.62552|2,535€|3,549€|
+
+|Llista de costos|Preu|
+|---|---|
+|Costos del personal|65,759€|
+|Cost del lloc de treball|1,600€|
+|Cost total del personal|67,359€|
+|Despeses estructurals|10,104€|
+|Percentatge del marge de benefici|30,985€|
+|Percentatge de contingències (Riscos)|10,845€|
+
+Pressupost final: 120,893€
+
 ## 4. PLA DE FASES ##
 > - a) Taula amb l'estat dels casos d'ús a cada fase
 

@@ -65,11 +65,11 @@ En cas de produir-se, s’hauria d’actualitzar la informació com més aviat p
 
 ### Descripció ###
 
-Un projecte no es pot dur a terme si no té suficient finançament. És per això que és important assegurar les fonts de finançament del projecte.
+Un projecte no es pot dur a terme si no té suficient finançament. És per això que és important assegurar les fonts de finançament del projecte. Aquest projecte està financiat per l'Ajuntament de la ciutat, és per això, que aquest risc es donaria en el cas en que l'ajuntamen decidis no financiar el projecte.
 
 ### Probabilitat ###
 
-Versemblant.
+Poc probable.
 
 ### Impacte ###
 

@@ -9,7 +9,7 @@ Distingirem entre els seguents rols de treball:
 * Cap del projecte. Es la persona responsable de gestionar el projecte. Es necessita de molta experiència i coneixements en el camp dels projectes.
 * Arquitecte (Cap Tècnic). Es la persona responsable de crear un entorn de treball on la gent es trobi a gust i autoritzada per fer qualsevol de les seves tasques o responsabilitats.
 * Dissenyador. Es la persona encarregada de transformar els requisits del usuari en un disseny arquitectònic que proveira d'especificacions als programadors.
-* Programador Semi-Senior. Programador amb experiència i especialista en diversos camps. Té capacitat de treball autonom i qualitat en programar.
+* Programador Senior. Programador amb expert i especialista. Té un nivell de programació experta en el seu camp i una capacitat de treball alt.
 * Analista Funcional. Es la persona responsable de supervisar el desenvolupament de la aplicació mòvil i web. Assegurant-se la màxima explotació del entorn i que disposi de un rediment òptim.
 * Analista de Xarxes. Es la persona responsable de dissenyar i gestionar la seguretat de la Xarxa que usara l'aplicació.
 * Administrador Base de Dades. Es la persona responsable dels aspectes d'entorn de la Base de Dades que utilitzara l'aplicació.
@@ -20,7 +20,7 @@ Rol|Persones
 Cap del projecte|1
 Arquitecte|1
 Dissenyador|1
-Programador Semi-Senior|4
+Programador Senior|2
 Analista Funcional|1
 Analista de Xarxes|1
 Administrador Base de Dades|1
@@ -70,7 +70,7 @@ Treball a temps parcial|-1|1
 
 Com no es tracta de un gran sistema, dificil a implementar o complex, l'avaluació màxima que reben aquests factors es de 3 (el màxim del ECF és 5). Per tant, el més important és l'experiència i capacitat en el sector.
 
-La formula per calcular el ECF és:`ECF = 1.4 + ‐0.03 * (Σf:ffEnv:(pes(f) * avaluació(f))`
+La formula per calcular el ECF és: `ECF = 1.4 + ‐0.03 * (Σf:ffEnv:(pes(f) * avaluació(f))`
 
 En el nostre cas obtenim `ECF = 0.98`
 
@@ -87,7 +87,7 @@ Telerik|1
 
 Necessitem actors de poca complexitat. Usuari, administrador i botiguer seria "Average" ja que necessitarem un gran nombre d'aquests actors (però tampoc exagerat). Recordem que es tracta de una aplicació senzilla d'usar i que busca ser lo més simple possible. Els altres actors, es tracten d'APIs o programari extern, per tant podrem parlar d'actors "Simple".
 
-La formula per calcular el UAW és:`UAW = Σa:aactors: pes(a)`
+La formula per calcular el UAW és: `UAW = Σa:aactors: pes(a)`
 
 En el nostre cas obtenim `UAW = 12`
 
@@ -111,7 +111,7 @@ Gestionar rutes temàtiques|Mig|10
 
 No tenim casos d'ús "Complex", ja que les que comportem major esdeveniments son els usos de visualització i gestió de rutes, i aquestes són "Average" (no arriben a més de 7 esdeveniments). Recordem que es tracta de una aplicació senzilla d'usar i que busca ser lo més simple possible. Els altres casos d'ús són "Simple" ja que desenvolupen 1 o 2 esdeveniments com a màxim.
 
-La formula per calcular el UUCW és:`UUCW = Σc:ccasosÚs:pes(c)`
+La formula per calcular el UUCW és: `UUCW = Σc:ccasosÚs:pes(c)`
 
 En el nostre cas obtenim `UUCW = 35`
 
@@ -125,7 +125,7 @@ TCF|0.98
 ECF|0.98
 FP|22.5
 
-La formula per calcular el UCP és:`UCP = (UUCW * UAW) * TCF * ECF`
+La formula per calcular el UCP és: `UCP = (UUCW * UAW) * TCF * ECF`
 
 En el nostre cas obtenim `UCP = 45.1388`
 
@@ -162,6 +162,7 @@ Project|Manager|Cap de projecte|100%|18
 Considerem el Cap de projecte el rol de més pes del equip. Seguit per l'Arquitecte, Analista funcional, Analista de xarxes i Programador Senior. Aquests són essencials perquè el sistema es desenvolupi ràpid i bé. Després tindriem el Administrador de Bases de Dades i el Dissenyador, només són essencials per un factor en concret. Per últim quedaria el Tester de l'aplicació, el qual és necessari però no desenvolupa un servei d'especialista.
 
 El salari brut s'obté a partir de la formula `Salari en brut = Salari/hora * Hores de treball`
+
 El salari net s'obté a partir de la formula `Salari en net = Salari en brut - Salari en brut * 0.4 `
 
 #### LLista de costos ####

@@ -197,26 +197,25 @@ El pressupost final es la suma de tots els costos, per tant obtenim: `Pressupost
 > - a) Taula amb l'estat dels casos d'ús a cada fase
 
 a) 
-
-Usuari
-
-1. Log in                             10.3 Per proximitat
-2. Newsletter                         10.4 Favorites
-3. Visualitzar ruta                  
-4. Consultar temàtiques               Botiguer
-5. Compartir ruta visitada            11. Gestions del sistema
-6. Visualitzar botiga                
-6.1 Consultar ofertes i descomptes    Administrador
-6.2 Guardar botiga com a favorit      12. Administrar botigues
-7. Compartir experiències             12.1 Afegir botigues
-8. Compartir botiga                   12.2 Editar botigues
-9. Valorar botigues                   12.3 Eliminar botigues
-9.1 Donar puntuació                   13. Veure auditories del sistema
-9.2 Fer comentari                     14. Afegir noticia
-9.3 Compartir valoració               15. Administrar rutes temàtiques
-10. Llistar botigues                  15.1 Afegir rutes
-10.1 Per descomptes                   15.2 Editar rutes
-10.2 Per tipus de botiga              15.3 Eliminar rutes
+|Usuari||
+|---|---|
+|1 - Log in|10.3 - Per proximitat|
+|2 - Newsletter|10.4 - Favorites|
+|3 - Visualitzar ruta||                  
+|4 - Consultar temàtiques|Botiguer|
+|5 - Compartir ruta visitada|11 - Gestions del sistema|
+|6 - Visualitzar botiga||                
+|6.1 - Consultar ofertes i descomptes|Administrador|
+|6.2 - Guardar botiga com a favorit|12 - Administrar botigues|
+|7 - Compartir experiències|12.1 - Afegir botigues|
+|8 - Compartir botiga|12.2 - Editar botigues|
+|9 - Valorar botigues|12.3 - Eliminar botigues|
+|9.1 - Donar puntuació|13 - Veure auditories del sistema|
+|9.2 - Fer comentari|14 - Afegir noticia|
+|9.3 - Compartir valoració|15 - Administrar rutes temàtiques|
+|10. - Llistar botigues|15.1 - Afegir rutes|
+|10.1 - Per descomptes|15.2 - Editar rutes|
+|10.2 - Per tipus de botiga|15.3 - Eliminar rutes|
  
 |Num|Inception|Elaboration|Construction|Transition|
 |---|---|---|---|

@@ -218,37 +218,39 @@ Usuari
 10.1 Per descomptes                   15.2 Editar rutes
 10.2 Per tipus de botiga              15.3 Eliminar rutes
  
-     Inception       Elaboration     Construction     Transition
-1.   	Esboçat		Refinat         Complert        Complert
-2.   	Identificat	Esboçat         Complert        Complert  
-3.   	Esboçat		Analitzat       Refinat         Complert       
-4.   	Identificat	Esboçat         Refinat         Complert       
-5.   	Identificat	Esboçat         Refinat         Complert
-6.   	Esboçat		Analitzat       Refinat         Complert
-6.1  	Esboçat		Analitzat       Refinat         Complert
-6.2  	Identificat     Esboçat         Refinat         Complert
-7.   	Identificat     Esboçat         Refinat         Complert  
-8.   	Identificat     Esboçat         Refinat         Complert
-9.   	Identificat     Analitzat       Complert        Complert
-9.1  	Identificat     Esboçat         Refinat         Complert       
-9.2  	Identificat     Esboçat         Refinat         Complert
-9.3  	Identificat	Esboçat         Refinat         Complert
-10. 	Esboçat         Analitzat       Complert        Complert
-10.1 	Esboçat         Analitzat       Complert        Complert
-10.2 	Esboçat         Analitzat       Complert        Complert
-10.3 	Esboçat         Analitzat       Complert        Complert
-10.4 	Esboçat         Analitzat       Complert        Complert
-11. 	Refinat         Complert        Complert        Complert
-12. 	Esboçat         Analitzat       Complert        Complert
-12.1 	Identificat     Esboçat         Complert        Complert
-12.2 	Identificat     Esboçat         Complert        Complert
-12.3 	Identificat     Esboçat         Complert        Complert
-13. 	Identificat     Esboçat         Complert        Complert
-14. 	Identificat     Esboçat         Complert        Complert
-15.	Identificat     Esboçat         Complert        Complert
-15.1 	Identificat     Esboçat         Complert        Complert
-15.2 	Identificat     Esboçat         Complert        Complert
-15.3 	Identificat     Esboçat         Complert        Complert
+|Num|Inception|Elaboration|Construction|Transition|
+|---|---|---|---|
+|1.|Esboçat|Refinat|Complert|Complert|
+|2.|Identificat|Esboçat|Complert|Complert|  
+|3.|Esboçat|Analitzat|Refinat|Complert|       
+|4.|Identificat|Esboçat|Refinat|Complert|       
+|5.|Identificat|Esboçat|Refinat|Complert|
+|6.|Esboçat|Analitzat|Refinat|Complert|
+|6.1|Esboçat|Analitzat|Refinat|Complert|
+|6.2|Esboçat|Analitzat|Refinat|Complert|
+|7.|Identificat|Esboçat|Refinat|Complert|  
+|8.|Identificat|Esboçat|Refinat|Complert|
+|9.|Identificat|Esboçat|Refinat|Complert|
+|9.1|Identificat|Esboçat|Refinat|Complert|       
+|9.2|Identificat|Esboçat|Refinat|Complert|
+|9.3|Identificat|Esboçat|Refinat|Complert|
+|10.|Identificat|Analitzat|Complert|Complert|
+|10.1|Esboçat|Analitzat|Complert|Complert|
+|10.2|Esboçat|Analitzat|Complert|Complert|
+|10.3 |Esboçat|Analitzat|Complert|Complert|
+|10.4 |Esboçat|Analitzat|Complert|Complert|
+|11.|Refinat|Complert|Complert|Complert|
+|12.|Esboçat|Analitzat|Complert|Complert|
+|12.1|Identificat|Esboçat|Complert|Complert|
+|12.2|Identificat|Esboçat|Complert|Complert|
+|12.3|Identificat|Esboçat|Complert|Complert|
+|13.|Identificat|Esboçat|Complert|Complert|
+|14.|Identificat|Esboçat|Complert|Complert|
+|15.|Identificat|Esboçat|Complert|Complert|
+|15.1|Identificat|Esboçat|Complert|Complert|
+|15.2|Identificat|Esboçat|Complert|Complert|
+|15.3|Identificat|Esboçat|Complert|Complert|
+
 									
 
 > - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.

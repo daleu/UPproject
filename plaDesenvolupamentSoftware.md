@@ -48,12 +48,12 @@ Accés directe desde tercers|1|5
 Es necessiten usuaris experts o entrenats|-1|3
 
 
+
 Considerem essencial que BotiguesBCN sigui un sistema segur, fàcil d'usar, distribuit i accesible, això es degut a que hem de conseguir la màxima satisfacció del usuari. Com es tracta de un sistema senzill no li donem importància al processament intern. Els altres factors els considerem amb prioritat "normal" (2, 3 i 4).
 
-La formula per calcular el TCF és:
-`TCF = 0.6 + ((Σf:ffTec:(pes(f) * prioritat(f))/100)/100)`
+La formula per calcular el TCF és:`TCF = 0.6 + ((Σf:ffTec:(pes(f) * prioritat(f))/100)/100)`
 
-En el nostre cas obtenim que TCF = 0.98.
+En el nostre cas obtenim que `TCF = 0.98.`
 
 #### ESTIMACIÓ ECF ####
 
@@ -70,10 +70,9 @@ Treball a temps parcial|-1|1
 
 Com no es tracta de un gran sistema, dificil a implementar o complex, l'avaluació màxima que reben aquests factors es de 3 (el màxim del ECF és 5). Per tant, el més important és l'experiència i capacitat en el sector.
 
-La formula per calcular el ECF és:
-`ECF = 1.4 + ‐0.03 * (Σf:ffEnv:(pes(f) * avaluació(f))`
+La formula per calcular el ECF és:`ECF = 1.4 + ‐0.03 * (Σf:ffEnv:(pes(f) * avaluació(f))`
 
-En el nostre cas obtenim ECF = 0.98
+En el nostre cas obtenim `ECF = 0.98`
 
 #### ESTIMACIÓ UAW ####
 
@@ -88,10 +87,9 @@ Telerik|1
 
 Necessitem actors de poca complexitat. Usuari, administrador i botiguer seria "Average" ja que necessitarem un gran nombre d'aquests actors (però tampoc exagerat). Recordem que es tracta de una aplicació senzilla d'usar i que busca ser lo més simple possible. Els altres actors, es tracten d'APIs o programari extern, per tant podrem parlar d'actors "Simple".
 
-La formula per calcular el UAW és:
-`UAW = Σa:aactors: pes(a)`
+La formula per calcular el UAW és:`UAW = Σa:aactors: pes(a)`
 
-En el nostre cas obtenim UAW = 12
+En el nostre cas obtenim `UAW = 12`
 
 #### ESTIMACIÓ UUCW ####
 
@@ -113,10 +111,9 @@ Gestionar rutes temàtiques|Mig|10
 
 No tenim casos d'ús "Complex", ja que les que comportem major esdeveniments son els usos de visualització i gestió de rutes, i aquestes són "Average" (no arriben a més de 7 esdeveniments). Recordem que es tracta de una aplicació senzilla d'usar i que busca ser lo més simple possible. Els altres casos d'ús són "Simple" ja que desenvolupen 1 o 2 esdeveniments com a màxim.
 
-La formula per calcular el UUCW és:
-`UUCW = Σc:ccasosÚs:pes(c)`
+La formula per calcular el UUCW és:`UUCW = Σc:ccasosÚs:pes(c)`
 
-En el nostre cas obtenim UUCW = 35
+En el nostre cas obtenim `UUCW = 35`
 
 #### UCP ####
 
@@ -128,28 +125,30 @@ TCF|0.98
 ECF|0.98
 FP|22.5
 
-La formula per calcular el UCP és:
-`UCP = (UUCW * UAW) * TCF * ECF`
+La formula per calcular el UCP és:`UCP = (UUCW * UAW) * TCF * ECF`
 
-En el nostre cas obtenim UCP = 45.1388
+En el nostre cas obtenim `UCP = 45.1388`
 
-Per obtenir l'Estimació del temps, un cop calculat el UCP, usan el factor PF(esforç per punt de cas d'ús) i la següent formula:
-`Estimació temps = UCP * PF`
+Per obtenir l'Estimació del temps, un cop calculat el UCP, usan el factor PF(esforç per punt de cas d'ús) i la següent formula:`Estimació temps = UCP * PF`
 
-En el nostre cas obtenim Estimació Temps = 1015.623 hores de treball ja que fem servir un FP =  22.5
+En el nostre cas obtenim Estimació Temps = 1015.623 hores de treball ja que fem servir un `FP =  22.5`
 
 ### 2.2. Estimació de cost ###
 
-|Disciplina|Rol|Dedicació|Rol|Dedicació|Rol|Dedicació|Factor d'importancia|
-|---|---|---|---|---|---|---|---|
-|Model d'empresa|Arquitecte|80%|Cap de Projecte|20%|13|
-|Requeriments|Analista de Xarxes|40%|Cap de Projecte|20%|Analista funcional|40%|18|
-|Anàlisis i disseny|Dissenyador|50%|Analista funcional|30%|Analista de Xarxes|20%|20|
-|Implementació|Analista funcional|25%|Programador Senior|55%|Administrador de BD|20%|18|
-|Test|Tester|80%|Programador|Senior|10%|Administrador de BD|10%|13|
-|Project|Manager|Cap de projecte|100%|18|
+#### Dedicacions previstes per rol ####
 
-|Rol|Salari/hora|Factor de treball|Hores de treball|Preu en net|Preu en brut|
+Disciplina|Rol|Dedicació|Rol|Dedicació|Rol|Dedicació|Factor d'importancia
+---|---|---|---|---|---|---|---
+Model d'empresa|Arquitecte|80%|Cap de Projecte|20%|13
+Requeriments|Analista de Xarxes|40%|Cap de Projecte|20%|Analista funcional|40%|18
+Anàlisis i disseny|Dissenyador|50%|Analista funcional|30%|Analista de Xarxes|20%|20
+Implementació|Analista funcional|25%|Programador Senior|55%|Administrador de BD|20%|18
+Test|Tester|80%|Programador|Senior|10%|Administrador de BD|10%|13
+Project|Manager|Cap de projecte|100%|18
+
+#### Salari previst per rol ####
+
+|Rol|Salari/hora|Factor de treball|Hores de treball|Salari en net|Salari en brut|
 |---|---|---|---|---|---|
 |Cap de projecte|14€|0.242|245.78246|13,764€|19,269€|
 |Arquitecte|12€|0.104|105.62552|5,070€|7,098€|
@@ -159,6 +158,13 @@ En el nostre cas obtenim Estimació Temps = 1015.623 hores de treball ja que fem
 |Administrador de Base de Dades|10€|0.049|49.76587|1,991€|2,787€|
 |Programador Senior|12€|0.112|113.75056|5,460€|7,644€|
 |Tester|6€|0.104|105.62552|2,535€|3,549€|
+
+Considerem el Cap de projecte el rol de més pes del equip. Seguit per l'Arquitecte, Analista funcional, Analista de xarxes i Programador Senior. Aquests són essencials perquè el sistema es desenvolupi ràpid i bé. Després tindriem el Administrador de Bases de Dades i el Dissenyador, només són essencials per un factor en concret. Per últim quedaria el Tester de l'aplicació, el qual és necessari però no desenvolupa un servei d'especialista.
+
+El salari brut s'obté a partir de la formula `Salari en brut = Salari/hora * Hores de treball`
+El salari net s'obté a partir de la formula `Salari en net = Salari en brut - Salari en brut * 0.4 `
+
+#### LLista de costos ####
 
 |Llista de costos|Preu|
 |---|---|

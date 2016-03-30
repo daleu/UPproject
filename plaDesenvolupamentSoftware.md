@@ -197,14 +197,15 @@ El pressupost final es la suma de tots els costos, per tant obtenim: `Pressupost
 > - a) Taula amb l'estat dels casos d'ús a cada fase
 
 a) 
-|Casos d'ús|a|
+
+|Casos d'ús| |
 |---|---|
 |1 - Log in|10.3 - Per proximitat|
 |2 - Newsletter|10.4 - Favorites|
-|3 - Visualitzar ruta||                  
+|3 - Visualitzar ruta| |                  
 |4 - Consultar temàtiques|Botiguer|
 |5 - Compartir ruta visitada|11 - Gestions del sistema|
-|6 - Visualitzar botiga||                
+|6 - Visualitzar botiga| |                
 |6.1 - Consultar ofertes i descomptes|Administrador|
 |6.2 - Guardar botiga com a favorit|12 - Administrar botigues|
 |7 - Compartir experiències|12.1 - Afegir botigues|

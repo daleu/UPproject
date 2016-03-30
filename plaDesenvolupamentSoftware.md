@@ -189,7 +189,7 @@ Les despes estructurals les obtenim amb la formula: `Cost toal de personal * 0.1
 
 El percentatge del marge de benefici l'obtenim  amb la formula: `(Cost total del personal + Despases estructurals) * 0.4`
 
-El percentat de contingències (Riscos) l'obtenim amb la formula: `(Cost total del personal + Despases estructurals + Percentatge del marge de benefici) * 0.1
+El percentat de contingències (Riscos) l'obtenim amb la formula: `(Cost total del personal + Despases estructurals + Percentatge del marge de benefici) * 0.1`
 
 El pressupost final es la suma de tots els costos, per tant obtenim: `Pressupost final: 323,735€`
 

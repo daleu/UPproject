@@ -1,11 +1,6 @@
 ﻿# BotiguesBCN - PLA DE DESENVOLUPAMENT DE SOFTWARE #
 
-> El propòsit del document de pla de desenvolupament de software és determinar l'esforç, cost i calendari a nivell de projecte (distingint només les 4 fases)
-
-
 ## 1. ORGANITZACIÓ I EQUIP ##
-
-> Descriure breument l'organització i l'equip de treball (quins rols, quants treballadors de cada rol)
 
 El sistema BotiguesBCN ha de ser senzill, eficaç i agradable d’usar. El nostre projecte consisteix en el desenvolupament i manteniment de una aplicació mòvil i web, per tant, el nostre equip haurà de ser especialista en aquest àmbit.
 El nostre equip de treball estara organitzat respecte la seva funció sobre el desenvolupament, manteniment i supervisió del sistema.
@@ -20,22 +15,20 @@ Distingirem entre els seguents rols de treball:
 * Administrador Base de Dades. Es la persona responsable dels aspectes d'entorn de la Base de Dades que utilitzara l'aplicació.
 * Tester. Es la persona responsable de realitzar proves a l'aplicació i reporta els seus errors abans de la sortida d'aquesta al públic.
 
-|Rol|Persones| 
-|---|---|
-|Cap del projecte|1|
-|Arquitecte|1|
-|Dissenyador|1|
-|Programador Semi-Senior|4|
-|Analista Funcional|1|
-|Analista de Xarxes|1|
-|Administrador Base de Dades|1|
-|Tester|10|
+Rol|Persones
+---|---
+Cap del projecte|1
+Arquitecte|1
+Dissenyador|1
+Programador Semi-Senior|4
+Analista Funcional|1
+Analista de Xarxes|1
+Administrador Base de Dades|1
+Tester|10
 
 ## 2. PLA DE PROJECTE ##
 
 ### 2.1. Estimació d'esforç ###
-
-> Calcular el nombre d'hores del projecte. Useu un excel o altra eina per calcular UCPs i convertir a hores. Copieu aquí les taules (però entregueu també l'excel!)
 
 **ESTIMACIÓ TCF**
 
@@ -117,8 +110,6 @@ Un cop calculat el UCP, usan el factor PF(esforç per punt de cas d'ús) i la se
 Estimació temps = 45.1388 * 22.5 = 1015.623 hores de treball
 
 ### 2.2. Estimació de cost ###
-
-> Calculeu el cost de personal i la resta de coses. Useu un excel o altra eina per fer els càlculs. Copieu aquí les taules (però entregueu també l'excel!). 
 
 |Disciplina|Rol|Dedicació|Rol|Dedicació|Rol|Dedicació|Factor d'importancia|
 |---|---|---|---|---|---|---|---|

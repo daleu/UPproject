@@ -197,7 +197,7 @@ El pressupost final es la suma de tots els costos, per tant obtenim: `Pressupost
 > - a) Taula amb l'estat dels casos d'ús a cada fase
 
 a) 
-|Usuari||
+|Casos d'ús|a|
 |---|---|
 |1 - Log in|10.3 - Per proximitat|
 |2 - Newsletter|10.4 - Favorites|
@@ -218,7 +218,7 @@ a)
 |10.2 - Per tipus de botiga|15.3 - Eliminar rutes|
  
 |Num|Inception|Elaboration|Construction|Transition|
-|---|---|---|---|
+|---|---|---|---|---|
 |1.|Esboçat|Refinat|Complert|Complert|
 |2.|Identificat|Esboçat|Complert|Complert|  
 |3.|Esboçat|Analitzat|Refinat|Complert|       

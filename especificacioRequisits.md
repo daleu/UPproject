@@ -18,8 +18,6 @@
 
 ![](./imatges/CasdUs.png)
 
-> A més, per cada cas d'ús, una descripció d'una o dues línies (fins i tot si el nom és prou auto-explicatiu, pot no ser necessari)
-
 - Cas d'ús UC001 - *Log in*:
 	-	Descripció:
 	-	Actor principal:
@@ -171,17 +169,162 @@
 	-	Precondicions:
 	-	Disparador:
 
+
+
 ### 1.2. Descripció individual dels casos d'ús
 
-> Un per un, es descriuen els casos d'ús introduïts a la subsecció 1.1. Com ja s'ha dit adalt, els casos d'ús s'aniran defining paulatinament
 
-#### Cas d'ús UC001 - *nom* ####
 
-> Descripció del primer cas d'ús. Si bé en una especificació "de veritat", escriuriem el curs rellevant d'esdeveniments, excepcions, etc., aquí ens conformem amb una descripció més "lleugera"
-
-#### Cas d'ús UC002 - *nom* ####
-
-> etc.
+#### Cas d'ús UC001 - *Log in* ####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC002 - *Newsletter*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC003 - *Visualitzar ruta*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC004 - *Consultar rutes temàtiques*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC005 - *Compartir ruta visitada*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC006 - *Visualitzar botiga*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC007 - *Consultar Ofertes i descomptes*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC008 - *Guardar botiga com a favorit*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC009 - *Compartir experiències*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC010 - *Compartir botigua*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC011 - *Valorar botigues*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC012 - *Donar Puntuació*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC013 - *Fer Comentari*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC014 - *Compartir Valoració*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC015 - *Llistar Botigues*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC016 - *Per descomptes*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC017 - *Per tipus de botiga*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC018 - *Per proximitat*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC019 - *Favorites*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC020 - *Demanar gestions del sistema*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC021 - *Administrar rutes temàtiques*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC022 - *Eliminar rutes*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC023 - *Editar rutes*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC024 - *Afegir rutes*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC025 - *Afegir noticia*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC026 - *Veure auditories del sistema*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC027 - *Administrar botigues*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC028 - *Afegir botigues*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC029 - *Editar botigues*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
+####Cas d'ús UC030 - *Eliminar botigues*####
+	-	Descripció:
+	-	Actor principal:
+	-	Precondicions:
+	-	Disparador:
 
 ## 2. ESPECIFICACIÓ NO FUNCIONAL ##
 

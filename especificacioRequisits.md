@@ -1,173 +1,42 @@
 # BotiguesBCN - ESPECIFICACIÓ DE REQUISITS DEL SOFTWARE #
 
-
-> El propòsit del document d'especificació de requisits és presentar el detall dels requisits del sistema. És un document evolutiu, atès que el nombre i detall dels requisits creix a mida que s'avança en el projecte
-
-> Donat el principi de "dirigit per casos d'ús", l'especificació funcional pendrà la forma d'una especificació per casos d'ús
-
-> Recordem que els documents de visió i cas de negoci tindran força informació sobre el producte, que aquí no repetirem
-
-
 ## 1. ESPECIFICACIÓ FUNCIONAL ##
 
 ### 1.1. Diagrama de casos d'ús
 
-> Diagrama UML clàssic. És important mantenir la consistència amb altres documents, per exemple els actors del diagrama han de ser un subconjunt de les parts interessades establertes al document de visió (i més coses...)
-
-> Si creieu que us ajuda a la legibilitat, podeu agrupar casos d'ús similars en paquets
 
 ![](./imatges/CasdUs.png)
 
-- Cas d'ús UC001 - *Log in*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC002 - *Newsletter*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC003 - *Visualitzar ruta*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC004 - *Consultar rutes temàtiques*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC005 - *Compartir ruta visitada*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC006 - *Visualitzar botiga*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC007 - *Consultar Ofertes i descomptes*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC008 - *Guardar botiga com a favorit*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC009 - *Compartir experiències*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC010 - *Compartir botigua*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC011 - *Valorar botigues*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC012 - *Donar Puntuació*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC013 - *Fer Comentari*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC014 - *Compartir Valoració*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC015 - *Llistar Botigues*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC016 - *Per descomptes*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC017 - *Per tipus de botiga*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC018 - *Per proximitat*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC019 - *Favorites*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC020 - *Demanar gestions del sistema*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC021 - *Administrar rutes temàtiques*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC022 - *Eliminar rutes*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC023 - *Editar rutes*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC024 - *Afegir rutes*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC025 - *Afegir noticia*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC026 - *Veure auditories del sistema*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC027 - *Administrar botigues*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC028 - *Afegir botigues*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC029 - *Editar botigues*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
-- Cas d'ús UC030 - *Eliminar botigues*:
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+- Cas d'ús UC001 - *Log in*: Permet que l'usuari es pugui loguejar a l'aplicació.
+- Cas d'ús UC002 - *Newsletter*: Permet que els usuaris puguin consultar els canvis recents en el sistema.
+- Cas d'ús UC003 - *Visualitzar ruta*: Visualitza una ruta temàtica.
+- Cas d'ús UC004 - *Consultar rutes temàtiques*: Permetrà buscar rutes temàtiques.
+- Cas d'ús UC005 - *Compartir ruta visitada*: Permetrà compartir una ruta visitada entre els teus "amics".
+- Cas d'ús UC007 - *Consultar Ofertes i descomptes*: Permetrà consultar les ofertes i els descomptes d'una botiga concreta.
+- Cas d'ús UC008 - *Guardar botiga com a favorit*: Permetrà guardar una botiga en la teva llista de preferides.
+- Cas d'ús UC009 - *Compartir experiències*: Permetrà compartir una experiencia viscuda en un comerç/ruta temàtica.
+- Cas d'ús UC010 - *Compartir botigua*: Permetrà compartir una botiga.
+- Cas d'ús UC011 - *Valorar botigues*: Es ficarà una valoració sobre un establiment concret.
+- Cas d'ús UC012 - *Donar Puntuació*: Dona puntuació a una valoració d'una botiga.
+- Cas d'ús UC013 - *Fer Comentari*: Permetrà fer un comentari a una valoració d'una botiga.
+- Cas d'ús UC014 - *Compartir Valoració*: Comparteix la valoració que s'ha donat a una botiga.
+- Cas d'ús UC015 - *Llistar Botigues*: Et permet llistar les botigues.
+- Cas d'ús UC016 - *Per descomptes*: Et permet llistar les botigues pels descomptes que es tenen.
+- Cas d'ús UC017 - *Per tipus de botiga*: Et permet llistar les botigues pel tipus de botiga/temàtica.
+- Cas d'ús UC018 - *Per proximitat*: Et permet llistar les botigues per proximitat.
+- Cas d'ús UC019 - *Favorites*: Et permet llistar les botigues que tens com a preferides.
+- Cas d'ús UC020 - *Demanar gestions del sistema*: El botiguer demana que es faci un canvi a la seva informació de la botiga.
+- Cas d'ús UC021 - *Administrar rutes temàtiques*: Permet administrar rutes temàtiques del sistema.
+- Cas d'ús UC022 - *Eliminar rutes*: Elimina una ruta temàtica.
+- Cas d'ús UC023 - *Editar rutes*: Edita una ruta temàtica.
+- Cas d'ús UC024 - *Afegir rutes*: Afegeix una ruta temàtica.
+- Cas d'ús UC025 - *Afegir noticia*: Afegeix una noticia en el Newsletter.
+- Cas d'ús UC026 - *Veure auditories del sistema*: Permet visualitzar la llista de privilegis de cada usuari.
+- Cas d'ús UC027 - *Administrar botigues*: Permet administrar les botigues del sistema.
+- Cas d'ús UC028 - *Afegir botigues*: Afegeix una botiga.
+- Cas d'ús UC029 - *Editar botigues*: Edita una botiga.
+- Cas d'ús UC030 - *Eliminar botigues*: Elimina una botiga.
+
 
 
 

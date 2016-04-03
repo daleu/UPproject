@@ -125,59 +125,48 @@
 	-	Actor principal: Botigues, Administrador.
 	-	Precondicions: ---------------------
 ####Cas d'ús UC021 - *Administrar rutes temàtiques*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'administren les rutes temàtiques.
+	-	Actor principal: Administrador.
+	-	Precondicions: ---------------------
 ####Cas d'ús UC022 - *Eliminar rutes*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'elimina una ruta temàtica.
+	-	Actor principal: Administrador.
+	-	Precondicions: Adminstrar una ruta temàtica (Cas d'ús UC021).
 ####Cas d'ús UC023 - *Editar rutes*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'edita una ruta temàtica.
+	-	Actor principal: Administrador.
+	-	Precondicions: Adminstrar una ruta temàtica (Cas d'ús UC021).
 ####Cas d'ús UC024 - *Afegir rutes*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'afegeix una ruta temàtica.
+	-	Actor principal: Administrador.
+	-	Precondicions: Adminstrar una ruta temàtica (Cas d'ús UC021).
 ####Cas d'ús UC025 - *Afegir noticia*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'afegeix una noticia al Newsletter.
+	-	Actor principal: Administrador.
+	-	Precondicions: ---------------------
 ####Cas d'ús UC026 - *Veure auditories del sistema*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permet visualitzar la llista de privilegis que te cada usuari del sistema.
+	-	Actor principal: Administrador.
+	-	Precondicions: ---------------------
 ####Cas d'ús UC027 - *Administrar botigues*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'administren les rutes temàtiques.
+	-	Actor principal: Administrador.
+	-	Precondicions: ---------------------
 ####Cas d'ús UC028 - *Afegir botigues*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'afegeix una botiga.
+	-	Actor principal: Administrador.
+	-	Precondicions: Adminstrar una botiga (Cas d'ús UC027).
 ####Cas d'ús UC029 - *Editar botigues*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'edita les dades una botiga.
+	-	Actor principal: Administrador.
+	-	Precondicions: Adminstrar una botiga (Cas d'ús UC027).
 ####Cas d'ús UC030 - *Eliminar botigues*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: S'elimina una botiga.
+	-	Actor principal: Administrador.
+	-	Precondicions: Adminstrar una botiga (Cas d'ús UC027).
 
 ## 2. ESPECIFICACIÓ NO FUNCIONAL ##
 
-> Descriure en més detall els requisits no funcionals que han sortit al document de visió, intentant fer-los el més quantificables possible. Basar-se en alguna plantilla d'especificació de requisits
 
 1. *Aparença*. El nostre producte haurà de fer que els seus usuaries el comencin a utilitzar rapidament. Amb aixó hem refereixo a que els usuaris s'hauràn de veure atrets per aquest producte al poc temps d'haver entrat en contacte amb ell. Si els usuaris no es veuen atrets per l'aparença del producte, aleshores aquest no tindrà cap utilitat.
 

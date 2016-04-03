@@ -121,10 +121,9 @@
 	-	Actor principal: Usuari.
 	-	Precondicions: Haver loguejat (Cas d'ús UC001), Llistar les botigues (Cas d'ús UC015).
 ####Cas d'ús UC020 - *Demanar gestions del sistema*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: El botigues demana una gestio de la seva botiga a l'administrador.
+	-	Actor principal: Botigues, Administrador.
+	-	Precondicions: ---------------------
 ####Cas d'ús UC021 - *Administrar rutes temàtiques*####
 	-	Descripció:
 	-	Actor principal:

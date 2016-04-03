@@ -45,100 +45,81 @@
 
 
 #### Cas d'ús UC001 - *Log in* ####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permet a l'usuari loguejar-se al sistema per a que pugui utilitzar totes les seves funcionalitats.
+	-	Actor principal: Usuari.
+	-	Precondicions: ---------------------
 ####Cas d'ús UC002 - *Newsletter*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permetrà a l'usuari, visualtitzar/consultar totes les novetats que hi han agut el sistema i els informa de les noves funcionalitats.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC003 - *Visualitzar ruta*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permetrà visualitzar una ruta amb tots els detalls. Aixó inclou que es mostraran totes les botigues de la ruta, distancia de la ruta, etc.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC004 - *Consultar rutes temàtiques*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permetrà buscar rutes temàtiques.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC005 - *Compartir ruta visitada*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permetrà compartir una ruta visitada entre les amistats que tinguis al sistema.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC006 - *Visualitzar botiga*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permet visualitzar una botiga amb tots els seus detalls: Ubicació, nom, Distancia, Valoració, etc.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC007 - *Consultar Ofertes i descomptes*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permetra visualitzar totes les ofertes i tots els descomptes d'una botiga concreta.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Estar en la vista d'una botiga (Cas d'ús UC006).
 ####Cas d'ús UC008 - *Guardar botiga com a favorit*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permetrà guardar una botiga a la teva llista de botigues preferides. Després a l'hora de buscar-la ho tindràs més facil per trobar-la.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Estar en la vista d'una botiga (Cas d'ús UC006).
 ####Cas d'ús UC009 - *Compartir experiències*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permetrà compartir una experiencia viscuda, utilitzant el sistema, entre els teus amics. Tant sigui per compartir una exeriencia viscuda en una ruta, com una expriencia viscuda en una botiga.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC010 - *Compartir botigua*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permetrà compartir una botiga entre els teus amics.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC011 - *Valorar botigues*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Et permetrà valorar una botiga.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC012 - *Donar Puntuació*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permet donar una puntuació a un negoci.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Valorar una botiga (Cas d'ús UC011).
 ####Cas d'ús UC013 - *Fer Comentari*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permet fer un comentari d'un negoci.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Valorar una botiga (Cas d'ús UC011).
 ####Cas d'ús UC014 - *Compartir Valoració*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Permet compartir una valoració que s'haigui fet a un negoci.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Valorar una botiga (Cas d'ús UC011).
 ####Cas d'ús UC015 - *Llistar Botigues*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Et llista totes les botigues depenent d'un criteri de cerca.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001).
 ####Cas d'ús UC016 - *Per descomptes*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Es llistaràn les botigues depenent dels seus descomptes.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Llistar les botigues (Cas d'ús UC015).
 ####Cas d'ús UC017 - *Per tipus de botiga*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Es llistaràn les botigues depenent dels tipus de botiga.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Llistar les botigues (Cas d'ús UC015).
 ####Cas d'ús UC018 - *Per proximitat*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Es llistaràn les botigues depenent de la seva proximitat.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Llistar les botigues (Cas d'ús UC015).
 ####Cas d'ús UC019 - *Favorites*####
-	-	Descripció:
-	-	Actor principal:
-	-	Precondicions:
-	-	Disparador:
+	-	Descripció: Es llistaràn les botigues que tinguis guardades com a preferides.
+	-	Actor principal: Usuari.
+	-	Precondicions: Haver loguejat (Cas d'ús UC001), Llistar les botigues (Cas d'ús UC015).
 ####Cas d'ús UC020 - *Demanar gestions del sistema*####
 	-	Descripció:
 	-	Actor principal:

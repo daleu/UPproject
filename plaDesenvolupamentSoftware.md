@@ -193,10 +193,9 @@ El percentat de contingències (Riscos) l'obtenim amb la formula: `(Cost total d
 
 El pressupost final es la suma de tots els costos, per tant obtenim: `Pressupost final: 323,735€`
 
-## 4. PLA DE FASES ##
-> - a) Taula amb l'estat dels casos d'ús a cada fase
+## 3. PLA DE FASES ##
 
-a) 
+###3.1 Estats de casos d'ús
 
 |Casos d'ús| |
 |---|---|
@@ -253,4 +252,82 @@ a)
 
 									
 
-> - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
+###3.1 Informació rellevant
+
+A partir del grau d'esforç de cada treballador amb diferent rol y les hores que cadascú ha de treballa ens dona el següent esforç i durada de cada fase del projecte.
+
+|Inception|Elaboration|Construction|Transition
+:---:|:---:|:---:|:---:|:---:
+Effort	|10%|20%|35%|25%
+Schedule|10%|25%|45%|20%
+
+
+
+|Inception|Elaboration|Construction|Transition
+:---:|:---:|:---:|:---:|:---:
+Dies Laborables|5|12|22|10
+Data Límit|8 de Febrer|24 de Febrer|30 de Març|13 de Abril
+Esforç (hores)|198,8028|497,007|894,6126|397,6056
+
+#### 1.Inception
+Iteració| DataIni| DataFi |Staff
+:---:|:---:|:---:|:---:|
+ T1|1 de Febrer|5 de Febrer|
+###### Objectius principals
+1. Establir el model de projecte   Definir visió del projecte
+2. Estimar el temps i calcular pressupost
+3. Esmentar els possibles ricos
+4. Disenyar els casos d'ús i funcionalitats
+
+#### 2.Elaboration
+Iteració| DataIni| DataFi |Staff
+:---:|:---:|:---:|:---:|
+E1|8 de Febrer|16 de Febrer|
+###### Objectius principals
+1. Preparació i comprobació de l'entorn de treball
+2. Implementar casos d'ús més important
+3. Fer pla de com recollir les dades
+4. Disenyar els casos d'ús i funcionalitats
+5. Dissenyar l'estructura de la base de dades
+6. Validar requisits
+
+Iteració| DataIni| DataFi |Staff
+:---:|:---:|:---:|:---:|
+E2|17 de Febrer|23 de Febrer|
+###### Objectius principals
+1. Mitigar riscos arquitectònics
+2. Iniciar a recollir dades per veure efectivitat
+3. Establir l'entorn de treball definitiu
+
+#### 3.Construction
+Iteració| DataIni| DataFi |Staff
+:---:|:---:|:---:|:---:|
+C1|24 de Febrer|4 de Març|
+###### Objectius principals
+1. Descriure casos d'ús adicionals
+2. Implementar casos d'ús
+3. Recollir dades de manera més optimitzada
+
+Iteració| DataIni| DataFi |Staff
+:---:|:---:|:---:|:---:|
+C2|7 de Març|4 de Febrer|16 de Març
+###### Objectius principals
+1. Idem
+2. Fer un seguimenta de la funcionalitat i practicitat
+
+Iteració| DataIni| DataFi |Staff
+:---:|:---:|:---:|:---:|
+C3|17 de Març|29 de Març|
+###### Objectius principals
+1. Idem
+2. Crear una versió beta per a l'úsuari i rol de botiguer
+3. Obtenir la valoració de posibles usuaris
+
+#### 4.Transition
+Iteració| DataIni| DataFi |Staff
+:---:|:---:|:---:|:---:|
+C1|30 de Març|12 de Abril	|
+###### Objectius principals
+1. Descriure casos d'ús adicionals
+2. Implementar casos d'ús
+3. Recollir dades de manera més optimitzada

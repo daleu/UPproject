@@ -70,7 +70,7 @@ Aquest pagament serà prèviament pactat amb l'ajuntament i succeirà amb concor
 Aquest projecte vol dinamitzar una economia que a causa de les seves característiques té certes dificultats en el mercat actual. Per això, volem oferir un servei de qualitat que permeti als seus usuaris trobar productes i serveis propers. 
 D'aquesta forma es podria a ajudar a dinamitzar el comerç en alguns barris. Inclús incentivar el sentiment de barri fent les seves botigues locals més visibles als seus veïns. 
 
-El pressupost total és de 323,735€ i la major part dels castos són degut a despeses en el personal. Es per això que es proposa un sistema de pagament fraccionat que faciliti el pagament per part de l'ajuntament mentre que no enmanilli el projecte degut a mancances econòmiques.
+El pressupost total és de 323,735€ i la major part dels castos són degut a despeses en el personal. Es per això que es proposa un sistema de pagament fraccionat que faciliti el pagament per part de l'ajuntament mentre que no enmanilli el projecte degut a mancances econòmiques. També seria recomanable una inversió inicial relativament major a les fraccionades per a cobrir uns certs gastos estructurals o pel cobriment de despeses del lloc de treball.
 
 És probable, per això, que es busquin altres fonts d'ingressos d'entitats o empreses que puguin estar interessades a propiciar el bon desenvolupament del projecte.
 

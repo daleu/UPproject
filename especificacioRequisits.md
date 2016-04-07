@@ -30,12 +30,15 @@
 - Cas d'ús UC022 - *Eliminar rutes*: Elimina una ruta temàtica.
 - Cas d'ús UC023 - *Editar rutes*: Edita una ruta temàtica.
 - Cas d'ús UC024 - *Afegir rutes*: Afegeix una ruta temàtica.
-- Cas d'ús UC025 - *Afegir noticia*: Afegeix una noticia en el Newsletter.
-- Cas d'ús UC026 - *Veure auditories del sistema*: Permet visualitzar la llista de privilegis de cada usuari.
-- Cas d'ús UC027 - *Administrar botigues*: Permet administrar les botigues del sistema.
-- Cas d'ús UC028 - *Afegir botigues*: Afegeix una botiga.
-- Cas d'ús UC029 - *Editar botigues*: Edita una botiga.
-- Cas d'ús UC030 - *Eliminar botigues*: Elimina una botiga.
+- Cas d'ús UC025 - *Gestionar Noticies*: Permet gestionar les notices en el Newsletter.
+- Cas d'ús UC026 - *Editar Noticies*: Permet editar noticies en el Newsletter.
+- Cas d'ús UC027 - *Afegir Noticies*: Permet afegir notices en el Newsletter.
+- Cas d'ús UC028 - *Eliminar Noticies*: Permet eliminar notices en el Newsletter.
+- Cas d'ús UC029 - *Veure auditories del sistema*: Permet visualitzar la llista de privilegis de cada usuari.
+- Cas d'ús UC030 - *Administrar botigues*: Permet administrar les botigues del sistema.
+- Cas d'ús UC031 - *Afegir botigues*: Afegeix una botiga.
+- Cas d'ús UC032 - *Editar botigues*: Edita una botiga.
+- Cas d'ús UC033 - *Eliminar botigues*: Elimina una botiga.
 
 
 
@@ -140,27 +143,39 @@
 	-	Descripció: S'afegeix una ruta temàtica.
 	-	Actor principal: Administrador.
 	-	Precondicions: Adminstrar una ruta temàtica (Cas d'ús UC021).
-####Cas d'ús UC025 - *Afegir noticia*####
-	-	Descripció: S'afegeix una noticia al Newsletter.
+####Cas d'ús UC025 - *Gestionar noticies*####
+	-	Descripció: Es gestionen noticies del Newsletter.
 	-	Actor principal: Administrador.
 	-	Precondicions: ---------------------
-####Cas d'ús UC026 - *Veure auditories del sistema*####
+####Cas d'ús UC026 - *Editar noticies*####
+	-	Descripció: S'editen noticies del Newsletter.
+	-	Actor principal: Administrador.
+	-	Precondicions: ---------------------
+####Cas d'ús UC027 - *Afegir noticies*####
+	-	Descripció: S'afegeixen noticies al Newsletter.
+	-	Actor principal: Administrador.
+	-	Precondicions: ---------------------
+####Cas d'ús UC028 - *Eliminar noticies*####
+	-	Descripció: S'eliminen noticies del Newsletter.
+	-	Actor principal: Administrador.
+	-	Precondicions: ---------------------
+####Cas d'ús UC029 - *Veure auditories del sistema*####
 	-	Descripció: Permet visualitzar la llista de privilegis que te cada usuari del sistema.
 	-	Actor principal: Administrador.
 	-	Precondicions: ---------------------
-####Cas d'ús UC027 - *Administrar botigues*####
+####Cas d'ús UC030 - *Administrar botigues*####
 	-	Descripció: S'administren les rutes temàtiques.
 	-	Actor principal: Administrador.
 	-	Precondicions: ---------------------
-####Cas d'ús UC028 - *Afegir botigues*####
+####Cas d'ús UC031 - *Afegir botigues*####
 	-	Descripció: S'afegeix una botiga.
 	-	Actor principal: Administrador.
 	-	Precondicions: Adminstrar una botiga (Cas d'ús UC027).
-####Cas d'ús UC029 - *Editar botigues*####
+####Cas d'ús UC032 - *Editar botigues*####
 	-	Descripció: S'edita les dades una botiga.
 	-	Actor principal: Administrador.
 	-	Precondicions: Adminstrar una botiga (Cas d'ús UC027).
-####Cas d'ús UC030 - *Eliminar botigues*####
+####Cas d'ús UC033 - *Eliminar botigues*####
 	-	Descripció: S'elimina una botiga.
 	-	Actor principal: Administrador.
 	-	Precondicions: Adminstrar una botiga (Cas d'ús UC027).

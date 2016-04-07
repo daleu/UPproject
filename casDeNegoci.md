@@ -63,21 +63,16 @@ Una part molt important d'aquest projecte es aconsseguir una plena satisfacció 
 
 ## 5. PREVISIÓ FINANCERA ##
 
-Donat el fet que partim del supòsit que ens contracta o subvenciona l'ajuntament de la ciutat on estem treballant, podem assumir que gran part dels guanys que obtindríem serien de la inversió de l'ajuntament.
+Aquest projecte es subvenciona per l'ajuntament de la ciutat on estem treballant. Podem assumir que gran part dels guanys que obtindríem per  serien de la inversió de l'ajuntament.
 
 Aquest pagament serà prèviament pactat amb l'ajuntament i succeirà amb concordança al desenvolupament del projecte. És així que es rebrà uns pagaments inicials per a començar el projecte i es finalitzarà amb el pagament total del preu acordat al finalitzar el desenvolupament del projecte.
 
 Aquest projecte vol dinamitzar una economia que a causa de les seves característiques té certes dificultats en el mercat actual. Per això, volem oferir un servei de qualitat que permeti als seus usuaris trobar productes i serveis propers. 
 D'aquesta forma es podria a ajudar a dinamitzar el comerç en alguns barris. Inclús incentivar el sentiment de barri fent les seves botigues locals més visibles als seus veïns. 
 
+El pressupost total és de 323,735€ i la major part dels castos són degut a despeses en el personal. Es per això que es proposa un sistema de pagament fraccionat que faciliti el pagament per part de l'ajuntament mentre que no enmanilli el projecte degut a mancances econòmiques.
+
 És probable, per això, que es busquin altres fonts d'ingressos d'entitats o empreses que puguin estar interessades a propiciar el bon desenvolupament del projecte.
-
-
-> Si el producte és per comercialitzar, el cas de negoci ha d'incloure un conjunt de supòsits sobre el projecte (p.e., nombre potencial de compradors/clients) i una previsió de guanys (a partir de quin moment començarem a recuperar la inversió, i quin serà el guany anual a partir d'aquell moment). Aquesta previsió necessitarà saber el cost del projecte, per la qual cosa aquest apartat no es pot completar fins tenir aquesta dada. A més, és la típica secció que s'anirà actualitzant contínuament (i.e., després de cada iteració UP)
-
-> Si el producte no es vol comercialitzar (p.e. el desenvolupa una administració pública), cal avaluar en la mesura que sigui possible els beneficis socials, mediambientals, benefics econòmics indirectes o d'altres tipus que es preveuen obtenir i que justifiquin la necessitat de tirar endavant el projecte.
-
-
 
 ## 6. RECURSOS ##
 

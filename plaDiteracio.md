@@ -1,6 +1,6 @@
 > Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# BotiguesBCN - PLA D'ITERACIÓ I1 #
+# BotiguesBCN - PLA D'ITERACIÓ Inception-I1 #
 
 > El propòsit del document d'iteració és descriure en detall la planificació de la següent iteració. Tindrem, doncs, un document per cada iteració. El document es fa tot just abans d'iniciar la iteració
 
@@ -8,16 +8,18 @@
 
 > Resumir la informació de la iteració que més o menys ja està en el pla de desenvolupament del projecte: dates, esforç per rol, etc.
 
-L'iteració I1 es dura a terme del 1 al 5 de Febrer.
+L'iteració d'Inception, I1, es dura a terme del 1 al 5 de Febrer.
+
+En la següent taula mostra el esforç de cada rol per aquesta iteració.
 
 Rol|Esforç
 :---:|:---:
-Cap de Projecte|40%
-Arquitecte||
-Analista Funcional|20%
-Analista de Xarxes||
-Dissenyador|40%
-Administrador de Bases de Dades||
+Cap de Projecte|19%
+Arquitecte|10%
+Analista Funcional|35%
+Analista de Xarxes|3%
+Dissenyador|30%
+Administrador de Bases de Dades|3%
 Programador Senior||
 Tester||
 

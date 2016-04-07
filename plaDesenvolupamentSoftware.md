@@ -105,26 +105,28 @@ Afegir botiga|Simple|5
 Editar Botiga|Simple|5
 Eliminar Botiga|Simple|5
 Gestionar notícies|Simple|5
-Gestionar rutes temàtiques|Mig|10
+Administrar rutes temàtiques|Mig|10
+LListar Botigues|Mig|10
+Fer Auditories|Simple|5
 
 No tenim casos d'ús "Complex", ja que les que comportem major esdeveniments son els usos de visualització i gestió de rutes, i aquestes són "Average" (no arriben a més de 7 esdeveniments). Recordem que es tracta de una aplicació senzilla d'usar i que busca ser lo més simple possible. Els altres casos d'ús són "Simple" ja que desenvolupen 1 o 2 esdeveniments com a màxim.
 
 La formula per calcular el UUCW és: `UUCW = Σc:c∈casosÚs:pes(c)`
 
-En el nostre cas obtenim `UUCW = 35`
+En el nostre cas obtenim `UUCW = 110`
 
 #### UCP ####
 
 Factor|Resultat
 :---:|:---:
-UUCW|80
+UUCW|110
 UAW|12
 TCF|0.98
 ECF|0.98
 
 La formula per calcular el UCP és: `UCP = (UUCW * UAW) * TCF * ECF`
 
-En el nostre cas obtenim `UCP = 88.3568`
+En el nostre cas obtenim `UCP = 117.1688`
 
 Per obtenir l'Estimació del temps, un cop calculat el UCP, usan el factor PF(esforç per punt de cas d'ús) i la següent formula:`Estimació temps = UCP * PF`
 

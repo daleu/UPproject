@@ -10,6 +10,17 @@
 
 L'iteració I1 es dura a terme del 1 al 5 de Febrer.
 
+Rol|Esforç
+:---:|:---:
+Cap de Projecte|40%
+Arquitecte||
+Analista Funcional|20%
+Analista de Xarxes||
+Dissenyador|40%
+Administrador de Bases de Dades||
+Programador Senior||
+Tester||
+
 ## 2. COBERTURA DE CASOS D'ÚS ##
 
 > Poseu l'estat en què penseu que es trobarà cada cas d'ús en acabar la iteració. Ha de ser coherent amb l'esforç assignat a la iteració

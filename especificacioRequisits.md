@@ -182,24 +182,62 @@
 
 ## 2. ESPECIFICACIÓ NO FUNCIONAL ##
 
+####1. *Aparença*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El nostre producte haurà de fer que els seus usuaries el comencin a utilitzar rapidament. Amb aixó hem refereixo a que els usuaris s'hauràn de veure atrets per aquest producte al poc temps d'haver entrat en contacte amb ell. Si els usuaris no es veuen atrets per l'aparença del producte, aleshores aquest no tindrà cap utilitat.
+	-	Justificació del requisit: El necessitem per a que els usuaris es veiguin atrets.
+	-	Criteri de validació: Si els usuaris es veuen atrets, utilitzaran més el nostre sistema, cosa que fara que el comencin a utilitzar rapidament.
 
-1. *Aparença*. El nostre producte haurà de fer que els seus usuaries el comencin a utilitzar rapidament. Amb aixó hem refereixo a que els usuaris s'hauràn de veure atrets per aquest producte al poc temps d'haver entrat en contacte amb ell. Si els usuaris no es veuen atrets per l'aparença del producte, aleshores aquest no tindrà cap utilitat.
+####2. *Estil*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El producte haurà de tindre un estil concret, adient en el seu àmbit. Si el producte no té un estil adequat, pot esser que els seus usuaris no es sentin segurs a l'hora d'utilitzar-lo, i de la mateixa forma que en l'aparença, pot esser que el deixun d'utilitzar.
+	-	Justificació del requisit: El notre producte a de tindre un estil que s'adapti a totes els usuaris, tant siguin persones grans com joves.
+	-	Criteri de validació: Si s'adapta bé a tots els públics, el nostre sistema s'utilitzarà més, i al mateix temps, els seus usuaris es sentiran cómodes utilitzant-lo.
 
-2. *Estil*. El producte haurà de tindre un estil concret, adient en el seu àmbit. Si el producte no té un estil adequat, pot esser que els seus usuaris no es sentin segurs a l'hora d'utilitzar-lo, i de la mateixa forma que en l'aparença, pot esser que el deixun d'utilitzar.
 
-3. *Usable*. La nostra aplicació haurà de ser usable. Amb la paraula usable, ens referim a que la nostra aplicació haurà d'oferir als usuaris una forma fàcil d'interactuar amb el sistema, ja sigui a partir d'una interficie gràfica on tot es veigui amb claredat, com que els usuaris no els calgui interaccionar gaire amb el sistema per trobar alló que estan buscant.
+####3. *Usable*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: La nostra aplicació haurà de ser usable. Amb la paraula usable, ens referim a que la nostra aplicació haurà d'oferir als usuaris una forma fàcil d'interactuar amb el sistema, ja sigui a partir d'una interficie gràfica on tot es veigui amb claredat, com que els usuaris no els calgui interaccionar gaire amb el sistema per trobar alló que estan buscant.
+	-	Justificació del requisit: El sistema no s'ha de fer pesat, per aquest motiu, s'ha de facilitar el seu ús.
+	-	Criteri de validació: Si no és usable, pot ser que els seus usuaris es cancin d'utilitzar el sistema pel simple fet de que es triga molt en utilitzar.
 
-4. *Internacional*. Per satisfer la comoditat dels nostres usuaris, el nostre producte haurà de permetre que els usuaris puguin seleccionar entre una llista de diferents llengües.
 
-5. *Comprensible*. El producte utilitzarà sibols que puguin ser reconeguts per la majoria de gent, ho sigui, tothom que vulgui podrà entendre els simbols de la nostra aplicació.
+####4. *Internacional*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: Per satisfer la comoditat dels nostres usuaris, el nostre producte haurà de permetre que els usuaris puguin seleccionar entre una llista de diferents llengües.
+	-	Justificació del requisit: El sistema necessitara poder ser utilitzat per usuaris d'altres llocs, per tant, ha de ser iternacional.
+	-	Criteri de validació: Si no és internacional, es perdrà molta gent, ja que no l'utilitzarà.
 
-6. *Cortesia*. Els usuaris no podran veure, en cap moment, com està implementat el sistema, ja que sinó el podría utilitzar la competencia o es podra per un mal ús de l'aplicació.
 
-7. *Accesibilitat*. Per poder estar a l'abast de tothom, el nostre producte estarà disponible per gent descapacidada, per exemple, amb una interacció oral/auditiva amb el dispositiu per a les persones vidents.
+####5. *Comprensible*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El producte utilitzarà sibols que puguin ser reconeguts per la majoria de gent, ho sigui, tothom que vulgui podrà entendre els simbols de la nostra aplicació.
+	-	Justificació del requisit: El sistema ha de poder ser entenible per tots els usuaris possibles.
+	-	Criteri de validació: Si els usuaris no entenen el caracter del sistema, no l'utilitzaràn.
 
-8. *Velocitat*. Per satisfer a l'usuari, el nostre producte haurà de satisfer un mínim de velocitat d'interacció amb l'usuari.
+####6. *Cortesia*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: Els usuaris no podran veure, en cap moment, com està implementat el sistema, ja que sinó el podría utilitzar la competencia o es podra per un mal ús de l'aplicació.
+	-	Justificació del requisit: El sistema no s'ha de poder hackejar.
+	-	Criteri de validació: Si el sistema es pot hackejar, aleshores els usuaris no es sentiràn segurs.
 
-9. *Seguretat*. Els usuaris, en cap moment podràn visualitzar o modificar dades privades d'altres perfils d'usuaris o dels perfils dels comerços. Aquests només es podràn modificar per solicitud del comerç i ho fara un consultor.
+####7. *Accesibilitat*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: Per poder estar a l'abast de tothom, el nostre producte estarà disponible per gent descapacidada, per exemple, amb una interacció oral/auditiva amb el dispositiu per a les persones vidents.
+	-	Justificació del requisit: El sistema ha de poder ser accessible per quasi tothom.
+	-	Criteri de validació: la gent que no hi tingui accés, no podrà utilitzar el sistema.
+
+####8. *Velocitat*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: Per satisfer a l'usuari, el nostre producte haurà de satisfer un mínim de velocitat d'interacció amb l'usuari.
+	-	Justificació del requisit: El sistema ha de permetre que els usuaris facin les gestions de forma ràpida.
+	-	Criteri de validació: Si no es fan les gestions ràpides, el sistema es pot tornar molt pesat.
+
+####9. *Seguretat*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: Els usuaris, en cap moment podràn visualitzar o modificar dades privades d'altres perfils d'usuaris o dels perfils dels comerços. Aquests només es podràn modificar per solicitud del comerç i ho fara un consultor.
+	-	Justificació del requisit: El sistema ha des ser segur.
+	-	Criteri de validació: Si el sistema no és segur, els usuaris en podrien fer un mal ús, i els que no ho fecin, es podrien sentir desprotegits.
 
 10. *Disponibilitat*. El producte estarà disponible les 24 hores del dia, tots els dies de l'any, exceptuant els moments que es trovi en manutenció. Els seus usuaris podràn disfrutar d'ell sempre que vulguin en el moment que vulguin.
 

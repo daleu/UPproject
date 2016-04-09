@@ -239,23 +239,59 @@
 	-	Justificació del requisit: El sistema ha des ser segur.
 	-	Criteri de validació: Si el sistema no és segur, els usuaris en podrien fer un mal ús, i els que no ho fecin, es podrien sentir desprotegits.
 
-10. *Disponibilitat*. El producte estarà disponible les 24 hores del dia, tots els dies de l'any, exceptuant els moments que es trovi en manutenció. Els seus usuaris podràn disfrutar d'ell sempre que vulguin en el moment que vulguin.
+####10. *Disponibilitat*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El producte estarà disponible les 24 hores del dia, tots els dies de l'any, exceptuant els moments que es trovi en manutenció. Els seus usuaris podràn disfrutar d'ell sempre que vulguin en el moment que vulguin.
+	-	Justificació del requisit: El sistema a d'estar disponible sempre i quan sigui possible.
+	-	Criteri de validació: Si el sistema no esta disponible, els usuaris no el pordàn utilitzar.
 
-11. *Fortaleza*. El producte guardarà una part de les dades del nubol en el nostre dispositiu, de forma que quan aquest es trobi sense internet, el nostre usuari podrà continuar interactuant, de forma limitada, amb el sistema.
+####11. *Fortaleza*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El producte guardarà una part de les dades del nubol en el nostre dispositiu, de forma que quan aquest es trobi sense internet, el nostre usuari podrà continuar interactuant, de forma limitada, amb el sistema.
+	-	Justificació del requisit: El sistema s'ha de poder accedir sense tindre internet.
+	-	Criteri de validació: Si el sistema no es pot accedir sense internet, els usuaris no podràn accedir al sistema.
 
-12. *Capacitat*. Per tal que tots els usuaris pugui utilitzar el producte, aquest permetrà l'acces simultani de 20000 pesones.
+####12. *Capacitat*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: Per tal que tots els usuaris pugui utilitzar el producte, aquest permetrà l'acces simultani de 20000 pesones.
+	-	Justificació del requisit: El sistema ha de permetre que els usuaris accedeixin a la vegada.
+	-	Criteri de validació: Si el sistema no permet que hi hagi un aforament bastant gran, pot ser que hi hagi usuaris que no hi puguin accedir.
 
-13. *Interficie*. Per que l'usuari pugui consultar tots els comerços i rutes que l'envolten, el nostre producte permetrà una connecció amb altres sistemes per poder geolocalitzar l'ubicació en que es troba l'usuari.
+####13. *Interficie*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: Per que l'usuari pugui consultar tots els comerços i rutes que l'envolten, el nostre producte permetrà una connecció amb altres sistemes per poder geolocalitzar l'ubicació en que es troba l'usuari.
+	-	Justificació del requisit: El sistema he de permetre que la informació es mostri mitjançant altres interficies.
+	-	Criteri de validació: Si no hi ha interacció amb altres sistemes, hi haurà funcionalitats que no es podràn dur a terme.
 
-14. *Manteniment*. El producte permetrà que els seus usuaris actualitzin les seves dades i que els botiguers puguin penjar ofertes en tot moment.
+####14. *Manteniment*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El producte permetrà que els seus usuaris actualitzin les seves dades i que els botiguers puguin penjar ofertes en tot moment.
+	-	Justificació del requisit: El sistema ha de tindre les dades actualitzades.
+	-	Criteri de validació: Si les dades no estan actualitzades, aleshores la informació estaria erronia.
 
-15. *Suport*. El producte ofereirà servei de soport les 24 hores tots els dies de l'any per si els usuaris o els botiguers tenen algun problema.
+####15. *Suport*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El producte ofereirà servei de soport les 24 hores tots els dies de l'any per si els usuaris o els botiguers tenen algun problema.
+	-	Justificació del requisit: El sistema a d'ofereir servei de suport per qualsevol problema que pugui sorgir durant la seva utilització.
+	-	Criteri de validació: Si algun usuari te un problema i no té suport, l'usuari no podrà resoldre el problema.
 
-16. *Adaptabilitat*. El producte estarà disponible per Windows Phone, IOS, Andrioid i tindrà servei web, per tal que els usuaris no quedin restringits per l'arquitectura dels seus dispositius.
+####16. *Adaptabilitat*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El producte estarà disponible per Windows Phone, IOS, Andrioid i tindrà servei web, per tal que els usuaris no quedin restringits per l'arquitectura dels seus dispositius.
+	-	Justificació del requisit: El sistema s'ha de poder utilitza des de diferents plataformes.
+	-	Criteri de validació: Si el sistema no es apte per algunes plataformes, els usuaris que les utilitzen no podràn utilitzar el sistema.
 
-17. *Integritat* El producte haurà de previndre l'introducció de dades incorrectes, per tal que aquestes no pugiin ocasionar problemes més endavant.
+####17. *Integritat*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: El producte haurà de previndre l'introducció de dades incorrectes, per tal que aquestes no pugiin ocasionar problemes més endavant.
+	-	Justificació del requisit: El sistema sempre ha de mostrar dades que siguin correctes.
+	-	Criteri de validació: Si no es prevé de que les dades siguin incorrectes, aleshores no tenim la fiabilitat de que aquestes estiguin actualitzades i correctes en tot moment.
 
-18. *Privacitat* Els usuaris s'informaràn de tots els usos que tindràn les seves dades, inclús quan es facin actualitzacions que requereixin de més funcions diferents. D'aquesta forma l'usuari sempre pot triar si fer servir o no el sistema depenent de l'ús que es pugui donar a aquestes dades.
+####18. *Privacitat*####
+	-	Tipus de Requisit: No funcional.
+	-	Descripció: Els usuaris s'informaràn de tots els usos que tindràn les seves dades, inclús quan es facin actualitzacions que requereixin de més funcions diferents. D'aquesta forma l'usuari sempre pot triar si fer servir o no el sistema depenent de l'ús que es pugui donar a aquestes dades.
+	-	Justificació del requisit: El usuaris han d'estar informats de l'ús de les seves dades.
+	-	Criteri de validació: Si els usuaris no estan informats sobre l'ús de les seves dades, aleshores, es podria generar desconfiança.
 
 ## 2. MockUps##
 

@@ -16,7 +16,7 @@ Distingirem entre els seguents rols de treball:
 * Tester. Es la persona responsable de realitzar proves a l'aplicació i reporta els seus errors abans de la sortida d'aquesta al públic.
 
 Rol|Persones
-:---:|:---:
+:---|:---:
 Cap del projecte|1
 Arquitecte|1
 Dissenyador|1
@@ -33,7 +33,7 @@ Tester|10
 #### ESTIMACIÓ TCF ####
 
 Descripció|Pes|Prioritat
-:---:|:---:|:---:
+:---|:---:|:---:
 Sistema distribuït|1|5
 Rendiment|2|3
 Eficiencia del Usuari Final|2|5
@@ -75,7 +75,7 @@ En el nostre cas obtenim `ECF = 0.98`
 #### ESTIMACIÓ UAW ####
 
 Actor|Pes
-:---:|:---:
+:---|:---:
 API Google Maps|1
 API RSS|1
 Usuari|3
@@ -92,7 +92,7 @@ En el nostre cas obtenim `UAW = 12`
 #### ESTIMACIÓ UUCW ####
 
 Casos d'ús|Complexitat|Pes
-:---:|:---:|:---:
+:---|:---:|:---:
 Log in|Simple|5
 Veure Newsletter|Simple|5
 Visualitzar Ruta|Mig|10
@@ -118,7 +118,7 @@ En el nostre cas obtenim `UUCW = 110`
 #### UCP ####
 
 Factor|Resultat
-:---:|:---:
+:---|:---:
 UUCW|110
 UAW|12
 TCF|0.98
@@ -152,7 +152,7 @@ Per cada fase s'ha establert un percentatge de dedicació per cada rol necessari
 #### Salari previst per rol ####
 
 Rol|Salari/hora|Factor de treball|Hores de treball|Salari en net|Salari en brut|
----|:---:|:---:|:---:|:---:|:---:|
+:---|:---:|:---:|:---:|:---:|:---:|
 Cap de projecte|14€|20%|524.6237|29,379€|41,130€
 Arquitecte|12€|12%|313.7197|15,059€|21,082€
 Analista funcional|12€|14%|375.67275|18,032€|25,245€
@@ -168,20 +168,20 @@ El factor de treball surten de la ponderació de cada rol amb les arees.
 
 El factor de treball surt al multiplicar el factor de treball per les hores totals del projecte.
 
-El salari brut s'obté a partir de la formula `Salari en brut = Salari/hora * Hores de treball`
+El salari brut s'obté a partir de la formula `Salari en brut = Salari/hora * Hores de treball * 4`
 
-El salari net s'obté a partir de la formula `Salari en net = Salari en brut - Salari en brut * 0.4 `
+El salari net s'obté a partir de la formula `Salari en net = Salari en brut - Salari en brut * 0.4`
 
 #### LLista de costos ####
 
-|Llista de costos|Preu|
-|:---:|:---:|
-|Costos del personal|178,417€|
-|Cost del lloc de treball|2.800€|
-|Cost total del personal|180,017€|
-|Despeses estructurals|10,104€|
-|Percentatge del marge de benefici|30,985€|
-|Percentatge de contingències (Riscos)|10,845€|
+Llista de costos|Preu|
+:---|:---:|
+Costos del personal|233,068€|
+Cost del lloc de treball|2,800€|
+Cost total del personal|235,868€|
+Despeses estructurals|35,380€|
+Percentatge del marge de benefici|108,499€|
+Percentatge de contingències (Riscos)|37,975€|
 
 Els costos de personal surten de la suma de tots els salaris del equip de treball.
 
@@ -195,7 +195,7 @@ El percentatge del marge de benefici l'obtenim  amb la formula: `(Cost total del
 
 El percentat de contingències (Riscos) l'obtenim amb la formula: `(Cost total del personal + Despases estructurals + Percentatge del marge de benefici) * 0.1`
 
-El pressupost final es la suma de tots els costos, per tant obtenim: `Pressupost final: 323,735€`
+El pressupost final es la suma de tots els costos, per tant obtenim: `Pressupost final: 417,722€`
 
 ## 3. PLA DE FASES ##
 

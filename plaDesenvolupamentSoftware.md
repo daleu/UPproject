@@ -137,7 +137,7 @@ En el nostre cas obtenim Estimació Temps = 1988.028 hores de treball ja que fem
 #### Dedicacions previstes per rol ####
 
 Rol|Inception|Elaboration|Construction|Transition
-:---:|:---:|:---:|:---:|:---:
+:---|:---:|:---:|:---:|:---:
 Cap de projecte|19.00%|12.00%|12.00%|60.00%
 Arquitecte|10.00%|15.00%|12.00%|6.67%
 Analista funcional|35.00%|25.00%|5.00%|6.67%
@@ -151,16 +151,16 @@ Per cada fase s'ha establert un percentatge de dedicació per cada rol necessari
 
 #### Salari previst per rol ####
 
-|Rol|Salari/hora|Factor de treball|Hores de treball|Salari en net|Salari en brut|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Cap de projecte|14€|0.242|481.1022776|26,942€|37,718€
-|Arquitecte|12€|0.104|206.754912|9,924€|13,894€
-|Analista funcional|12€|0.177|351.880956|16,890€|23,646€
-|Analista de xarxes|12€|0.112|222.659136|10,688€|14,963€
-|Dissenyador|10€|0.1|198.8028|7,952€|11,133€
-|Administrador de Base de Dades|10€|0.049|97.413372|3,897€|5,455€
-|Programador Senior|12€|0.112|222.659136|10,688€|14,963€
-|Tester|6€|0.104|206.754912|4,962€|6,947€
+Rol|Salari/hora|Factor de treball|Hores de treball|Salari en net|Salari en brut|
+---|:---:|:---:|:---:|:---:|:---:|
+Cap de projecte|14€|20%|524.6237|29,379€|41,130€
+Arquitecte|12€|12%|313.7197|15,059€|21,082€
+Analista funcional|12€|14%|375.67275|18,032€|25,245€
+Analista de xarxes|12€|7%|196.40435|9,427€|13,198€
+Dissenyador|10€|11%|299.22005|11,969€|16,756€
+Administrador de Base de Dades|10€|10%|255.7211|10,229€|14,320€
+Programador Senior|12€|19%|504.85145|24,233€|33,926€
+Tester|6€|0.104|6%|166.0869|3,986€|5,581€
 
 Considerem el Cap de projecte el rol de més pes del equip. Seguit per l'Arquitecte, Analista funcional, Analista de xarxes i Programador Senior. Aquests són essencials perquè el sistema es desenvolupi ràpid i bé. Després tindriem el Administrador de Bases de Dades i el Dissenyador, només són essencials per un factor en concret. Per últim quedaria el Tester de l'aplicació, el qual és necessari però no desenvolupa un servei d'especialista.
 

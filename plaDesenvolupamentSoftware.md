@@ -274,7 +274,9 @@ Per tant a partir d'aquest patró d'esforç i temps destinat al projecte ens sur
 :---:|:---:|:---:|:---:|:---:
 Dies Laborables|5|12|22|10
 Data Límit|8 de Febrer|24 de Febrer|30 de Març|13 de Abril
-Esforç (hores)|198,8028|497,007|894,6126|397,6056
+Esforç (hores)|198,8 |497|894,6|397,6
+
+###3.1.1 Síntesis de les iteracions de cada fase
 
 #### 1.Inception
 Iteració| DataIni| DataFi |Staff
@@ -292,6 +294,7 @@ Iteració| DataIni| DataFi |Staff
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 E1|8 de Febrer|16 de Febrer| 0.3
+
 ###### Objectius principals
 1. Preparació i comprobació de l'entorn de treball
 2. Implementar casos d'ús més important
@@ -303,6 +306,7 @@ E1|8 de Febrer|16 de Febrer| 0.3
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 E2|17 de Febrer|23 de Febrer| 0.3
+
 ###### Objectius principals
 1. Mitigar riscos arquitectònics
 2. Iniciar a recollir dades per veure efectivitat
@@ -312,6 +316,7 @@ E2|17 de Febrer|23 de Febrer| 0.3
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 C1|24 de Febrer|4 de Març| 0.45
+
 ###### Objectius principals
 1. Descriure casos d'ús adicionals
 2. Implementar casos d'ús
@@ -320,6 +325,7 @@ C1|24 de Febrer|4 de Març| 0.45
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 C2|7 de Març|16 de Març| 0.45
+
 ###### Objectius principals
 1. Idem
 2. Fer un seguimenta de la funcionalitat i practicitat
@@ -327,6 +333,7 @@ C2|7 de Març|16 de Març| 0.45
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 C3|17 de Març|29 de Març|0.45
+
 ###### Objectius principals
 1. Idem
 2. Crear una versió beta per a l'úsuari i rol de botiguer
@@ -336,6 +343,7 @@ C3|17 de Març|29 de Març|0.45
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 C1|30 de Març|12 de Abril|0.15
+
 ###### Objectius principals
 1. Descriure casos d'ús adicionals
 2. Implementar casos d'ús

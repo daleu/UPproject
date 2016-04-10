@@ -30,7 +30,18 @@ Tester||
 ## 3. ACTIVITATS ##
 
 > Llisteu les activitats de la iteració, juntament amb el temps esperat d'execució. Establiu les precedències entre activitats
- 
+
+Les diferents actvitats de la iteració T1 que estableixen la primera fase del projecte, mostren els següents resultats:
+
+nº|Activitat|Esforç|Temps Esperat
+:---:|:---:|:---:|:---:
+1|Establir el model de projecte||
+2|Definir visió del projecte||
+3|Estimar el temps i calcular pressupost||
+4|Esmentar els possibles ricos||
+5|Disenyar els casos d'ús i funcionalitats||
+
+
 ## 4. DIAGRAMA DE GANTT ##
 
 > Feu el diagrama de Gantt amb tota la informació necessària (dates, personal, fites, precedències, ...). Feu també el diagrama de PERT per discernir el temps mínim i màxim d'execució

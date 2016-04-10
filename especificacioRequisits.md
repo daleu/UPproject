@@ -5,7 +5,7 @@
 ### 1.1. Diagrama de casos d'ús
 
 
-![](./imatges/CasdUs.png)
+![](./imatges/Casdus.png)
 
 - Cas d'ús UC001 - *Log in*: Permet que l'usuari es pugui loguejar a l'aplicació.
 - Cas d'ús UC002 - *Newsletter*: Permet que els usuaris puguin consultar els canvis recents en el sistema.

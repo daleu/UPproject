@@ -297,7 +297,7 @@
 
 Llista Botigues:
 
-![](./imatges/MockUps/MockUPLlistaBotigues.png)
+![](./imatges/MockUps/MockUpLlistaBotigues.png)
 
 Llista Rutes Temàtiques:
 

@@ -136,16 +136,18 @@ En el nostre cas obtenim Estimació Temps = 1988.028 hores de treball ja que fem
 
 #### Dedicacions previstes per rol ####
 
-Disciplina|Rol|Dedicació|Rol|Dedicació|Rol|Dedicació|Factor d'importancia
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-Model d'empresa|Arquitecte|80%|Cap de Projecte|20%|||13
-Requeriments|Analista de Xarxes|40%|Cap de Projecte|20%|Analista funcional|40%|18
-Anàlisis i disseny|Dissenyador|50%|Analista funcional|30%|Analista de Xarxes|20%|20
-Implementació|Analista funcional|25%|Programador Senior|55%|Administrador de BD|20%|18
-Test|Tester|80%|Programador Senior|10%|Administrador de BD|10%|13
-Project|Manager|Cap de projecte|100%||||18
+Rol|Inception|Elaboration|Construction|Transition
+:---:|:---:|:---:|:---:|:---:
+Cap de projecte|19.00%|12.00%|12.00%|60.00%
+Arquitecte|10.00%|15.00%|12.00%|6.67%
+Analista funcional|35.00%|25.00%|5.00%|6.67%
+Analista de xarxes|3.00%|10.00%|7.00%|6.67%
+Dissenyador|30.00%|17.00%|5.00%|6.67%
+Administrador de Base de Dades|3.00%|10.00%|12.00%|6.67%
+Programador Senior|0.00%|8.00%|35.00%|6.67%
+Tester|0.00%|3.00%|12.00%|0.00%
 
-Per cada disciplina s'ha establert un percentatge de dedicació per cada rol necessari. Aquesta dedicació s'usara per calcular el factor de treball.
+Per cada fase s'ha establert un percentatge de dedicació per cada rol necessari. Aquesta dedicació s'usara per calcular el factor de treball.
 
 #### Salari previst per rol ####
 

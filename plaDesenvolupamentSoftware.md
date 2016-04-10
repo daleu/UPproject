@@ -264,10 +264,11 @@ Effort	|5%|25%|55%|15%
 Schedule|10%|25%|45%|20%
 
 Per aquesta taula hem sigut els patrons d'una estimació standard però li hem aplicat unes petites modificacions per adaptar-lo al nostre projecte.
-- Per una banda pel que es fa respecte al **effort**, hem  considerat que es necesita més esforç a la fase de *Elaboration  i Contruction*. Ja que l'èxit de la nostra app dependrà sobretot de la validesa, simplicitat y funcionals dades obtingutes dels comerços. Llavors a cada fase s'haurà d'afegir un esforç extra d'un seguiment sobre les dades obtingudes, si existeixen dificultats, si s'haurien d'afegir més funcionalitats, ect. Però sobretot amb el pas del temps saber com evoluciona aquest estat de les dades.
-- Per l'altre banda, pel que fa a la part de **schedule** va molt lligat a la mateixa raó pel qual s'ha modificat l'**effort**. Ja que es necessitarà a les mateixes fases citades anteriorment un temps afegit als projectes standart en la recollida de dades y gestió d'aquestes.
 
-Per tant a partir d'aquest patró d'esforç i temps destinat al projecte ens surtens aquestes dates de finalizació de fase i el temps que s'haurà de destinar a cadascuna.
+* Per una banda pel que es fa respecte al **effort**, hem  considerat que es necesita més esforç a la fase de *Elaboration  i Contruction*. Ja que l'èxit de la nostra app dependrà sobretot de la validesa, simplicitat y funcionals dades obtingutes dels comerços. Llavors a cada fase s'haurà d'afegir un esforç extra d'un seguiment sobre les dades obtingudes, si existeixen dificultats, si s'haurien d'afegir més funcionalitats, ect. Però sobretot amb el pas del temps saber com evoluciona aquest estat de les dades.
+* Per l'altre banda, pel que fa a la part de **schedule** va molt lligat a la mateixa raó pel qual s'ha modificat l'**effort**. Ja que es necessitarà a les mateixes fases citades anteriorment un temps afegit als projectes standart en la recollida de dades y gestió d'aquestes.
+
+Per tant a partir d'aquest patró d'esforç i temps destinat al projecte ens surtens aquestes dates de finalizació de fase i el temps que s'haurà de destinar a cadascuna, suposant de que el projecte es va iniciar el día **1 de Febrer**.
 
 |Inception|Elaboration|Construction|Transition
 :---:|:---:|:---:|:---:|:---:
@@ -279,6 +280,7 @@ Esforç (hores)|198,8028|497,007|894,6126|397,6056
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
  T1|1 de Febrer|5 de Febrer| 0.1
+
 ###### Objectius principals
 1. Establir el model de projecte
 2. Definir visió del projecte

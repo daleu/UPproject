@@ -260,10 +260,14 @@ A partir del grau d'esforç de cada treballador amb diferent rol y les hores que
 
 |Inception|Elaboration|Construction|Transition
 :---:|:---:|:---:|:---:|:---:
-Effort	|10%|20%|35%|25%
+Effort	|5%|25%|55%|15%
 Schedule|10%|25%|45%|20%
 
+Per aquesta taula hem sigut els patrons d'una estimació standard però li hem aplicat unes petites modificacions per adaptar-lo al nostre projecte.
+- Per una banda pel que es fa respecte al **effort**, hem  considerat que es necesita més esforç a la fase de *Elaboration  i Contruction*. Ja que l'èxit de la nostra app dependrà sobretot de la validesa, simplicitat y funcionals dades obtingutes dels comerços. Llavors a cada fase s'haurà d'afegir un esforç extra d'un seguiment sobre les dades obtingudes, si existeixen dificultats, si s'haurien d'afegir més funcionalitats, ect. Però sobretot amb el pas del temps saber com evoluciona aquest estat de les dades.
+- Per l'altre banda, pel que fa a la part de **schedule** va molt lligat a la mateixa raó pel qual s'ha modificat l'**effort**. Ja que es necessitarà a les mateixes fases citades anteriorment un temps afegit als projectes standart en la recollida de dades y gestió d'aquestes.
 
+Per tant a partir d'aquest patró d'esforç i temps destinat al projecte ens surtens aquestes dates de finalizació de fase i el temps que s'haurà de destinar a cadascuna.
 
 |Inception|Elaboration|Construction|Transition
 :---:|:---:|:---:|:---:|:---:
@@ -274,18 +278,18 @@ Esforç (hores)|198,8028|497,007|894,6126|397,6056
 #### 1.Inception
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
- T1|1 de Febrer|5 de Febrer|
+ T1|1 de Febrer|5 de Febrer| 0.1
 ###### Objectius principals
-1. Establir el model de projecte   Definir visió del projecte
-2. Estimar el temps i calcular pressupost
-3. Esmentar els possibles ricos
-4. Disenyar els casos d'ús i funcionalitats
+1. Establir el model de projecte
+2. Definir visió del projecte
+3. Estimar el temps i calcular pressupost
+4. Esmentar els possibles ricos
+5. Disenyar els casos d'ús i funcionalitats
 
 #### 2.Elaboration
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-E1|8 de Febrer|16 de Febrer|
-
+E1|8 de Febrer|16 de Febrer| 0.3
 ###### Objectius principals
 1. Preparació i comprobació de l'entorn de treball
 2. Implementar casos d'ús més important
@@ -296,8 +300,7 @@ E1|8 de Febrer|16 de Febrer|
 
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-E2|17 de Febrer|23 de Febrer|
-
+E2|17 de Febrer|23 de Febrer| 0.3
 ###### Objectius principals
 1. Mitigar riscos arquitectònics
 2. Iniciar a recollir dades per veure efectivitat
@@ -306,8 +309,7 @@ E2|17 de Febrer|23 de Febrer|
 #### 3.Construction
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C1|24 de Febrer|4 de Març|
-
+C1|24 de Febrer|4 de Març| 0.45
 ###### Objectius principals
 1. Descriure casos d'ús adicionals
 2. Implementar casos d'ús
@@ -315,15 +317,14 @@ C1|24 de Febrer|4 de Març|
 
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C2|7 de Març|4 de Febrer|16 de Març
+C2|7 de Març|16 de Març| 0.45
 ###### Objectius principals
 1. Idem
 2. Fer un seguimenta de la funcionalitat i practicitat
 
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C3|17 de Març|29 de Març|
-
+C3|17 de Març|29 de Març|0.45
 ###### Objectius principals
 1. Idem
 2. Crear una versió beta per a l'úsuari i rol de botiguer
@@ -332,8 +333,7 @@ C3|17 de Març|29 de Març|
 #### 4.Transition
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C1|30 de Març|12 de Abril|
-
+C1|30 de Març|12 de Abril|0.15
 ###### Objectius principals
 1. Descriure casos d'ús adicionals
 2. Implementar casos d'ús

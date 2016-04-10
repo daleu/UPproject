@@ -10,18 +10,18 @@
 
 L'iteració d'Inception, I1, es dura a terme del 1 al 5 de Febrer.
 
-En la següent taula mostra el esforç de cada rol per aquesta iteració.
+En la següent taula es mostra l'esforç de cada rol per aquesta iteració.
 
 Rol|Esforç
-:---:|:---:
+:---|:---:
 Cap de Projecte|19%
 Arquitecte|10%
 Analista Funcional|35%
 Analista de Xarxes|3%
 Dissenyador|30%
 Administrador de Bases de Dades|3%
-Programador Senior||
-Tester||
+Programador Senior|0%|
+Tester|0%|
 
 ## 2. COBERTURA DE CASOS D'ÚS ##
 
@@ -34,7 +34,7 @@ Tester||
 Les diferents actvitats de la iteració T1 que estableixen la primera fase del projecte, mostren els següents resultats:
 
 nº|Activitat|Esforç|Temps Esperat
-:---:|:---:|:---:|:---:
+:---:|:---|:---:|:---:
 1|Establir el model de projecte||
 2|Definir visió del projecte||
 3|Estimar el temps i calcular pressupost||

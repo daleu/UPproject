@@ -285,6 +285,7 @@ Iteració| DataIni| DataFi |Staff
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 E1|8 de Febrer|16 de Febrer|
+
 ###### Objectius principals
 1. Preparació i comprobació de l'entorn de treball
 2. Implementar casos d'ús més important
@@ -296,6 +297,7 @@ E1|8 de Febrer|16 de Febrer|
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 E2|17 de Febrer|23 de Febrer|
+
 ###### Objectius principals
 1. Mitigar riscos arquitectònics
 2. Iniciar a recollir dades per veure efectivitat
@@ -305,6 +307,7 @@ E2|17 de Febrer|23 de Febrer|
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 C1|24 de Febrer|4 de Març|
+
 ###### Objectius principals
 1. Descriure casos d'ús adicionals
 2. Implementar casos d'ús
@@ -320,6 +323,7 @@ C2|7 de Març|4 de Febrer|16 de Març
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
 C3|17 de Març|29 de Març|
+
 ###### Objectius principals
 1. Idem
 2. Crear una versió beta per a l'úsuari i rol de botiguer
@@ -328,7 +332,8 @@ C3|17 de Març|29 de Març|
 #### 4.Transition
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C1|30 de Març|12 de Abril	|
+C1|30 de Març|12 de Abril|
+
 ###### Objectius principals
 1. Descriure casos d'ús adicionals
 2. Implementar casos d'ús

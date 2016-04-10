@@ -160,7 +160,7 @@ Analista de xarxes|12€|7%|196.40435|9,427€|13,198€
 Dissenyador|10€|11%|299.22005|11,969€|16,756€
 Administrador de Base de Dades|10€|10%|255.7211|10,229€|14,320€
 Programador Senior|12€|19%|504.85145|24,233€|33,926€
-Tester|6€|0.104|6%|166.0869|3,986€|5,581€
+Tester|6€|6%|166.0869|3,986€|5,581€
 
 Considerem el Cap de projecte el rol de més pes del equip. Seguit per l'Arquitecte, Analista funcional, Analista de xarxes i Programador Senior. Aquests són essencials perquè el sistema es desenvolupi ràpid i bé. Després tindriem el Administrador de Bases de Dades i el Dissenyador, només són essencials per un factor en concret. Per últim quedaria el Tester de l'aplicació, el qual és necessari però no desenvolupa un servei d'especialista.
 

@@ -12,20 +12,38 @@ L'iteració d'Inception, I1, es dura a terme del 1 al 5 de Febrer.
 
 En la següent taula es mostra l'esforç de cada rol per aquesta iteració.
 
-Rol|Esforç
-:---|:---:
-Cap de Projecte|19%
-Arquitecte|10%
-Analista Funcional|35%
-Analista de Xarxes|3%
-Dissenyador|30%
-Administrador de Bases de Dades|3%
-Programador Senior|0%|
-Tester|0%|
+|Rol|Esforç|
+|:---|:---:|
+|Cap de Projecte|19%|
+|Arquitecte|10%|
+|Analista Funcional|35%|
+|Analista de Xarxes|3%|
+|Dissenyador|30%|
+|Administrador de Bases de Dades|3%|
+|Programador Senior|0%|
+|Tester|0%|
 
 ## 2. COBERTURA DE CASOS D'ÚS ##
 
 > Poseu l'estat en què penseu que es trobarà cada cas d'ús en acabar la iteració. Ha de ser coherent amb l'esforç assignat a la iteració
+
+|Num|Iteració 1|
+|---|---|
+|1.| Identificat|
+|2.|-|
+|3.|Identificat|
+|4.|Identificat|
+|5.|-|
+|6.|Identificat|
+|7.|Identificat|
+|8.|Identificat|
+|9.|Identificat|
+|10.|Identificat|
+|11.|Identificat|
+|12.|Identificat|
+|13.|Identificat|
+|14.|-|
+|15.|-|
 
 ## 3. ACTIVITATS ##
 

@@ -201,72 +201,44 @@ El pressupost final es la suma de tots els costos, per tant obtenim: `Pressupost
 
 ###3.1 Estats de casos d'ús
 |Casos d'ús|
-
 |---|
-
 |1. Log in|
-
 |2. Veure Newsletter|
-
 |3. Visualitzar Ruta|
-
 |4. Consultar rutes temàtiques|
-
 |5. Compartir ruta visitada|
-
 |6. Visualitzar Botiga|
-
 |7. Valorar Botiga|
-
 |8. Demanar gestions del sisyema|
-
 |9. Afegir botiga|
-
 |10. Editar Botiga|
-
 |11. Eliminar Botiga|
-
 |12. Gestionar notícies|
-
 |13. Administrar rutes temàtiques|
 |14. LListar Botigues|
-
 |15. Fer Auditories|
- 
+
 
 
 |Num|Inception|Elaboration|Construction|Transition|
-
 |---|---|---|---|---|
-
 |1.| I, Esboçat|I, E, Refinat|I, E, R, A, Complert|I, E, R, A, Complert|
-
 |2.|-|I, Esboçat|I, E, R, A, Complert|I, E, R, A, Complert|
-
 |3.|I, Esboçat|I, E, R, Analitzat|I, E, R, A, Complert|I, E, R, A, Complert|
 |4.|I, Esboçat|I, E, Refinat|I, E, R, A, Complert|I, E, R, A, Complert|
 |5.|-|Identificat|I, E, R, Analitzat|I, E, R, A, Complert|
-
 |6.|Identificat|I, Esboçat|I, E, R, A, Complert|I, E, R, A, Complert|
-
 |7.|I, Esboçat|I, E, Refinat|I, E, R, A, Complert|I, E, R, A, Complert|
 |8.|I, E, Refinat|I, E, R, Complert|I, E, R, A, Complert|I, E, R, A, Complert|
-
 |9.|I, Esboçat|I, E, Refinat|I, E, R, A, Complert|I, E, R, A, Complert|
-
 |10.|I, Esboçat|I, E, R, Analitzat|I, E, R, A, Complert|I, E, R, A, Complert|
-
 |11.|I, Esboçat|I, E, R, Analitzat|I, E, R, A, Complert|I, E, R, A, Complert|
-
 |12.|I, Esboçat|I, E, R, Analitzat|I, E, R, A, Complert|I, E, R, A, Complert|
-
 |13.|Identificat|I, Esboçat|I, E, R, Analitzat|I, E, R, A, Complert|
-
 |14.|-|Identificat|I, E, R, Analitzat|I, E, R, A, Complert|
-
 |15.|-|Identificat|I, E, R, Analitzat|I, E, R, A, Complert|
 
-									
+
 
 ###3.1 Informació rellevant
 

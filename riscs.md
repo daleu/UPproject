@@ -26,7 +26,7 @@ Aplicar la seguretat apropiada per a cada tipus de dades.
  
 ### Plans de mitigació ###
 
-Fer reset de les dades d’accés, per evitar usuaris no desitjats.
+Fer un reinici de les dades d’accés, per evitar usuaris no desitjats.
 
 
 
@@ -65,7 +65,7 @@ En cas de produir-se, s’hauria d’actualitzar la informació com més aviat p
 
 ### Descripció ###
 
-Un projecte no es pot dur a terme si no té suficient finançament. És per això que és important assegurar les fonts de finançament del projecte. Aquest projecte està financiat per l'Ajuntament de la ciutat, és per això, que aquest risc es donaria en el cas en que l'ajuntamen decidis no financiar el projecte.
+Un projecte no es pot dur a terme si no té suficient finançament. És per això que és important assegurar les fonts de finançament del projecte. Aquest projecte és finançat per l'Ajuntament de la ciutat, és per això, que aquest risc es donaria en el cas en què l'ajuntament decidís no finançar el projecte.
 
 ### Probabilitat ###
 
@@ -133,7 +133,7 @@ Probable.
  
 ### Impacte ###
 
-Com la información no estarà actualitzada, els usuaris de l’aplicació, anirien deixant l’aplicació en desús. A més, els comerços que no actualitzin les seves dades tindran menys clients aportats per l’aplicació.
+Com la informació no estarà actualitzada, els usuaris de l’aplicació, anirien deixant l’aplicació en desús. A més, els comerços que no actualitzin les seves dades tindran menys clients aportats per l’aplicació.
 
 ### Indicadors ###
 
@@ -162,9 +162,9 @@ Probable.
  
 ### Impacte ###
 
-Els usuaris, al veure que les dades no son correctes o que conté negocis sospitosos, es podria donar de baixa, cosa que pot crear un impacte en els comerços que sí que estan interessats.
+Els usuaris, en veure que les dades no són correctes o que conté negocis sospitosos, es podria donar de baixa, cosa que pot crear un impacte en els comerços que sí que estan interessats.
 
-També podria incrementar l'access a productes il·legals anomenats sota pseudònims.
+També podria incrementar l'accés a productes il·legals anomenats sota pseudònims.
 
 ### Indicadors ###
 

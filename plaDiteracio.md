@@ -53,11 +53,25 @@ Les diferents actvitats de la iteració T1 que estableixen la primera fase del p
 
 nº|Activitat|Esforç|Temps Esperat
 :---:|:---|:---:|:---:
-1|Establir el model de projecte||
-2|Definir visió del projecte||
-3|Estimar el temps i calcular pressupost||
-4|Esmentar els possibles ricos||
-5|Disenyar els casos d'ús i funcionalitats||
+1|Desenvolupar el model que tindrà el projecte |10%|
+2|Definir la visió|15%|
+3|Disenyar els casos d'ús i funcionalitats|25%|
+4|Determinar els possibles ricos|20%|
+5|Estimar el temps i calcular pressupost|25%|
+6|Planificar la venda el projecte |5%|
+
+>US HO POSSO TEMPORALMENT PER A QUE HO TINGEU:
+--------------------------------------------------------------
+Precedencies:
+1 -> 2 ( tot i que es poden solapar una mica)
+Quan 1-> 2 Acabat es poden fer en paralel
+3 i 4 en paralel. 
+
+Quan 3 estigui apunt d'acabar-se pot començar 5
+
+Quan tots estiguin acabats es fa el 6. Tot i que es pot começar una mica abans
+
+-------------------------------------------------------------
 
 
 ## 4. DIAGRAMA DE GANTT ##

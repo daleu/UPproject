@@ -1,7 +1,5 @@
 ﻿# BotiguesBCN - RISCS #
 
-
-
 ## RISC 001. Atacs per robar informació ##
 
 ### Descripció ###
@@ -48,9 +46,6 @@ En cas de produir-se, els usuaris de l’aplicació tindran una informació err�
 
 Els usuaris, en veure que l’aplicació dóna una informació errònia, es poden donar de baixa.
  
-
-
-
 ### Estratègies de mitigació ###
 
 Hi hauria d’haver gent (empleats, els botiguers, etc.) que mantingués les dades actualitzades en tot moment.

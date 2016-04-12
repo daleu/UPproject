@@ -101,4 +101,6 @@ nº|Activitat|Esforç|Temps Esperat
 
 ![](./imatges/Inception.png)
 
+Diagrama de Pert
+
 ![](./imatges/pert.png)

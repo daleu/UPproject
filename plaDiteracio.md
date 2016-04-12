@@ -73,6 +73,50 @@ Quan tots estiguin acabats es fa el 6. Tot i que es pot começar una mica abans
 
 -------------------------------------------------------------
 
+### Administració del Projecte ###
+
+nº|Activitat|Esforç|Temps Esperat
+:---|:---|:---:|:---:
+1|Establir el model del projecte|||
+2|Avaluar el projecte i l'abast dels riscos|||
+3|Gestionar Iteració|||
+4|Gestionar el projecte|||
+Planejar seguent iteració|||
+
+### Model de Negoci ###
+
+nº|Activitat|Esforç|Temps Esperat
+:---|:---|:---:|:---:
+1|Avaluar l'estat de negoci|||
+2|Identificar i refinar els processos de negoci|||
+3|Definir la realització dels processos de negoci|||
+4|Definir rols i responsabilitats|||
+
+### Requisits ###
+
+nº|Activitat|Esforç|Temps Esperat
+:---|:---|:---:|:---:
+1|Analitzar el problema|||
+2|Entendre la necessitat dels Stakeholders|||
+3|Definir i gestionar l'abast del sistema|||
+4|Refinar la definició del sistema|||
+5|Gestionar els canvis de requisits|||
+
+### Analisis i Disseny ###
+
+nº|Activitat|Esforç|Temps Esperat
+:---|:---|:---:|:---:
+1|Dur a terme la synthesis estructural|||
+2|Dissenyar casos d'us i funcionalitats|||
+
+### Entorn ###
+
+nº|Activitat|Esforç|Temps Esperat
+:---|:---|:---:|:---:
+1|Prepara l'entorn del projecte|||
+2|Prepara l'entorn d'iteració|||
+3|Prepara directrius d'iteració|||
+4|Donar suport a l'entorn durant l'iteració|||
 
 ## 4. DIAGRAMA DE GANTT ##
 

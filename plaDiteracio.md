@@ -81,7 +81,7 @@ nº|Activitat|Esforç|Temps Esperat
 2|Avaluar el projecte i l'abast dels riscos|||
 3|Gestionar Iteració|||
 4|Gestionar el projecte|||
-Planejar seguent iteració|||
+5|Planejar seguent iteració|||
 
 ### Model de Negoci ###
 

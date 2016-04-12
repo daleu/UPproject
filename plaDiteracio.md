@@ -121,3 +121,5 @@ nº|Activitat|Esforç|Temps Esperat
 ## 4. DIAGRAMA DE GANTT ##
 
 > Feu el diagrama de Gantt amb tota la informació necessària (dates, personal, fites, precedències, ...). Feu també el diagrama de PERT per discernir el temps mínim i màxim d'execució
+
+![](./imatges/Inception.png)

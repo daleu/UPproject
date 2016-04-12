@@ -101,6 +101,12 @@ nº|Activitat|Esforç|Temps Esperat
 
 ![](./imatges/Inception.png)
 
+Al diagrama de GANTT hem pogut representar de forma molt visual el sistema de precedències, i els períodes de treball de cada activitat. Començant el dia 1 i finalitzant el dia 10, hem pogut desenvolupar activitats paral·lelament seguint les seqüencialitats necessàries.
+
 Diagrama de Pert
 
 ![](./imatges/pert.png)
+
+El diagrama de PERT, ens permet dibuixar la xarxa de tasques d'un projecte representada per diferents nodes i fletxes.
+
+En aquest cas, hem diferenciat els diferents tipus d'activitats del projecte amb colors. Començant per l'establiment del model de projecte hem seguit l'estructura de precedencies fins representar totes les activitats.

@@ -1,4 +1,4 @@
-﻿# BotiguesBCN - VISIÓ #
+# BotiguesBCN - VISIÓ #
 
 
 ## 1. INTRODUCCIÓ ##
@@ -31,11 +31,7 @@ Durant l'última dècada  s'ha donat el cas de que hem passat d'un tipus de come
 ### 4.1. Perspectiva del producte ###
 
 Es tracta de un sistema d’informació, que disposa de una BD que conté tota la informació dels petits comerços. Disposaria de una APP per mòbil i de una web que mostra aquesta informació. 
- 
-![](https://bitbucket.org/celiaUPC/gps-up-11/src/bf769a996dd75a2d80c8c453fb061fb0afe80511/imatges/visio_producte.png?at=master&fileviewer=file-view-default)
-
-
-
+![](./imatges/visio_producte.png)
 
 ### 4.2. Descripció del producte ###
 
@@ -83,5 +79,10 @@ Es tracta de un sistema d’informació, que disposa de una BD que conté tota l
 
 ## 5. RECURSOS ##
 
-[1] Evolvens Ideas S.L. Mi comercio local [en línea]. Edifici CINC, Barcelona.[Consula: 01/03/2016]. Disponible en: <http://blog.micomerciolocal.com/>
-[2] Associació del Comerç i la Industria (ACI). Associat Santa coloma [en línea]. Santa Coloma de Gramenet. [Consulta: 01/03/2016]. Disponible en: http://www.acisantacoloma.cat/
+* [1] Evolvens Ideas S.L. Mi comercio local [en línea]. Edifici CINC, Barcelona.[Consulta: 01/03/2016]. Disponible en: <http://blog.micomerciolocal.com/>
+* [2] Associació del Comerç i la Industria (ACI). Associat Santa coloma [en línea]. Santa Coloma de Gramenet. [Consulta: 01/03/2016]. Disponible en: <http://www.acisantacoloma.cat/>
+* [3] Diagrama de GANTT. CCM [en línea]. [Consulta 10/04/2016]. Disponible en: <http://es.ccm.net/contents/580-diagrama-de-gantt>
+* [4] Diagrama de PERT. CMM [en línea]. [Consulta 10/04/2016]. Disponible en: <http://es.ccm.net/contents/582-metodo-pert>
+* [5] Markdown Tutorial. Bitbucket [en línea]. [Consulta durant tot el projecte]. <https://bitbucket.org/tutorials/markdowndemo>
+* [6] Plantilla Volere. The Atlantic Systems Guild Limited. [Consulta 04/04/2016]. <http://www.volere.co.uk/pdf%20files/template_es.pdf>
+* [7] Rational Unified Process. School of Science and Computer Engineering. University of Houston, Clear Lake [Consulta 10/04/2016]. <http://sce.uhcl.edu/helm/rationalunifiedprocess/>

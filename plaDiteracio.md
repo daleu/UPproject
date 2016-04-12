@@ -60,7 +60,7 @@ nº|Activitat|Esforç|Temps Esperat
 5|Planejar seguent iteració|11,1%|
 
 Precedencies d'aquestes activitats
-![](http://i66.tinypic.com/2nlsjt3.jpg)
+![](./imatges/PrecedenciesPlaIteracio/1.png)
 
 ### B. Model de Negoci ###
 
@@ -70,7 +70,7 @@ nº|Activitat|Esforç|Temps Esperat
 2|Identificar i refinar els processos de negoci|20%|
 3|Definir la realització dels processos de negoci|40%|
 4|Definir rols i responsabilitats|20%|
-
+![](./imatges/PrecedenciesPlaIteracio/2.png)
 ### C. Requisits ###
 
 nº|Activitat|Esforç|Temps Esperat
@@ -80,6 +80,7 @@ nº|Activitat|Esforç|Temps Esperat
 3|Definir i gestionar l'abast del sistema|12,5|
 4|Refinar la definició del sistema|25%|
 5|Gestionar els canvis de requisits|37,5%|
+![](./imatges/PrecedenciesPlaIteracio/3.png)
 
 ### D. Analisis i Disseny ###
 
@@ -87,7 +88,7 @@ nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
 1|Dur a terme la synthesis estructural|40%|
 2|Dissenyar casos d'us i funcionalitats|60%|
-
+![](./imatges/PrecedenciesPlaIteracio/4.png)
 ### E.  Entorn ###
 
 nº|Activitat|Esforç|Temps Esperat
@@ -96,6 +97,8 @@ nº|Activitat|Esforç|Temps Esperat
 2|Prepara l'entorn d'iteració|20%|
 3|Prepara directrius d'iteració|20%|
 4|Donar suport a l'entorn durant l'iteració|40%|
+![](./imatges/PrecedenciesPlaIteracio/5.png)
+
 
 ## 4. DIAGRAMA DE GANTT ##
 

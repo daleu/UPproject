@@ -79,5 +79,10 @@ d'aquestes eines per poder compartir les accions que es duen a terme
 
 ## 5. RECURSOS ##
 
-[1] Evolvens Ideas S.L. Mi comercio local [en línea]. Edifici CINC, Barcelona.[Consula: 01/03/2016]. Disponible en: <http://blog.micomerciolocal.com/>
-[2] Associació del Comerç i la Industria (ACI). Associat Santa coloma [en línea]. Santa Coloma de Gramenet. [Consulta: 01/03/2016]. Disponible en: http://www.acisantacoloma.cat/
+* [1] Evolvens Ideas S.L. Mi comercio local [en línea]. Edifici CINC, Barcelona.[Consulta: 01/03/2016]. Disponible en: <http://blog.micomerciolocal.com/>
+* [2] Associació del Comerç i la Industria (ACI). Associat Santa coloma [en línea]. Santa Coloma de Gramenet. [Consulta: 01/03/2016]. Disponible en: <http://www.acisantacoloma.cat/>
+* [3] Diagrama de GANTT. CCM [en línea]. [Consulta 10/04/2016]. Disponible en: <http://es.ccm.net/contents/580-diagrama-de-gantt>
+* [4] Diagrama de PERT. CMM [en línea]. [Consulta 10/04/2016]. Disponible en: <http://es.ccm.net/contents/582-metodo-pert>
+* [5] Markdown Tutorial. Bitbucket [en línea]. [Consulta durant tot el projecte]. <https://bitbucket.org/tutorials/markdowndemo>
+* [6] Plantilla Volere. The Atlantic Systems Guild Limited. [Consulta 04/04/2016]. <http://www.volere.co.uk/pdf%20files/template_es.pdf>
+* [7] Rational Unified Process. School of Science and Computer Engineering. University of Houston, Clear Lake [Consulta 10/04/2016]. <http://sce.uhcl.edu/helm/rationalunifiedprocess/>

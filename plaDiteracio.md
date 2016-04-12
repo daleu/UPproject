@@ -49,7 +49,7 @@ En la següent taula es mostra l'esforç de cada rol per aquesta iteració.
 
 Les diferents actvitats de la iteració T1 que estableixen la primera fase del projecte, mostren els següents resultats:
 
-### Administració del Projecte ###
+### A. Administració del Projecte ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
@@ -59,7 +59,10 @@ nº|Activitat|Esforç|Temps Esperat
 4|Gestionar el projecte|33,3%|
 5|Planejar seguent iteració|11,1%|
 
-### Model de Negoci ###
+Precedencies d'aquestes activitats
+![](http://i66.tinypic.com/2nlsjt3.jpg)
+
+### B. Model de Negoci ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
@@ -68,7 +71,7 @@ nº|Activitat|Esforç|Temps Esperat
 3|Definir la realització dels processos de negoci|40%|
 4|Definir rols i responsabilitats|20%|
 
-### Requisits ###
+### C. Requisits ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
@@ -78,14 +81,14 @@ nº|Activitat|Esforç|Temps Esperat
 4|Refinar la definició del sistema|25%|
 5|Gestionar els canvis de requisits|37,5%|
 
-### Analisis i Disseny ###
+### D. Analisis i Disseny ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
 1|Dur a terme la synthesis estructural|40%|
 2|Dissenyar casos d'us i funcionalitats|60%|
 
-### Entorn ###
+### E.  Entorn ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:

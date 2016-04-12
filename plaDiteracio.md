@@ -1,4 +1,3 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # BotiguesBCN - PLA D'ITERACIÓ Inception-I1 #
 
@@ -47,76 +46,53 @@ En la següent taula es mostra l'esforç de cada rol per aquesta iteració.
 
 ## 3. ACTIVITATS ##
 
-> Llisteu les activitats de la iteració, juntament amb el temps esperat d'execució. Establiu les precedències entre activitats
 
 Les diferents actvitats de la iteració T1 que estableixen la primera fase del projecte, mostren els següents resultats:
-
-nº|Activitat|Esforç|Temps Esperat
-:---:|:---|:---:|:---:
-1|Desenvolupar el model que tindrà el projecte |10%|
-2|Definir la visió|15%|
-3|Disenyar els casos d'ús i funcionalitats|25%|
-4|Determinar els possibles ricos|20%|
-5|Estimar el temps i calcular pressupost|25%|
-6|Planificar la venda el projecte |5%|
-
->US HO POSSO TEMPORALMENT PER A QUE HO TINGEU:
---------------------------------------------------------------
-Precedencies:
-1 -> 2 ( tot i que es poden solapar una mica)
-Quan 1-> 2 Acabat es poden fer en paralel
-3 i 4 en paralel. 
-
-Quan 3 estigui apunt d'acabar-se pot començar 5
-
-Quan tots estiguin acabats es fa el 6. Tot i que es pot começar una mica abans
-
--------------------------------------------------------------
 
 ### Administració del Projecte ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
-1|Establir el model del projecte|||
-2|Avaluar el projecte i l'abast dels riscos|||
-3|Gestionar Iteració|||
-4|Gestionar el projecte|||
-5|Planejar seguent iteració|||
+1|Establir el model del projecte|11,1%|
+2|Avaluar el projecte i l'abast dels riscos|11,1%|
+3|Gestionar Iteració|33,3%|
+4|Gestionar el projecte|33,3%|
+5|Planejar seguent iteració|11,1%|
 
 ### Model de Negoci ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
-1|Avaluar l'estat de negoci|||
-2|Identificar i refinar els processos de negoci|||
-3|Definir la realització dels processos de negoci|||
-4|Definir rols i responsabilitats|||
+1|Avaluar l'estat de negoci|20%|
+2|Identificar i refinar els processos de negoci|20%|
+3|Definir la realització dels processos de negoci|40%|
+4|Definir rols i responsabilitats|20%|
 
 ### Requisits ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
-1|Analitzar el problema|||
-2|Entendre la necessitat dels Stakeholders|||
-3|Definir i gestionar l'abast del sistema|||
-4|Refinar la definició del sistema|||
-5|Gestionar els canvis de requisits|||
+1|Analitzar el problema|12,5%|
+2|Entendre la necessitat dels Stakeholders|12,5%|
+3|Definir i gestionar l'abast del sistema|12,5|
+4|Refinar la definició del sistema|25%|
+5|Gestionar els canvis de requisits|37,5%|
 
 ### Analisis i Disseny ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
-1|Dur a terme la synthesis estructural|||
-2|Dissenyar casos d'us i funcionalitats|||
+1|Dur a terme la synthesis estructural|40%|
+2|Dissenyar casos d'us i funcionalitats|60%|
 
 ### Entorn ###
 
 nº|Activitat|Esforç|Temps Esperat
 :---|:---|:---:|:---:
-1|Prepara l'entorn del projecte|||
-2|Prepara l'entorn d'iteració|||
-3|Prepara directrius d'iteració|||
-4|Donar suport a l'entorn durant l'iteració|||
+1|Prepara l'entorn del projecte|20%|
+2|Prepara l'entorn d'iteració|20%|
+3|Prepara directrius d'iteració|20%|
+4|Donar suport a l'entorn durant l'iteració|40%|
 
 ## 4. DIAGRAMA DE GANTT ##
 

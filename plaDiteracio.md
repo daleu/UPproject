@@ -1,4 +1,4 @@
-
+﻿
 # BotiguesBCN - PLA D'ITERACIÓ Inception-I1 #
 
 
@@ -100,3 +100,7 @@ nº|Activitat|Esforç|Temps Esperat
 > Feu el diagrama de Gantt amb tota la informació necessària (dates, personal, fites, precedències, ...). Feu també el diagrama de PERT per discernir el temps mínim i màxim d'execució
 
 ![](./imatges/Inception.png)
+
+Diagrama de Pert
+
+![](./imatges/pert.png)

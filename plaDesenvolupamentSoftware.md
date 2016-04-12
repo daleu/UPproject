@@ -174,14 +174,14 @@ El salari net s'obté a partir de la fórmula `Salari en net = Salari en brut - 
 
 #### Llista de costos ####
 
-Llista de costos|Preu|
+Llista de costos|Preu
 :---|:---:|
-Costos del personal|233,068€|
-Cost del lloc de treball|2,800€|
-Cost total del personal|235,868€|
-Despeses estructurals|35,380€|
-Percentatge del marge de benefici|108,499€|
-Percentatge de contingències (Riscos)|37,975€|
+*Costos del personal*|*233,068€*
+*Cost del lloc de treball*|*2,800€*
+**Cost total del personal**|**235,868€**
+Despeses estructurals|35,380€
+Percentatge del marge de benefici|108,499€
+Percentatge de contingències (Riscos)|37,975€
 
 Els costos de personal surten de la suma de tots els salaris de l'equip de treball.
 
@@ -255,16 +255,16 @@ Per tant a partir d'aquest patró d'esforç i temps destinat al projecte ens sur
 
 |Inception|Elaboration|Construction|Transition
 :---:|:---:|:---:|:---:|:---:
-Dies Laborables|5|12|22|10
-Data Límit|8 de Febrer|24 de Febrer|30 de Març|13 d'Abril
-Esforç (hores)|198,8 |497|894,6|397,6
+Dies Laborables|7|16|30|13
+Data Límit|9 de Febrer|2 de Març|18 d'Abril|5 de Maig
+Esforç (hores)|263,63 |659,0|1186,34|527,26
 
 ###3.1.1 Síntesi de les iteracions de cada fase
 
 #### 1.Inception
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
- T1|1 de Febrer|5 de Febrer| 0.1
+ T1|1 de Febrer|9 de Febrer| 0.1
 
 ###### Objectius principals
 1. Establir el model de projecte
@@ -276,7 +276,7 @@ Iteració| DataIni| DataFi |Staff
 #### 2.Elaboration
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-E1|8 de Febrer|16 de Febrer| 0.3
+E1|10 de Febrer|19 de Febrer| 0.3
 
 ###### Objectius principals
 1. Preparació i comprovació de l'entorn de treball
@@ -288,7 +288,7 @@ E1|8 de Febrer|16 de Febrer| 0.3
 
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-E2|17 de Febrer|23 de Febrer| 0.3
+E2|22 de Febrer|2 de Març| 0.3
 
 ###### Objectius principals
 1. Mitigar riscos arquitectònics
@@ -298,7 +298,7 @@ E2|17 de Febrer|23 de Febrer| 0.3
 #### 3.Construction
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C1|24 de Febrer|4 de Març| 0.45
+C1|3 de Març|16 de Març| 0.45
 
 ###### Objectius principals
 1. Descriure casos d'ús addicionals
@@ -307,7 +307,7 @@ C1|24 de Febrer|4 de Març| 0.45
 
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C2|7 de Març|16 de Març| 0.45
+C2|17 de Març|4 d'Abril| 0.45
 
 ###### Objectius principals
 1. Ídem
@@ -315,7 +315,7 @@ C2|7 de Març|16 de Març| 0.45
 
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C3|17 de Març|29 de Març|0.45
+C3|5 d'Abril|18 d'Abril|0.45
 
 ###### Objectius principals
 1. Ídem
@@ -325,7 +325,7 @@ C3|17 de Març|29 de Març|0.45
 #### 4.Transition
 Iteració| DataIni| DataFi |Staff
 :---:|:---:|:---:|:---:|
-C1|30 de Març|12 d'Abril|0.15
+C1|19 d'Abril|5 de Maig|0.15
 
 ###### Objectius principals
 1. Descriure casos d'ús addicionals

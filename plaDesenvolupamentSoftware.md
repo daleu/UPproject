@@ -199,26 +199,25 @@ El pressupost final és la suma de tots els costos, per tant obtenim: `Pressupos
 
 ## 3. PLA DE FASES ##
 
-###3.1 Estats de casos d'ús
-|Casos d'ús|
-|---|
-|1. Log in|
-|2. Veure Newsletter|
-|3. Visualitzar Ruta|
-|4. Consultar rutes temàtiques|
-|5. Compartir ruta visitada|
-|6. Visualitzar Botiga|
-|7. Valorar Botiga|
-|8. Demanar gestions del sistema|
-|9. Afegir botiga|
-|10. Editar Botiga|
-|11. Eliminar Botiga|
-|12. Gestionar notícies|
-|13. Administrar rutes temàtiques|
-|14. Llistar Botigues|
-|15. Fer Auditories|
+### 3.1 Estats de casos d'ús ####
 
+#### Casos d'ús ####
 
+1. Log in
+2. Veure Newsletter
+3. Visualitzar Ruta
+4. Consultar rutes temàtiques
+5. Compartir ruta visitada
+6. Visualitzar Botiga
+7. Valorar Botiga
+8. Demanar gestions del sistema
+9. Afegir botiga
+10. Editar Botiga
+11. Eliminar Botiga
+12. Gestionar notícies
+13. Administrar rutes temàtiques
+14. Llistar Botigues
+15. Fer Auditories
 
 |Num|Inception|Elaboration|Construction|Transition|
 |---|---|---|---|---|
@@ -237,8 +236,6 @@ El pressupost final és la suma de tots els costos, per tant obtenim: `Pressupos
 |13.|Identificat|I, Esbossat|I, E, R, Analitzat|I, E, R, A, Complet|
 |14.|-|Identificat|I, E, R, Analitzat|I, E, R, A, Complet|
 |15.|-|Identificat|I, E, R, Analitzat|I, E, R, A, Complet|
-
-
 
 ###3.1 Informació rellevant
 
